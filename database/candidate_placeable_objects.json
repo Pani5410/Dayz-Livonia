@@ -1,0 +1,61 @@
+{
+  "schema_version": "0.1",
+  "source": "Classnames",
+  "repository": "Pani5410/Dayz-Livonia",
+  "status": "candidate_not_verified",
+  "description": "Initial candidates for objects that can be useful in DayZ Editor/Object Spawner. These are extracted from the current Classnames source; generic/base script classes are intentionally excluded.",
+  "categories": {
+    "shelters": [
+      "TentMedium_Pitched",
+      "TentLarge_Pitched",
+      "TentCar_Pitched",
+      "ImprovisedShelterPitched",
+      "AdvancedImprovisedShelterPitched"
+    ],
+    "fortifications": [
+      "Fence",
+      "Fence_BarbedWire",
+      "Fence_CamoNet",
+      "Fence_Lights"
+    ],
+    "storage": [
+      "SeaChest",
+      "Container_BarrelGreen",
+      "Container_BarrelBlue",
+      "Container_BarrelRed",
+      "Container_BarrelYellow",
+      "Container_Refrigerator",
+      "TrashCan",
+      "Refrigerator_Minsk",
+      "Container_FirstAidKit",
+      "Container_Protector_Small",
+      "Container_CarrierPouches",
+      "Container_AmmoBox300Rnd"
+    ],
+    "power_and_equipment": [
+      "Spotlight",
+      "PowerGenerator",
+      "CableReel",
+      "BatteryCharger",
+      "FoldedSpotlight"
+    ],
+    "camp_and_defence": [
+      "EN5C_Watchtower",
+      "EN5C_Fence",
+      "EN5C_BarbedWire",
+      "EN5C_CamoNet",
+      "EN5C_SeaChest",
+      "EN5C_Spotlight",
+      "EN5C_FenceLight",
+      "EN5C_PowerGenerator",
+      "EN5C_CableReel",
+      "EN5C_BatteryCharger",
+      "EN5C_HescoBox"
+    ]
+  },
+  "verification": {
+    "verified_from_dayz_editor_export": false,
+    "verified_from_cfgvehicles": false,
+    "next_required_source": "A DayZ Editor export JSON from Livonia or the relevant mod/game CfgVehicles/config.cpp files"
+  }
+}
