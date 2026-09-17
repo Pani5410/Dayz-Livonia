@@ -1,0 +1,6885 @@
+[{
+	"class": "DZ_LightAI"
+}, {
+	"class": "HouseNoDestruct"
+}, {
+	"class": "InventoryBase"
+}, {
+	"class": "ContainerBase"
+}, {
+	"class": "FixedContainer"
+}, {
+	"class": "AttachmentBase"
+}, {
+	"class": "InventoryItemBase"
+}, {
+	"class": "BottleBase"
+}, {
+	"class": "ClothingBase"
+}, {
+	"class": "BagBase"
+}, {
+	"class": "EyeWearBase"
+}, {
+	"class": "HeadgearBase"
+}, {
+	"class": "MaskBase"
+}, {
+	"class": "TopWearBase"
+}, {
+	"class": "BottomWearBase"
+}, {
+	"class": "FootwearBase"
+}, {
+	"class": "VestBase"
+}, {
+	"class": "GlovesBase"
+}, {
+	"class": "EN5C_Inventory_Base"
+}, {
+	"class": "EN5C_Container_Base"
+}, {
+	"class": "EN5C_WorldContainer_Base"
+}, {
+	"class": "EN5C_Powered_Base"
+}, {
+	"class": "EN5C_EnergyItem_Base"
+}, {
+	"class": "EN5C_Edible_Base"
+}, {
+	"class": "EN5C_Tearable_Base"
+}, {
+	"class": "EN5C_Trap_Base"
+}, {
+	"class": "EN5C_Grenade_Base"
+}, {
+	"class": "EN5C_Book_Base"
+}, {
+	"class": "EN5C_FishingRod_Base"
+}, {
+	"class": "EN5C_Clothing_Base"
+}, {
+	"class": "EN5C_Switchable_Base"
+}, {
+	"class": "EN5C_Bottle_Base"
+}, {
+	"class": "Cutree"
+}, {
+	"class": "CutreeProxy"
+}, {
+	"class": "TentMedium_Packed"
+}, {
+	"class": "TentMedium_Pitched"
+}, {
+	"class": "TentLarge_Pitched"
+}, {
+	"class": "TentLarge_Backpack"
+}, {
+	"class": "TentCar_Packed"
+}, {
+	"class": "TentCar_Pitched"
+}, {
+	"class": "ImprovisedShelterPitched"
+}, {
+	"class": "AdvancedImprovisedShelterPitched"
+}, {
+	"class": "Fence"
+}, {
+	"class": "Fence_BarbedWire"
+}, {
+	"class": "Fence_CamoNet"
+}, {
+	"class": "Fence_Lights"
+}, {
+	"class": "SeaChest"
+}, {
+	"class": "FoldedSpotlight"
+}, {
+	"class": "PoweredItemBase"
+}, {
+	"class": "Spotlight"
+}, {
+	"class": "FridgeTest"
+}, {
+	"class": "PowerGenerator"
+}, {
+	"class": "CableReel"
+}, {
+	"class": "BatteryCharger"
+}, {
+	"class": "EN5C_MediumTent"
+}, {
+	"class": "EN5C_LargeTent"
+}, {
+	"class": "EN5C_CarTent"
+}, {
+	"class": "EN5C_PartyTent"
+}, {
+	"class": "EN5C_ImprovisedShelterPitched"
+}, {
+	"class": "EN5C_AdvancedImprovisedShelterPitched"
+}, {
+	"class": "EN5C_CamoNetShelter"
+}, {
+	"class": "EN5C_Watchtower"
+}, {
+	"class": "EN5C_Fence"
+}, {
+	"class": "EN5C_BarbedWire"
+}, {
+	"class": "EN5C_CamoNet"
+}, {
+	"class": "EN5C_SeaChest"
+}, {
+	"class": "EN5C_Spotlight"
+}, {
+	"class": "EN5C_FenceLight"
+}, {
+	"class": "EN5C_Refridgerator"
+}, {
+	"class": "EN5C_PowerGenerator"
+}, {
+	"class": "EN5C_CableReel"
+}, {
+	"class": "EN5C_BatteryCharger"
+}, {
+	"class": "EN5C_HescoBox"
+}, {
+	"class": "Container_BarrelBase"
+}, {
+	"class": "Container_BarrelGreen"
+}, {
+	"class": "Container_BarrelBlue"
+}, {
+	"class": "Container_BarrelRed"
+}, {
+	"class": "Container_BarrelYellow"
+}, {
+	"class": "Container_Refrigerator"
+}, {
+	"class": "TrashCan"
+}, {
+	"class": "Refrigerator_Minsk"
+}, {
+	"class": "Container_FirstAidKit"
+}, {
+	"class": "Container_Protector_Small"
+}, {
+	"class": "Container_CarrierPouches"
+}, {
+	"class": "Container_AmmoBox300Rnd"
+}, {
+	"class": "Container_BearBase"
+}, {
+	"class": "Container_Bear"
+}, {
+	"class": "Container_BearDark"
+}, {
+	"class": "Container_BearPink"
+}, {
+	"class": "Container_BearWhite"
+}, {
+	"class": "Container_WaterproofBagBase"
+}, {
+	"class": "Container_WaterproofBagYellow"
+}, {
+	"class": "Container_WaterproofBagGreen"
+}, {
+	"class": "Container_WaterproofBagOrange"
+}, {
+	"class": "EN5C_Barrel_ColorBase"
+}, {
+	"class": "EN5C_Barrel_Green"
+}, {
+	"class": "EN5C_Barrel_Blue"
+}, {
+	"class": "EN5C_Barrel_Red"
+}, {
+	"class": "EN5C_Barrel_Yellow"
+}, {
+	"class": "EN5C_Refrigerator"
+}, {
+	"class": "EN5C_RefrigeratorMinsk"
+}, {
+	"class": "EN5C_TrashCan"
+}, {
+	"class": "EN5C_FirstAidKit"
+}, {
+	"class": "EN5C_SmallProtectorCase"
+}, {
+	"class": "EN5C_CarrierPouches"
+}, {
+	"class": "EN5C_AmmoBox"
+}, {
+	"class": "EN5C_Bear_ColorBase"
+}, {
+	"class": "EN5C_Bear_Beige"
+}, {
+	"class": "EN5C_Bear_Dark"
+}, {
+	"class": "EN5C_Bear_Pink"
+}, {
+	"class": "EN5C_Bear_White"
+}, {
+	"class": "EN5C_WaterproofBag_ColorBase"
+}, {
+	"class": "EN5C_WaterproofBag_Yellow"
+}, {
+	"class": "EN5C_WaterproofBag_Green"
+}, {
+	"class": "EN5C_WaterproofBag_Orange"
+}, {
+	"class": "CraftingItemBase"
+}, {
+	"class": "Crafting_BurlapSack"
+}, {
+	"class": "Crafting_Rope"
+}, {
+	"class": "Crafting_ImprovisedRope"
+}, {
+	"class": "Crafting_MetalWire"
+}, {
+	"class": "Crafting_WoodenStick"
+}, {
+	"class": "Crafting_Torch"
+}, {
+	"class": "Crafting_ChickenFeather"
+}, {
+	"class": "Crafting_LongWoodenStick"
+}, {
+	"class": "Crafting_RabbitSnare"
+}, {
+	"class": "Crafting_SmallFishTrap"
+}, {
+	"class": "SnareTrapDeployed"
+}, {
+	"class": "SnareTrapUsed"
+}, {
+	"class": "GorkaHelmet_visor"
+}, {
+	"class": "Crafting_HandDrillKit"
+}, {
+	"class": "Crafting_Spear"
+}, {
+	"class": "EN5C_BurlapSack"
+}, {
+	"class": "EN5C_Rope"
+}, {
+	"class": "EN5C_ImprovisedRope"
+}, {
+	"class": "EN5C_MetalWire"
+}, {
+	"class": "EN5C_WoodenStick"
+}, {
+	"class": "EN5C_Torch"
+}, {
+	"class": "EN5C_ChickenFeather"
+}, {
+	"class": "EN5C_LongWoodenStick"
+}, {
+	"class": "EN5C_GorkaHelmetVisor"
+}, {
+	"class": "EN5C_HandDrillKit"
+}, {
+	"class": "EN5C_Spear"
+}, {
+	"class": "SeedPackBase"
+}, {
+	"class": "SeedItemBase"
+}, {
+	"class": "Cultivation_TomatoSeedsPack"
+}, {
+	"class": "Cultivation_TomatoSeeds"
+}, {
+	"class": "Cultivation_PepperSeedsPack"
+}, {
+	"class": "Cultivation_PepperSeeds"
+}, {
+	"class": "Cultivation_PumpkinSeedsPack"
+}, {
+	"class": "Cultivation_PumpkinSeeds"
+}, {
+	"class": "Cultivation_ZucchiniSeedsPack"
+}, {
+	"class": "Cultivation_ZucchiniSeeds"
+}, {
+	"class": "Cultivation_CannabisSeedsPack"
+}, {
+	"class": "Cultivation_CannabisSeeds"
+}, {
+	"class": "Consumable_PlantMaterial"
+}, {
+	"class": "Cultivation_AntiPestsSpray"
+}, {
+	"class": "EN5C_TomatoSeedsPack"
+}, {
+	"class": "EN5C_TomatoSeeds"
+}, {
+	"class": "EN5C_PepperSeedsPack"
+}, {
+	"class": "EN5C_PepperSeeds"
+}, {
+	"class": "EN5C_PumpkinSeedsPack"
+}, {
+	"class": "EN5C_PumpkinSeeds"
+}, {
+	"class": "EN5C_ZucchiniSeedsPack"
+}, {
+	"class": "EN5C_ZucchiniSeeds"
+}, {
+	"class": "EN5C_CannabisSeedsPack"
+}, {
+	"class": "EN5C_CannabisSeeds"
+}, {
+	"class": "EN5C_PlantMaterial"
+}, {
+	"class": "EN5C_AntiPestsSpray"
+}, {
+	"class": "DrinksItemBase"
+}, {
+	"class": "RiverWater"
+}, {
+	"class": "WellWater"
+}, {
+	"class": "SodaBase"
+}, {
+	"class": "Drink_Canteen"
+}, {
+	"class": "Drink_WaterBottle"
+}, {
+	"class": "Drink_Vodka"
+}, {
+	"class": "Drink_WaterPouchBase"
+}, {
+	"class": "Drink_WaterPouch_Natural"
+}, {
+	"class": "Drink_SodaCanPipsi"
+}, {
+	"class": "Drink_SodaCanCola"
+}, {
+	"class": "Drink_SodaCanSpite"
+}, {
+	"class": "Drink_SodaCanKvass"
+}, {
+	"class": "Drink_SodaCanEmpty"
+}, {
+	"class": "EN5C_RiverWater"
+}, {
+	"class": "EN5C_WellWater"
+}, {
+	"class": "EN5C_Canteen"
+}, {
+	"class": "EN5C_WaterBottle"
+}, {
+	"class": "EN5C_Vodka"
+}, {
+	"class": "EN5C_WaterPouch_ColorBase"
+}, {
+	"class": "EN5C_WaterPouch_Natural"
+}, {
+	"class": "EN5C_SodaCan_ColorBase"
+}, {
+	"class": "EN5C_SodaCan_Pipsi"
+}, {
+	"class": "EN5C_SodaCan_Cola"
+}, {
+	"class": "EN5C_SodaCan_Spite"
+}, {
+	"class": "EN5C_SodaCan_Kvass"
+}, {
+	"class": "EN5C_SodaCan_Empty"
+}, {
+	"class": "FoodItemBase"
+}, {
+	"class": "BoxCerealBase"
+}, {
+	"class": "Food_BoxCerealCrunchin"
+}, {
+	"class": "Food_PowderedMilk"
+}, {
+	"class": "Food_SmallGuts"
+}, {
+	"class": "Food_Guts"
+}, {
+	"class": "Food_Rice"
+}, {
+	"class": "Food_Marmalade"
+}, {
+	"class": "IngredientBase"
+}, {
+	"class": "EN5C_BoxCerealCrunchin"
+}, {
+	"class": "EN5C_PowderedMilk"
+}, {
+	"class": "EN5C_SmallGuts"
+}, {
+	"class": "EN5C_Guts"
+}, {
+	"class": "EN5C_Rice"
+}, {
+	"class": "EN5C_Marmalade"
+}, {
+	"class": "FoodCanned"
+}, {
+	"class": "FoodCanned_Closed"
+}, {
+	"class": "Food_CanBakedBeans"
+}, {
+	"class": "Food_CanBakedBeans_Open"
+}, {
+	"class": "Food_CanPeaches"
+}, {
+	"class": "Food_CanPeaches_Open"
+}, {
+	"class": "Food_CanTacticalBacon"
+}, {
+	"class": "Food_CanTacticalBacon_Open"
+}, {
+	"class": "Food_CanSpaghetti"
+}, {
+	"class": "Food_CanSpaghetti_Open"
+}, {
+	"class": "Food_CanSardines"
+}, {
+	"class": "Food_CanSardines_Open"
+}, {
+	"class": "Food_CanTuna_Open"
+}, {
+	"class": "Food_CanTuna"
+}, {
+	"class": "EN5C_BakedBeansCan"
+}, {
+	"class": "EN5C_BakedBeansCan_Opened"
+}, {
+	"class": "EN5C_PeachesCan"
+}, {
+	"class": "EN5C_PeachesCan_Opened"
+}, {
+	"class": "EN5C_TacticalBaconCan"
+}, {
+	"class": "EN5C_TacticalBaconCan_Opened"
+}, {
+	"class": "EN5C_SpaghettiCan"
+}, {
+	"class": "EN5C_SpaghettiCan_Opened"
+}, {
+	"class": "EN5C_SardinesCan"
+}, {
+	"class": "EN5C_SardinesCan_Opened"
+}, {
+	"class": "EN5C_TunaCan"
+}, {
+	"class": "EN5C_TunaCan_Opened"
+}, {
+	"class": "FruitBase"
+}, {
+	"class": "Fruit_Apple"
+}, {
+	"class": "Fruit_Banana"
+}, {
+	"class": "Fruit_Orange"
+}, {
+	"class": "Fruit_Tomato"
+}, {
+	"class": "Fruit_GreenBellPepper"
+}, {
+	"class": "Fruit_Zucchini"
+}, {
+	"class": "Fruit_Pumpkin"
+}, {
+	"class": "Fruit_PumpkinSliced"
+}, {
+	"class": "Fruit_Potato"
+}, {
+	"class": "Fruit_Kiwi"
+}, {
+	"class": "Fruit_SambucusBerry"
+}, {
+	"class": "Fruit_CaninaBerry"
+}, {
+	"class": "Fruit_Cannabis"
+}, {
+	"class": "Fruit_Plum"
+}, {
+	"class": "Fruit_Pear"
+}, {
+	"class": "EN5C_Apple"
+}, {
+	"class": "EN5C_Banana"
+}, {
+	"class": "EN5C_Orange"
+}, {
+	"class": "EN5C_Tomato"
+}, {
+	"class": "EN5C_GreenBellPepper"
+}, {
+	"class": "EN5C_Zucchini"
+}, {
+	"class": "EN5C_Pumpkin"
+}, {
+	"class": "EN5C_SlicedPumpkin"
+}, {
+	"class": "EN5C_Potato"
+}, {
+	"class": "EN5C_Kiwi"
+}, {
+	"class": "EN5C_SambucusBerry"
+}, {
+	"class": "EN5C_CaninaBerry"
+}, {
+	"class": "EN5C_Cannabis"
+}, {
+	"class": "EN5C_Plum"
+}, {
+	"class": "EN5C_Pear"
+}, {
+	"class": "MeatBase"
+}, {
+	"class": "MeatSteakBase"
+}, {
+	"class": "MeatBreastBase"
+}, {
+	"class": "MeatLegBase"
+}, {
+	"class": "MeatFilletBase"
+}, {
+	"class": "Meat_HumanSteak"
+}, {
+	"class": "Meat_GoatSteak"
+}, {
+	"class": "Meat_MouflonSteak"
+}, {
+	"class": "Meat_BoarSteak"
+}, {
+	"class": "Meat_PigSteak"
+}, {
+	"class": "Meat_DeerSteak"
+}, {
+	"class": "Meat_WolfSteak"
+}, {
+	"class": "Meat_BearSteak"
+}, {
+	"class": "Meat_CowSteak"
+}, {
+	"class": "Meat_SheepSteak"
+}, {
+	"class": "Meat_FoxSteak"
+}, {
+	"class": "Meat_ChickenBreast"
+}, {
+	"class": "Meat_RabbitLeg"
+}, {
+	"class": "Meat_CarpFillet"
+}, {
+	"class": "Meat_MackerelFillet"
+}, {
+	"class": "Food_Lard"
+}, {
+	"class": "EN5C_HumanSteakMeat"
+}, {
+	"class": "EN5C_GoatSteakMeat"
+}, {
+	"class": "EN5C_MouflonSteakMeat"
+}, {
+	"class": "EN5C_BoarSteakMeat"
+}, {
+	"class": "EN5C_PigSteakMeat"
+}, {
+	"class": "EN5C_DeerSteakMeat"
+}, {
+	"class": "EN5C_WolfSteakMeat"
+}, {
+	"class": "EN5C_BearSteakMeat"
+}, {
+	"class": "EN5C_CowSteakMeat"
+}, {
+	"class": "EN5C_SheepSteakMeat"
+}, {
+	"class": "EN5C_FoxSteakMeat"
+}, {
+	"class": "EN5C_ChickenBreastMeat"
+}, {
+	"class": "EN5C_RabbitLegMeat"
+}, {
+	"class": "EN5C_CarpFilletMeat"
+}, {
+	"class": "EN5C_MackerelFilletMeat"
+}, {
+	"class": "EN5C_Lard"
+}, {
+	"class": "AnimalCorpseBase"
+}, {
+	"class": "FishCorpseBase"
+}, {
+	"class": "Food_Carp"
+}, {
+	"class": "Food_Sardines"
+}, {
+	"class": "Food_Mackerel"
+}, {
+	"class": "Food_Worm"
+}, {
+	"class": "EN5C_Carp"
+}, {
+	"class": "EN5C_Sardines"
+}, {
+	"class": "EN5C_Mackerel"
+}, {
+	"class": "EN5C_Worm"
+}, {
+	"class": "MushroomBase"
+}, {
+	"class": "Mushroom_Agaricus"
+}, {
+	"class": "Mushroom_Amanita"
+}, {
+	"class": "Mushroom_Macrolepiota"
+}, {
+	"class": "Mushroom_Lactarius"
+}, {
+	"class": "Mushroom_Psilocybe"
+}, {
+	"class": "Mushroom_Auricularia"
+}, {
+	"class": "EN5C_AgaricusMushroom"
+}, {
+	"class": "EN5C_AmanitaMushroom"
+}, {
+	"class": "EN5C_MacrolepiotaMushroom"
+}, {
+	"class": "EN5C_LactariusMushroom"
+}, {
+	"class": "EN5C_PsilocybeMushroom"
+}, {
+	"class": "EN5C_AuriculariaMushroom"
+}, {
+	"class": "MedicalItemBase"
+}, {
+	"class": "Medical_BandageBase"
+}, {
+	"class": "Medical_Bandage"
+}, {
+	"class": "Medical_BandageDressing"
+}, {
+	"class": "Medical_DisinfectantSpray"
+}, {
+	"class": "Medical_DisinfectantAlcohol"
+}, {
+	"class": "Medical_PurificationTablets"
+}, {
+	"class": "Medical_CharcoalTablets"
+}, {
+	"class": "Medical_PainkillerTablets"
+}, {
+	"class": "Medical_VitaminBottle"
+}, {
+	"class": "Medical_TetracyclineAntibiotics"
+}, {
+	"class": "Medical_Epinephrine"
+}, {
+	"class": "Medical_Morphine"
+}, {
+	"class": "Medical_Syringe"
+}, {
+	"class": "SyringeBase"
+}, {
+	"class": "Medical_SyringeClear"
+}, {
+	"class": "Medical_SyringeBlood"
+}, {
+	"class": "Medical_InjectionVial"
+}, {
+	"class": "BloodBase"
+}, {
+	"class": "Medical_SalineBag"
+}, {
+	"class": "Medical_StartKit"
+}, {
+	"class": "Medical_TransfusionKit"
+}, {
+	"class": "Medical_BloodBag_Empty"
+}, {
+	"class": "Medical_BloodBag_Full"
+}, {
+	"class": "Medical_BloodBag_IV"
+}, {
+	"class": "Medical_BloodTest_Kit"
+}, {
+	"class": "Medical_Splint"
+}, {
+	"class": "Medical_Thermometer"
+}, {
+	"class": "Medical_Defibrillator"
+}, {
+	"class": "Medical_CigarettePack_Base"
+}, {
+	"class": "Medical_CigarettePack_Chernamorka"
+}, {
+	"class": "Medical_CigarettePack_Merkur"
+}, {
+	"class": "Medical_CigarettePack_Partyzanka"
+}, {
+	"class": "EN5C_BandageDressing"
+}, {
+	"class": "EN5C_DisinfectantSpray"
+}, {
+	"class": "EN5C_DisinfectantAlcohol"
+}, {
+	"class": "EN5C_PurificationTablets"
+}, {
+	"class": "EN5C_CharcoalTablets"
+}, {
+	"class": "EN5C_PainkillerTablets"
+}, {
+	"class": "EN5C_VitaminBottle"
+}, {
+	"class": "EN5C_TetracyclineAntibiotics"
+}, {
+	"class": "EN5C_Epinephrine"
+}, {
+	"class": "EN5C_Morphine"
+}, {
+	"class": "EN5C_Syringe"
+}, {
+	"class": "EN5C_ClearSyringe"
+}, {
+	"class": "EN5C_BloodSyringe"
+}, {
+	"class": "EN5C_InjectionVial"
+}, {
+	"class": "EN5C_SalineBag"
+}, {
+	"class": "EN5C_StartKit"
+}, {
+	"class": "EN5C_TransfusionKit"
+}, {
+	"class": "EN5C_BloodBagEmpty"
+}, {
+	"class": "EN5C_BloodBagFull"
+}, {
+	"class": "EN5C_BloodBagIV"
+}, {
+	"class": "EN5C_BloodTestKit"
+}, {
+	"class": "EN5C_Splint"
+}, {
+	"class": "EN5C_Thermometer"
+}, {
+	"class": "EN5C_Defibrillator"
+}, {
+	"class": "EN5C_CigarettePack_ColorBase"
+}, {
+	"class": "EN5C_CigarettePack_Chernamorka"
+}, {
+	"class": "EN5C_CigarettePack_Merkur"
+}, {
+	"class": "EN5C_CigarettePack_Partyzanka"
+}, {
+	"class": "MapBase"
+}, {
+	"class": "Map_Chernarus"
+}, {
+	"class": "Map_1stperson"
+}, {
+	"class": "CompassBase"
+}, {
+	"class": "Compass"
+}, {
+	"class": "OrienteeringCompass"
+}, {
+	"class": "EN5C_ChernarusMap"
+}, {
+	"class": "EN5C_Compass"
+}, {
+	"class": "EN5C_OrienteeringCompass"
+}, {
+	"class": "PersonalRadio"
+}, {
+	"class": "BaseRadio"
+}, {
+	"class": "StaticRadio"
+}, {
+	"class": "Megaphone"
+}, {
+	"class": "EN5C_Transmitter_Base"
+}, {
+	"class": "EN5C_PersonalRadio"
+}, {
+	"class": "EN5C_BaseRadio"
+}, {
+	"class": "EN5C_StaticRadio"
+}, {
+	"class": "Land_control_panel_big"
+}, {
+	"class": "EN5C_Megaphone"
+}, {
+	"class": "EN5C_PAS_Broadcaster"
+}, {
+	"class": "Land_control_panel"
+}, {
+	"class": "EN5C_Radio"
+}, {
+	"class": "EN5C_CarBattery"
+}, {
+	"class": "TrapBase"
+}, {
+	"class": "Trap_Bear"
+}, {
+	"class": "Trap_LandMine"
+}, {
+	"class": "Trap_SmallFish"
+}, {
+	"class": "Trap_FishNet"
+}, {
+	"class": "Trap_TripWire"
+}, {
+	"class": "Trap_RabbitSnare"
+}, {
+	"class": "EN5C_BearTrap"
+}, {
+	"class": "EN5C_LandMine"
+}, {
+	"class": "EN5C_SmallFishTrap"
+}, {
+	"class": "EN5C_FishNetTrap"
+}, {
+	"class": "EN5C_TripwireTrap"
+}, {
+	"class": "EN5C_RabbitSnareTrap"
+}, {
+	"class": "TrashItemBase"
+}, {
+	"class": "EmptySodaBase"
+}, {
+	"class": "TrashItem_SodaZlutaKlasik"
+}, {
+	"class": "TrashItem_SodaZlutaKolaloka"
+}, {
+	"class": "TrashItem_SodaZlutaMalinovka"
+}, {
+	"class": "TrashItem_TeddyBear"
+}, {
+	"class": "WeaponItemBase"
+}, {
+	"class": "Land_houpacka"
+}, {
+	"class": "Land_Piskoviste"
+}, {
+	"class": "Land_sekyraspalek"
+}, {
+	"class": "Land_jezekbeton"
+}, {
+	"class": "Land_fuel_tank_small"
+}, {
+	"class": "Land_Fuel_tank_big"
+}, {
+	"class": "Land_Fuel_tank_stairs"
+}, {
+	"class": "Land_water_tank"
+}, {
+	"class": "Land_sloup_vn"
+}, {
+	"class": "Land_sloup_vn_dratZ"
+}, {
+	"class": "Land_sloup_vn_drat"
+}, {
+	"class": "Land_sloup_vn_drat_d"
+}, {
+	"class": "Land_CampfireNew"
+}, {
+	"class": "Land_Fort_EnvelopeSmall"
+}, {
+	"class": "Land_Fort_EnvelopeBig"
+}, {
+	"class": "Land_seno_balik"
+}, {
+	"class": "Land_sunshade"
+}, {
+	"class": "Land_ladder"
+}, {
+	"class": "Land_ladder_half"
+}, {
+	"class": "PlantBase"
+}, {
+	"class": "DiggedSoil"
+}, {
+	"class": "GardenPlot"
+}, {
+	"class": "Plant_Tomato"
+}, {
+	"class": "Plant_Pepper"
+}, {
+	"class": "Plant_Potato"
+}, {
+	"class": "Plant_Pumpkin"
+}, {
+	"class": "Plant_Zucchini"
+}, {
+	"class": "Plant_Cannabis"
+}, {
+	"class": "EN5C_PlantBase"
+}, {
+	"class": "EN5C_GardenPlot"
+}, {
+	"class": "EN5C_Greenhouse"
+}, {
+	"class": "EN5C_Plant_Tomato"
+}, {
+	"class": "EN5C_Plant_Pepper"
+}, {
+	"class": "EN5C_Plant_Potato"
+}, {
+	"class": "EN5C_Plant_Pumpkin"
+}, {
+	"class": "EN5C_Plant_Zucchini"
+}, {
+	"class": "EN5C_Plant_Cannabis"
+}, {
+	"class": "ChristmasTree"
+}, {
+	"class": "TruckBattery"
+}, {
+	"class": "CarBattery"
+}, {
+	"class": "TruckExhaust"
+}, {
+	"class": "EngineBelt"
+}, {
+	"class": "BrakeFluid"
+}, {
+	"class": "EngineOil"
+}, {
+	"class": "CarRadiator"
+}, {
+	"class": "TruckRadiator"
+}, {
+	"class": "TireRepairKit"
+}, {
+	"class": "HeadlightH7"
+}, {
+	"class": "HeadlightH7_Box"
+}, {
+	"class": "WindscreenBox"
+}, {
+	"class": "CanisterGasoline"
+}, {
+	"class": "GlowPlug"
+}, {
+	"class": "SparkPlug"
+}, {
+	"class": "Car_DZ"
+}, {
+	"class": "V3SWheel"
+}, {
+	"class": "V3SWheel_Ruined"
+}, {
+	"class": "V3SWheelDouble"
+}, {
+	"class": "V3SWheelDouble_Ruined"
+}, {
+	"class": "V3SDoors_Driver"
+}, {
+	"class": "V3SDoors_CoDriver"
+}, {
+	"class": "V3SDoors_Driver_Orange"
+}, {
+	"class": "V3SDoors_CoDriver_Orange"
+}, {
+	"class": "V3SDoors_Driver_Blue"
+}, {
+	"class": "V3SDoors_CoDriver_Blue"
+}, {
+	"class": "V3SDoors_Driver_Grey"
+}, {
+	"class": "V3SDoors_CoDriver_Grey"
+}, {
+	"class": "V3SHood"
+}, {
+	"class": "V3SHood_Orange"
+}, {
+	"class": "V3SHood_Blue"
+}, {
+	"class": "V3SHood_Grey"
+}, {
+	"class": "V3S_Chassis"
+}, {
+	"class": "V3S_Chassis_Blue"
+}, {
+	"class": "V3S_Chassis_Orange"
+}, {
+	"class": "V3S_Chassis_Grey"
+}, {
+	"class": "V3S_ChassisManual"
+}, {
+	"class": "V3S_Cargo"
+}, {
+	"class": "V3S_Cargo_Blue"
+}, {
+	"class": "V3S_Cargo_Orange"
+}, {
+	"class": "V3S_Cargo_Grey"
+}, {
+	"class": "TransitBusWheel"
+}, {
+	"class": "TransitBusWheel_Ruined"
+}, {
+	"class": "TransitBusWheelDouble"
+}, {
+	"class": "TransitBusWheelDouble_Ruined"
+}, {
+	"class": "BusDoors_Left"
+}, {
+	"class": "BusDoors_Right"
+}, {
+	"class": "BusHood"
+}, {
+	"class": "TransitBus"
+}, {
+	"class": "CivSedanWheel"
+}, {
+	"class": "CivSedanWheel_Ruined"
+}, {
+	"class": "CivSedanDoors_Driver"
+}, {
+	"class": "CivSedanDoors_CoDriver"
+}, {
+	"class": "CivSedanDoors_BackLeft"
+}, {
+	"class": "CivSedanDoors_BackRight"
+}, {
+	"class": "CivSedanHood"
+}, {
+	"class": "CivSedanTrunk"
+}, {
+	"class": "CivilianSedan"
+}, {
+	"class": "CivilianVan"
+}, {
+	"class": "HatchbackWheel"
+}, {
+	"class": "HatchbackWheel_Ruined"
+}, {
+	"class": "HatchbackDoors_Driver"
+}, {
+	"class": "HatchbackDoors_CoDriver"
+}, {
+	"class": "HatchbackHood"
+}, {
+	"class": "HatchbackTrunk"
+}, {
+	"class": "OffroadHatchback"
+}, {
+	"class": "EnduroBike"
+}, {
+	"class": "Wreck_Base"
+}, {
+	"class": "Land_bmp2_wrecked"
+}, {
+	"class": "Land_BRDM2_wrecked"
+}, {
+	"class": "Land_bvp1T"
+}, {
+	"class": "Land_datsun01T"
+}, {
+	"class": "Land_datsun01T_spodok"
+}, {
+	"class": "Land_datsun02T"
+}, {
+	"class": "Land_hiluxT"
+}, {
+	"class": "Land_HMMWV_wrecked"
+}, {
+	"class": "Land_Skodovka_wrecked"
+}, {
+	"class": "Land_T72_Wrecked"
+}, {
+	"class": "Land_t72_wrecked_turret"
+}, {
+	"class": "Land_uaz_wrecked"
+}, {
+	"class": "Land_ural_wrecked"
+}, {
+	"class": "Land_Ikarus_Dayz"
+}, {
+	"class": "Land_Ikarus_ground_Dayz"
+}, {
+	"class": "Land_Lada_DayZ"
+}, {
+	"class": "Land_Lada_red_DayZ"
+}, {
+	"class": "Land_Lada_ground_DayZ"
+}, {
+	"class": "Land_S1023_ground_DayZ"
+}, {
+	"class": "Land_s1203_DayZ"
+}, {
+	"class": "Land_s1203_baige_DayZ"
+}, {
+	"class": "Land_Volha_DayZ"
+}, {
+	"class": "Land_Volha_grey_DayZ"
+}, {
+	"class": "Land_Volha_ground_DayZ"
+}, {
+	"class": "Land_Volha_police_DayZ"
+}, {
+	"class": "Land_Mi8_Crashed"
+}, {
+	"class": "Land_UH1Y_Wreck"
+}, {
+	"class": "Land_V3S_wreck"
+}, {
+	"class": "WeaponLightBase"
+}, {
+	"class": "Att_Light_Universal"
+}, {
+	"class": "Att_Light_TLR"
+}, {
+	"class": "EN5C_UniversalLight"
+}, {
+	"class": "EN5C_TLRLight"
+}, {
+	"class": "BayonetBase"
+}, {
+	"class": "Att_Bayonet_AK"
+}, {
+	"class": "Att_Bayonet_M9A1"
+}, {
+	"class": "Att_Bayonet_Mosin"
+}, {
+	"class": "Att_Bayonet_SKS"
+}, {
+	"class": "CompensatorBase"
+}, {
+	"class": "Att_Compensator_Mosin"
+}, {
+	"class": "Att_Compensator_MP5"
+}, {
+	"class": "SuppressorBase"
+}, {
+	"class": "Att_Suppressor_Improvised"
+}, {
+	"class": "Att_Suppressor_M4"
+}, {
+	"class": "Att_Suppressor_AK"
+}, {
+	"class": "Att_Suppressor_Pistol"
+}, {
+	"class": "EN5C_AK_Bayonet"
+}, {
+	"class": "EN5C_M9A1_Bayonet"
+}, {
+	"class": "EN5C_Mosin_Bayonet"
+}, {
+	"class": "EN5C_SKS_Bayonet"
+}, {
+	"class": "EN5C_Mosin_Compensator"
+}, {
+	"class": "EN5C_MP5_Compensator"
+}, {
+	"class": "EN5C_ImprovisedSuppressor"
+}, {
+	"class": "EN5C_M4_Suppressor"
+}, {
+	"class": "EN5C_AK_Suppressor"
+}, {
+	"class": "EN5C_PistolSuppressor"
+}, {
+	"class": "OpticBase"
+}, {
+	"class": "Att_Optic_M4CarryHandle"
+}, {
+	"class": "Att_Optic_BUIS"
+}, {
+	"class": "PoweredOpticBase"
+}, {
+	"class": "Att_Optic_M68"
+}, {
+	"class": "Att_Optic_M4T3NRDS"
+}, {
+	"class": "Att_Optic_FNP45_MRD"
+}, {
+	"class": "Att_Optic_Redpoint"
+}, {
+	"class": "Att_Optic_Reflex"
+}, {
+	"class": "Att_Optic_ACOG"
+}, {
+	"class": "Att_Optic_PUScope"
+}, {
+	"class": "Att_Optic_Kashtan"
+}, {
+	"class": "Optic2dBase"
+}, {
+	"class": "Att_Optic_Longrange"
+}, {
+	"class": "Att_Optic_Hunting"
+}, {
+	"class": "Att_Optic_Pistol"
+}, {
+	"class": "Att_Optic_PSO1"
+}, {
+	"class": "Att_Optic_PSO11"
+}, {
+	"class": "EN5C_M4_CarryHandleOptic"
+}, {
+	"class": "EN5C_BUISOptic"
+}, {
+	"class": "EN5C_M68Optic"
+}, {
+	"class": "EN5C_M4_T3NRDSOptic"
+}, {
+	"class": "EN5C_FNP45_MRDOptic"
+}, {
+	"class": "EN5C_Crossbow_RedpointOptic"
+}, {
+	"class": "EN5C_ACOGOptic"
+}, {
+	"class": "EN5C_PUScopeOptic"
+}, {
+	"class": "EN5C_KashtanOptic"
+}, {
+	"class": "EN5C_LongrangeOptic"
+}, {
+	"class": "EN5C_HuntingOptic"
+}, {
+	"class": "EN5C_PistolOptic"
+}, {
+	"class": "EN5C_PSO1Optic"
+}, {
+	"class": "EN5C_PSO11Optic"
+}, {
+	"class": "ButtstockBase"
+}, {
+	"class": "HandguardBase"
+}, {
+	"class": "Att_Buttstock_M4OE"
+}, {
+	"class": "Att_Buttstock_M4OE_Green"
+}, {
+	"class": "Att_Buttstock_M4OE_Black"
+}, {
+	"class": "Att_Buttstock_M4MP"
+}, {
+	"class": "Att_Buttstock_M4MP_Green"
+}, {
+	"class": "Att_Buttstock_M4MP_Black"
+}, {
+	"class": "Att_Buttstock_M4CQB"
+}, {
+	"class": "Att_Buttstock_M4CQB_Green"
+}, {
+	"class": "Att_Buttstock_M4CQB_Black"
+}, {
+	"class": "Att_Buttstock_AK_Wood"
+}, {
+	"class": "Att_Buttstock_AK_Wood_Black"
+}, {
+	"class": "Att_Buttstock_AK_Wood_Camo"
+}, {
+	"class": "Att_Buttstock_AK74Base"
+}, {
+	"class": "Att_Buttstock_AK74"
+}, {
+	"class": "Att_Buttstock_AK74_Black"
+}, {
+	"class": "Att_Buttstock_AK74_Camo"
+}, {
+	"class": "Att_Buttstock_AK_Folding"
+}, {
+	"class": "Att_Buttstock_AK_Folding_Green"
+}, {
+	"class": "Att_Buttstock_AK_Folding_Black"
+}, {
+	"class": "Att_Buttstock_AK_PlasticBase"
+}, {
+	"class": "Att_Buttstock_AK_Plastic"
+}, {
+	"class": "Att_Buttstock_AK_Plastic_Black"
+}, {
+	"class": "Att_Buttstock_AK_Plastic_Green"
+}, {
+	"class": "Att_Buttstock_AKS74UBase"
+}, {
+	"class": "Att_Buttstock_AKS74U"
+}, {
+	"class": "Att_Buttstock_AKS74U_Black"
+}, {
+	"class": "Att_Buttstock_AKS74U_Green"
+}, {
+	"class": "Att_Buttstock_MP5_Stock"
+}, {
+	"class": "Att_Buttstock_Red9"
+}, {
+	"class": "Att_Buttstock_FalBase"
+}, {
+	"class": "Att_Buttstock_FalOe"
+}, {
+	"class": "Att_Buttstock_FalFolding"
+}, {
+	"class": "Att_Handguard_M4_Base"
+}, {
+	"class": "Att_Handguard_M4Plastic"
+}, {
+	"class": "Att_Handguard_M4Plastic_Green"
+}, {
+	"class": "Att_Handguard_M4Plastic_Black"
+}, {
+	"class": "Att_Handguard_M4RIS"
+}, {
+	"class": "Att_Handguard_M4RIS_Green"
+}, {
+	"class": "Att_Handguard_M4RIS_Black"
+}, {
+	"class": "Att_Handguard_M4MP"
+}, {
+	"class": "Att_Handguard_M4MP_Green"
+}, {
+	"class": "Att_Handguard_M4MP_Black"
+}, {
+	"class": "Att_Handguard_AK_Base"
+}, {
+	"class": "Att_Handguard_AK_Wood"
+}, {
+	"class": "Att_Handguard_AK_Wood_Black"
+}, {
+	"class": "Att_Handguard_AK_Wood_Camo"
+}, {
+	"class": "Att_Handguard_AK74"
+}, {
+	"class": "Att_Handguard_AK74_Black"
+}, {
+	"class": "Att_Handguard_AK74_Camo"
+}, {
+	"class": "Att_Handguard_AK_Rail"
+}, {
+	"class": "Att_Handguard_AK_Rail_Green"
+}, {
+	"class": "Att_Handguard_AK_Rail_Black"
+}, {
+	"class": "Att_Handguard_AK_Plastic"
+}, {
+	"class": "Att_Handguard_MP5_Base"
+}, {
+	"class": "Att_Handguard_MP5_Plastic"
+}, {
+	"class": "Att_Handguard_MP5_Rail"
+}, {
+	"class": "Att_Handguard_M249"
+}, {
+	"class": "Att_Handguard_M249_Ris"
+}, {
+	"class": "Att_Bipod_Atlas"
+}, {
+	"class": "Att_Bipod_M249"
+}, {
+	"class": "Att_Ghillie_Base"
+}, {
+	"class": "Att_Ghillie_Tan"
+}, {
+	"class": "Att_Ghillie_Woodland"
+}, {
+	"class": "Att_Ghillie_Mossy"
+}, {
+	"class": "Att_Buttstock_Saiga"
+}, {
+	"class": "EN5C_M4_OEBttstck"
+}, {
+	"class": "EN5C_M4_OEBttstck_Black"
+}, {
+	"class": "EN5C_M4_OEBttstck_Green"
+}, {
+	"class": "EN5C_M4_MPBttstck"
+}, {
+	"class": "EN5C_M4_MPBttstck_Black"
+}, {
+	"class": "EN5C_M4_MPBttstck_Green"
+}, {
+	"class": "EN5C_M4_CQBBttstck"
+}, {
+	"class": "EN5C_M4_CQBBttstck_Black"
+}, {
+	"class": "EN5C_M4_CQBBttstck_Green"
+}, {
+	"class": "EN5C_AK_WoodBttstck"
+}, {
+	"class": "EN5C_AK_WoodBttstck_Black"
+}, {
+	"class": "EN5C_AK_WoodBttstck_Camo"
+}, {
+	"class": "EN5C_AK74_WoodBttstck"
+}, {
+	"class": "EN5C_AK74_WoodBttstck_Black"
+}, {
+	"class": "EN5C_AK74_WoodBttstck_Camo"
+}, {
+	"class": "EN5C_AK_FoldingBttstck"
+}, {
+	"class": "EN5C_AK_FoldingBttstck_Black"
+}, {
+	"class": "EN5C_AK_FoldingBttstck_Green"
+}, {
+	"class": "EN5C_AK_PlasticBttstck"
+}, {
+	"class": "EN5C_AK_PlasticBttstck_Black"
+}, {
+	"class": "EN5C_AK_PlasticBttstck_Green"
+}, {
+	"class": "EN5C_AKS74U_Bttstck"
+}, {
+	"class": "EN5C_AKS74U_Bttstck_Black"
+}, {
+	"class": "EN5C_AKS74U_Bttstck_Green"
+}, {
+	"class": "EN5C_MP5k_StockBttstck"
+}, {
+	"class": "EN5C_Red9Bttstck"
+}, {
+	"class": "EN5C_Fal_OeBttstck"
+}, {
+	"class": "EN5C_Fal_FoldingBttstck"
+}, {
+	"class": "EN5C_Saiga_Bttstck"
+}, {
+	"class": "EN5C_M4_PlasticHndgrd"
+}, {
+	"class": "EN5C_M4_PlasticHndgrd_Black"
+}, {
+	"class": "EN5C_M4_PlasticHndgrd_Green"
+}, {
+	"class": "EN5C_M4_RISHndgrd"
+}, {
+	"class": "EN5C_M4_RISHndgrd_Black"
+}, {
+	"class": "EN5C_M4_RISHndgrd_Green"
+}, {
+	"class": "EN5C_M4_MPHndgrd"
+}, {
+	"class": "EN5C_M4_MPHndgrd_Black"
+}, {
+	"class": "EN5C_M4_MPHndgrd_Green"
+}, {
+	"class": "EN5C_AK_WoodHndgrd"
+}, {
+	"class": "EN5C_AK_WoodHndgrd_Black"
+}, {
+	"class": "EN5C_AK_WoodHndgrd_Camo"
+}, {
+	"class": "EN5C_AK74_Hndgrd"
+}, {
+	"class": "EN5C_AK74_Hndgrd_Black"
+}, {
+	"class": "EN5C_AK74_Hndgrd_Camo"
+}, {
+	"class": "EN5C_AK_RailHndgrd"
+}, {
+	"class": "EN5C_AK_RailHndgrd_Black"
+}, {
+	"class": "EN5C_AK_RailHndgrd_Green"
+}, {
+	"class": "EN5C_AK_PlasticHndgrd"
+}, {
+	"class": "EN5C_MP5_PlasticHndgrd"
+}, {
+	"class": "EN5C_MP5_RailHndgrd"
+}, {
+	"class": "EN5C_M249_Hndgrd"
+}, {
+	"class": "EN5C_M249_RisHndgrd"
+}, {
+	"class": "EN5C_AtlasBipod"
+}, {
+	"class": "EN5C_M249Bipod"
+}, {
+	"class": "EN5C_GhillieAtt_ColorBase"
+}, {
+	"class": "EN5C_GhillieAtt_Tan"
+}, {
+	"class": "EN5C_GhillieAtt_Woodland"
+}, {
+	"class": "EN5C_GhillieAtt_Mossy"
+}, {
+	"class": "GrenadeBase"
+}, {
+	"class": "GrenadeRGD5"
+}, {
+	"class": "Grenade"
+}, {
+	"class": "SmokeGrenadeBase"
+}, {
+	"class": "SmokeGrenade_Red"
+}, {
+	"class": "SmokeGrenade_Green"
+}, {
+	"class": "SmokeGrenade_Yellow"
+}, {
+	"class": "SmokeGrenade_Purple"
+}, {
+	"class": "SmokeGrenade_White"
+}, {
+	"class": "SmokeGrenade_RDG2Base"
+}, {
+	"class": "SmokeGrenade_RDG2_Black"
+}, {
+	"class": "SmokeGrenade_RDG2_White"
+}, {
+	"class": "FlashGrenade"
+}, {
+	"class": "EN5C_RGD5Grenade"
+}, {
+	"class": "EN5C_M67Grenade"
+}, {
+	"class": "EN5C_M18SmokeGrenade_ColorBase"
+}, {
+	"class": "EN5C_M18SmokeGrenade_Red"
+}, {
+	"class": "EN5C_M18SmokeGrenade_Green"
+}, {
+	"class": "EN5C_M18SmokeGrenade_Yellow"
+}, {
+	"class": "EN5C_M18SmokeGrenade_Purple"
+}, {
+	"class": "EN5C_M18SmokeGrenade_White"
+}, {
+	"class": "EN5C_RDG2SmokeGrenade_ColorBase"
+}, {
+	"class": "EN5C_RDG2SmokeGrenade_Black"
+}, {
+	"class": "EN5C_RDG2SmokeGrenade_White"
+}, {
+	"class": "EN5C_FlashGrenade"
+}, {
+	"class": "TrumpetParts"
+}, {
+	"class": "AnimalBase"
+}, {
+	"class": "AnimalsHoofsMedium"
+}, {
+	"class": "Animal_BosTaurus"
+}, {
+	"class": "Animal_BosTaurus_Brown"
+}, {
+	"class": "Animal_BosTaurus_White"
+}, {
+	"class": "Animal_BosTaurus_Spotted"
+}, {
+	"class": "Animal_BosTaurusF"
+}, {
+	"class": "Animal_BosTaurusF_Brown"
+}, {
+	"class": "Animal_BosTaurusF_White"
+}, {
+	"class": "Animal_BosTaurusF_Spotted"
+}, {
+	"class": "Animal_CanisLupus"
+}, {
+	"class": "Animal_CanisLupus_Grey"
+}, {
+	"class": "Animal_CanisLupus_White"
+}, {
+	"class": "Animal_CapraHircus"
+}, {
+	"class": "Animal_CapraHircus_Brown"
+}, {
+	"class": "Animal_CapraHircus_Black"
+}, {
+	"class": "Animal_CapraHircus_White"
+}, {
+	"class": "Animal_CapreolusCapreolus"
+}, {
+	"class": "Animal_CapreolusCapreolusF"
+}, {
+	"class": "Animal_CervusElaphus"
+}, {
+	"class": "Animal_CervusElaphusF"
+}, {
+	"class": "Animal_GallusGallusDomesticus"
+}, {
+	"class": "Animal_GallusGallusDomesticusF"
+}, {
+	"class": "Animal_GallusGallusDomesticusF_Brown"
+}, {
+	"class": "Animal_GallusGallusDomesticusF_Spotted"
+}, {
+	"class": "Animal_GallusGallusDomesticusF_White"
+}, {
+	"class": "Animal_LepusEuropaeus"
+}, {
+	"class": "Animal_OvisAries"
+}, {
+	"class": "Animal_OvisAriesF"
+}, {
+	"class": "Animal_OvisOrientalis"
+}, {
+	"class": "Animal_SusDomesticus"
+}, {
+	"class": "Animal_SusScrofa"
+}, {
+	"class": "Animal_UrsusArctos"
+}, {
+	"class": "Animal_VulpesVulpes"
+}, {
+	"class": "ItemBook"
+}, {
+	"class": "BookBible"
+}, {
+	"class": "BookTheWarOfTheWorlds"
+}, {
+	"class": "BookAroundTheWorldIn80Days"
+}, {
+	"class": "BookCrimeAndPunishment"
+}, {
+	"class": "BookTheMetamorphosis"
+}, {
+	"class": "BookTheRaven"
+}, {
+	"class": "BookTheArtOfWar"
+}, {
+	"class": "BookRobinsonCrusoe"
+}, {
+	"class": "BookRussian"
+}, {
+	"class": "BookRussianCheatSheet"
+}, {
+	"class": "BookThePictureOfDorianGray"
+}, {
+	"class": "BookThePitAndThePendulum"
+}, {
+	"class": "BookTheTimeMachine"
+}, {
+	"class": "BookTheCountryOfTheBlind"
+}, {
+	"class": "BookBilaNemoc"
+}, {
+	"class": "BookYouth"
+}, {
+	"class": "BookVerwandlung"
+}, {
+	"class": "BookTheJungleBook"
+}, {
+	"class": "BookTheBrothersKaramazov"
+}, {
+	"class": "BookTheCallOfCthulhu"
+}, {
+	"class": "BookTheShunnedHouse"
+}, {
+	"class": "BookTheHoundOfTheBaskervilles"
+}, {
+	"class": "BookAndersen"
+}, {
+	"class": "BookTonyAndTheBeetles"
+}, {
+	"class": "BookTheCosmicComputer"
+}, {
+	"class": "BookATravelerInTime"
+}, {
+	"class": "BookTheVariableMan"
+}, {
+	"class": "BookTheOutlet"
+}, {
+	"class": "BookTheBarrier"
+}, {
+	"class": "BookTheDesertOfWheat"
+}, {
+	"class": "BookFlyingURanch"
+}, {
+	"class": "BookCassidysRustlerRoundUp"
+}, {
+	"class": "BookLonesomeLand"
+}, {
+	"class": "BookTrailin"
+}, {
+	"class": "BookRonickyDoone"
+}, {
+	"class": "BookBettyZane"
+}, {
+	"class": "BookATexasMatchmaker"
+}, {
+	"class": "BookTheThunderBird"
+}, {
+	"class": "BookBlackJack"
+}, {
+	"class": "BookTheLastTrail"
+}, {
+	"class": "BookSelectedStories"
+}, {
+	"class": "BookTheHeritageOfTheSioux"
+}, {
+	"class": "BookDesertGold"
+}, {
+	"class": "BookTheHiddenChildren"
+}, {
+	"class": "BookTheLastOfThePlainsmen"
+}, {
+	"class": "BookGunmansReckoning"
+}, {
+	"class": "BookSkyrider"
+}, {
+	"class": "BookSpinifexAndSand"
+}, {
+	"class": "BookSunsetPass"
+}, {
+	"class": "BookTheCaveOfGold"
+}, {
+	"class": "BookTheDayOfTheBeast"
+}, {
+	"class": "BookTheQuirt"
+}, {
+	"class": "BookAVoyageToArcturus"
+}, {
+	"class": "BookWealthOfNations"
+}, {
+	"class": "BookAndersensFairyTales"
+}, {
+	"class": "BookBlackBeauty"
+}, {
+	"class": "BookBuddenbrooks"
+}, {
+	"class": "BookDeadSouls"
+}, {
+	"class": "BookErewhon"
+}, {
+	"class": "BookFatherGoriot"
+}, {
+	"class": "BookGreatExpectations"
+}, {
+	"class": "BookGulliversTravels"
+}, {
+	"class": "BookHeartOfDarkness"
+}, {
+	"class": "BookHerland"
+}, {
+	"class": "BookIvanhoe"
+}, {
+	"class": "BookKidnapped"
+}, {
+	"class": "BookLaChartreuseDeParme"
+}, {
+	"class": "BookLordJim"
+}, {
+	"class": "BookMadameBovary"
+}, {
+	"class": "BookNostromo"
+}, {
+	"class": "BookNaturalSelection"
+}, {
+	"class": "BookTheMetamorphosesOfOvid"
+}, {
+	"class": "BookMobyDick"
+}, {
+	"class": "BookKingLear"
+}, {
+	"class": "BookLaDbcle"
+}, {
+	"class": "BookTheCanterburyTales"
+}, {
+	"class": "BookTheRightsOfWoman"
+}, {
+	"class": "BookToTheInteriorOfTheEarth"
+}, {
+	"class": "BookNjalsSaga"
+}, {
+	"class": "BookTheTrial"
+}, {
+	"class": "BookDonQuixote"
+}, {
+	"class": "BookPhilosophiaeNaturalis"
+}, {
+	"class": "BookPrideAndPrejudice"
+}, {
+	"class": "BookRasselas"
+}, {
+	"class": "BookScaramouche"
+}, {
+	"class": "BookShe"
+}, {
+	"class": "BookSonsAndLovers"
+}, {
+	"class": "BookTheCallOfTheWild"
+}, {
+	"class": "BookTheComingRace"
+}, {
+	"class": "BookRobinsonCrusoeAdventures"
+}, {
+	"class": "BookTheIslandOfDoctorMoreau"
+}, {
+	"class": "BookTheMahabharataOfKrishna"
+}, {
+	"class": "BookTheManWhoWasThursday"
+}, {
+	"class": "BookThePossessed"
+}, {
+	"class": "BookThePrisonerOfZenda"
+}, {
+	"class": "BookAPrincessOfMars"
+}, {
+	"class": "BookKingSolomonsMines"
+}, {
+	"class": "BookMiddlemarch"
+}, {
+	"class": "BookTheHouseOfTheSevenGables"
+}, {
+	"class": "BookTheMonkARomance"
+}, {
+	"class": "BookTheJustifiedSinner"
+}, {
+	"class": "BookTheRedBadgeOfCourage"
+}, {
+	"class": "BookADollsHouse"
+}, {
+	"class": "BookAfterLondon"
+}, {
+	"class": "BookGilgameshEpic"
+}, {
+	"class": "BookAnnaKarenina"
+}, {
+	"class": "BookCandide"
+}, {
+	"class": "BookFaust"
+}, {
+	"class": "BookHinduLiterature"
+}, {
+	"class": "BookHunger"
+}, {
+	"class": "BookJapaneseLiterature"
+}, {
+	"class": "BookLeRougeEtLeNoir"
+}, {
+	"class": "BookTheDecameron"
+}, {
+	"class": "BookTheGiacomoLeopardi"
+}, {
+	"class": "BookAliceInWonderland"
+}, {
+	"class": "BookTheScarletPimpernel"
+}, {
+	"class": "BookTheThreeMusketeers"
+}, {
+	"class": "BookTheTurnOfTheScrew"
+}, {
+	"class": "BookTranslationsOfShakuntala"
+}, {
+	"class": "BookTreasureIsland"
+}, {
+	"class": "BookUlysses"
+}, {
+	"class": "BookUncleSilas"
+}, {
+	"class": "BookTheAeneid"
+}, {
+	"class": "BookWarAndPeace"
+}, {
+	"class": "BookWielandOrTheTransformation"
+}, {
+	"class": "BookWutheringHeights"
+}, {
+	"class": "BookCinqSemainesEnBallon"
+}, {
+	"class": "BookDracula"
+}, {
+	"class": "BookMrchenFrKinder"
+}, {
+	"class": "BookLesTroisMousquetaires"
+}, {
+	"class": "BookDeLorigineDesEspces"
+}, {
+	"class": "BookDasNibelungenlied"
+}, {
+	"class": "BookTheLastMan"
+}, {
+	"class": "BookFaustErsterTeil"
+}, {
+	"class": "BookLenfer1Of2"
+}, {
+	"class": "BookVoyageAuCentreDeLaTerre"
+}, {
+	"class": "BookRomeoUndJulia"
+}, {
+	"class": "BookFrankenstein"
+}, {
+	"class": "BookDeLaTerreLaLune"
+}, {
+	"class": "BookDonQuichotte"
+}, {
+	"class": "BookLleMystrieuse"
+}, {
+	"class": "BookLaComdieHumaine"
+}, {
+	"class": "BookLesCorneilles"
+}, {
+	"class": "Book20000LieuesSousLesMers"
+}, {
+	"class": "BookThreeMenInABoat"
+}, {
+	"class": "EN5C_BookBible"
+}, {
+	"class": "EN5C_BookTheWarOfTheWorlds"
+}, {
+	"class": "EN5C_BookAroundTheWorldIn80Days"
+}, {
+	"class": "EN5C_BookCrimeAndPunishment"
+}, {
+	"class": "EN5C_BookTheMetamorphosis"
+}, {
+	"class": "EN5C_BookTheRaven"
+}, {
+	"class": "EN5C_BookTheArtOfWar"
+}, {
+	"class": "EN5C_BookRobinsonCrusoe"
+}, {
+	"class": "EN5C_BookRussian"
+}, {
+	"class": "EN5C_BookRussianCheatSheet"
+}, {
+	"class": "EN5C_BookThePictureOfDorianGray"
+}, {
+	"class": "EN5C_BookThePitAndThePendulum"
+}, {
+	"class": "EN5C_BookTheTimeMachine"
+}, {
+	"class": "EN5C_BookTheCountryOfTheBlind"
+}, {
+	"class": "EN5C_BookBilaNemoc"
+}, {
+	"class": "EN5C_BookYouth"
+}, {
+	"class": "EN5C_BookVerwandlung"
+}, {
+	"class": "EN5C_BookTheJungleBook"
+}, {
+	"class": "EN5C_BookTheBrothersKaramazov"
+}, {
+	"class": "EN5C_BookTheCallOfCthulhu"
+}, {
+	"class": "EN5C_BookTheShunnedHouse"
+}, {
+	"class": "EN5C_BookTheHoundOfTheBaskervilles"
+}, {
+	"class": "EN5C_BookAndersen"
+}, {
+	"class": "EN5C_BookTonyAndTheBeetles"
+}, {
+	"class": "EN5C_BookTheCosmicComputer"
+}, {
+	"class": "EN5C_BookATravelerInTime"
+}, {
+	"class": "EN5C_BookTheVariableMan"
+}, {
+	"class": "EN5C_BookTheOutlet"
+}, {
+	"class": "EN5C_BookTheBarrier"
+}, {
+	"class": "EN5C_BookTheDesertOfWheat"
+}, {
+	"class": "EN5C_BookFlyingURanch"
+}, {
+	"class": "EN5C_BookCassidysRustlerRoundUp"
+}, {
+	"class": "EN5C_BookLonesomeLand"
+}, {
+	"class": "EN5C_BookTrailin"
+}, {
+	"class": "EN5C_BookRonickyDoone"
+}, {
+	"class": "EN5C_BookBettyZane"
+}, {
+	"class": "EN5C_BookATexasMatchmaker"
+}, {
+	"class": "EN5C_BookTheThunderBird"
+}, {
+	"class": "EN5C_BookBlackJack"
+}, {
+	"class": "EN5C_BookTheLastTrail"
+}, {
+	"class": "EN5C_BookSelectedStories"
+}, {
+	"class": "EN5C_BookTheHeritageOfTheSioux"
+}, {
+	"class": "EN5C_BookDesertGold"
+}, {
+	"class": "EN5C_BookTheHiddenChildren"
+}, {
+	"class": "EN5C_BookTheLastOfThePlainsmen"
+}, {
+	"class": "EN5C_BookGunmansReckoning"
+}, {
+	"class": "EN5C_BookSkyrider"
+}, {
+	"class": "EN5C_BookSpinifexAndSand"
+}, {
+	"class": "EN5C_BookSunsetPass"
+}, {
+	"class": "EN5C_BookTheCaveOfGold"
+}, {
+	"class": "EN5C_BookTheDayOfTheBeast"
+}, {
+	"class": "EN5C_BookTheQuirt"
+}, {
+	"class": "EN5C_BookAVoyageToArcturus"
+}, {
+	"class": "EN5C_BookWealthOfNations"
+}, {
+	"class": "EN5C_BookAndersensFairyTales"
+}, {
+	"class": "EN5C_BookBlackBeauty"
+}, {
+	"class": "EN5C_BookBuddenbrooks"
+}, {
+	"class": "EN5C_BookDeadSouls"
+}, {
+	"class": "EN5C_BookErewhon"
+}, {
+	"class": "EN5C_BookFatherGoriot"
+}, {
+	"class": "EN5C_BookGreatExpectations"
+}, {
+	"class": "EN5C_BookGulliversTravels"
+}, {
+	"class": "EN5C_BookHeartOfDarkness"
+}, {
+	"class": "EN5C_BookHerland"
+}, {
+	"class": "EN5C_BookIvanhoe"
+}, {
+	"class": "EN5C_BookKidnapped"
+}, {
+	"class": "EN5C_BookLaChartreuseDeParme"
+}, {
+	"class": "EN5C_BookLordJim"
+}, {
+	"class": "EN5C_BookMadameBovary"
+}, {
+	"class": "EN5C_BookNostromo"
+}, {
+	"class": "EN5C_BookNaturalSelection"
+}, {
+	"class": "EN5C_BookTheMetamorphosesOfOvid"
+}, {
+	"class": "EN5C_BookMobyDick"
+}, {
+	"class": "EN5C_BookKingLear"
+}, {
+	"class": "EN5C_BookLaDbcle"
+}, {
+	"class": "EN5C_BookTheCanterburyTales"
+}, {
+	"class": "EN5C_BookTheRightsOfWoman"
+}, {
+	"class": "EN5C_BookToTheInteriorOfTheEarth"
+}, {
+	"class": "EN5C_BookNjalsSaga"
+}, {
+	"class": "EN5C_BookTheTrial"
+}, {
+	"class": "EN5C_BookDonQuixote"
+}, {
+	"class": "EN5C_BookPhilosophiaeNaturalis"
+}, {
+	"class": "EN5C_BookPrideAndPrejudice"
+}, {
+	"class": "EN5C_BookRasselas"
+}, {
+	"class": "EN5C_BookScaramouche"
+}, {
+	"class": "EN5C_BookShe"
+}, {
+	"class": "EN5C_BookSonsAndLovers"
+}, {
+	"class": "EN5C_BookTheCallOfTheWild"
+}, {
+	"class": "EN5C_BookTheComingRace"
+}, {
+	"class": "EN5C_BookRobinsonCrusoeAdventures"
+}, {
+	"class": "EN5C_BookTheIslandOfDoctorMoreau"
+}, {
+	"class": "EN5C_BookTheMahabharataOfKrishna"
+}, {
+	"class": "EN5C_BookTheManWhoWasThursday"
+}, {
+	"class": "EN5C_BookThePossessed"
+}, {
+	"class": "EN5C_BookThePrisonerOfZenda"
+}, {
+	"class": "EN5C_BookAPrincessOfMars"
+}, {
+	"class": "EN5C_BookKingSolomonsMines"
+}, {
+	"class": "EN5C_BookMiddlemarch"
+}, {
+	"class": "EN5C_BookTheHouseOfTheSevenGables"
+}, {
+	"class": "EN5C_BookTheMonkARomance"
+}, {
+	"class": "EN5C_BookTheJustifiedSinner"
+}, {
+	"class": "EN5C_BookTheRedBadgeOfCourage"
+}, {
+	"class": "EN5C_BookADollsHouse"
+}, {
+	"class": "EN5C_BookAfterLondon"
+}, {
+	"class": "EN5C_BookGilgameshEpic"
+}, {
+	"class": "EN5C_BookAnnaKarenina"
+}, {
+	"class": "EN5C_BookCandide"
+}, {
+	"class": "EN5C_BookFaust"
+}, {
+	"class": "EN5C_BookHinduLiterature"
+}, {
+	"class": "EN5C_BookHunger"
+}, {
+	"class": "EN5C_BookJapaneseLiterature"
+}, {
+	"class": "EN5C_BookLeRougeEtLeNoir"
+}, {
+	"class": "EN5C_BookTheDecameron"
+}, {
+	"class": "EN5C_BookTheGiacomoLeopardi"
+}, {
+	"class": "EN5C_BookAliceInWonderland"
+}, {
+	"class": "EN5C_BookTheScarletPimpernel"
+}, {
+	"class": "EN5C_BookTheThreeMusketeers"
+}, {
+	"class": "EN5C_BookTheTurnOfTheScrew"
+}, {
+	"class": "EN5C_BookTranslationsOfShakuntala"
+}, {
+	"class": "EN5C_BookTreasureIsland"
+}, {
+	"class": "EN5C_BookUlysses"
+}, {
+	"class": "EN5C_BookUncleSilas"
+}, {
+	"class": "EN5C_BookTheAeneid"
+}, {
+	"class": "EN5C_BookWarAndPeace"
+}, {
+	"class": "EN5C_BookWielandOrTheTransformation"
+}, {
+	"class": "EN5C_BookWutheringHeights"
+}, {
+	"class": "EN5C_BookCinqSemainesEnBallon"
+}, {
+	"class": "EN5C_BookDracula"
+}, {
+	"class": "EN5C_BookMrchenFrKinder"
+}, {
+	"class": "EN5C_BookLesTroisMousquetaires"
+}, {
+	"class": "EN5C_BookDeLorigineDesEspces"
+}, {
+	"class": "EN5C_BookDasNibelungenlied"
+}, {
+	"class": "EN5C_BookTheLastMan"
+}, {
+	"class": "EN5C_BookFaustErsterTeil"
+}, {
+	"class": "EN5C_BookLenfer1Of2"
+}, {
+	"class": "EN5C_BookVoyageAuCentreDeLaTerre"
+}, {
+	"class": "EN5C_BookRomeoUndJulia"
+}, {
+	"class": "EN5C_BookFrankenstein"
+}, {
+	"class": "EN5C_BookDeLaTerreLaLune"
+}, {
+	"class": "EN5C_BookDonQuichotte"
+}, {
+	"class": "EN5C_BookLleMystrieuse"
+}, {
+	"class": "EN5C_BookLaComdieHumaine"
+}, {
+	"class": "EN5C_BookLesCorneilles"
+}, {
+	"class": "EN5C_Book20000LieuesSousLesMers"
+}, {
+	"class": "EN5C_BookThreeMenInABoat"
+}, {
+	"class": "HouseBlock_Base"
+}, {
+	"class": "Land_A_Crane_02a"
+}, {
+	"class": "Land_A_Crane_02b"
+}, {
+	"class": "Land_Barn_Metal"
+}, {
+	"class": "Land_D_Pec_Vez1"
+}, {
+	"class": "Land_D_Pec_Vez2"
+}, {
+	"class": "Land_D_Vez_Mlyn"
+}, {
+	"class": "Land_D_VSilo_Pec"
+}, {
+	"class": "Land_Vez_Pec"
+}, {
+	"class": "Land_Vez_Silo"
+}, {
+	"class": "Land_D_Mlyn_Vys"
+}, {
+	"class": "Land_ind_silomale"
+}, {
+	"class": "Land_Ind_SiloVelke_01"
+}, {
+	"class": "Land_Ind_SiloVelke_02"
+}, {
+	"class": "Land_Ind_SiloVelke_most"
+}, {
+	"class": "Land_Ind_Vysypka"
+}, {
+	"class": "Land_IndPipe2_big_18ladder"
+}, {
+	"class": "Land_IndPipe2_bigL_R"
+}, {
+	"class": "Land_IndPipe2_bigL_L"
+}, {
+	"class": "Land_IndPipe2_bigBuild1_R"
+}, {
+	"class": "Land_IndPipe2_bigBuild2_L"
+}, {
+	"class": "Land_IndPipe2_big_ground1"
+}, {
+	"class": "Land_IndPipe2_big_ground2"
+}, {
+	"class": "Land_IndPipe2_big_18"
+}, {
+	"class": "Land_IndPipe2_big_9"
+}, {
+	"class": "Land_IndPipe2_big_support"
+}, {
+	"class": "Land_IndPipe2_T_R"
+}, {
+	"class": "Land_IndPipe2_T_L"
+}, {
+	"class": "Land_IndPipe2_Small_9"
+}, {
+	"class": "Land_IndPipe2_Small_ground1"
+}, {
+	"class": "Land_IndPipe2_Small_ground2"
+}, {
+	"class": "Land_IndPipe2_SmallBuild1_L"
+}, {
+	"class": "Land_IndPipe2_SmallBuild1_R"
+}, {
+	"class": "Land_IndPipe2_SmallBuild2_R"
+}, {
+	"class": "Land_IndPipe2_SmallL_L"
+}, {
+	"class": "Land_IndPipe2_SmallL_R"
+}, {
+	"class": "Land_Misc_Cargo1Ao"
+}, {
+	"class": "Land_Misc_Cargo1Bo"
+}, {
+	"class": "Misc_Cargo1Bo_military"
+}, {
+	"class": "Land_Misc_Cargo1B"
+}, {
+	"class": "Misc_Cargo1Bo_civil"
+}, {
+	"class": "Land_Misc_Cargo1C"
+}, {
+	"class": "Land_Misc_Cargo1D"
+}, {
+	"class": "Land_Misc_Cargo2B"
+}, {
+	"class": "Land_Misc_Cargo2C"
+}, {
+	"class": "Land_Misc_Cargo2D"
+}, {
+	"class": "Land_Misc_Cargo2E"
+}, {
+	"class": "Land_Misc_Cargo1Mof"
+}, {
+	"class": "Land_Misc_Cargo1Moh"
+}, {
+	"class": "Land_Shed_wooden"
+}, {
+	"class": "UndergroundStash"
+}, {
+	"class": "Land_pumpa"
+}, {
+	"class": "Land_Pristresek_mensi"
+}, {
+	"class": "Land_plot_zed_drevo1_branka"
+}, {
+	"class": "Land_sara_hasic_zbroj"
+}, {
+	"class": "Land_SS_hangar"
+}, {
+	"class": "Land_stodola_old_open"
+}, {
+	"class": "Land_stodola_open"
+}, {
+	"class": "Land_brana02nodoor"
+}, {
+	"class": "Land_molo_drevo_bs"
+}, {
+	"class": "Land_molo_drevo_end"
+}, {
+	"class": "Land_kulna"
+}, {
+	"class": "Land_psi_bouda"
+}, {
+	"class": "Land_trafostanica_velka_draty"
+}, {
+	"class": "Land_trafostanica_velka"
+}, {
+	"class": "Land_hut06"
+}, {
+	"class": "Land_repair_center"
+}, {
+	"class": "Land_podesta_1_cube"
+}, {
+	"class": "Land_podesta_1_cube_long"
+}, {
+	"class": "Land_podesta_1_mid"
+}, {
+	"class": "Land_podesta_1_mid_cornl"
+}, {
+	"class": "Land_podesta_1_stairs3"
+}, {
+	"class": "Land_podesta_1_stairs4"
+}, {
+	"class": "Land_podesta_s5"
+}, {
+	"class": "Land_Hangar_2"
+}, {
+	"class": "Land_Budova4_in"
+}, {
+	"class": "Land_Garaz"
+}, {
+	"class": "Land_KBud"
+}, {
+	"class": "Land_Hlidac_budka"
+}, {
+	"class": "Land_sara_domek_zluty"
+}, {
+	"class": "Land_posed"
+}, {
+	"class": "Land_vez"
+}, {
+	"class": "Land_Nasypka"
+}, {
+	"class": "Land_Tovarna2"
+}, {
+	"class": "Land_Vysilac_FM"
+}, {
+	"class": "Land_telek1"
+}, {
+	"class": "Land_komin"
+}, {
+	"class": "Land_Stoplight02"
+}, {
+	"class": "Land_NavigLight"
+}, {
+	"class": "Land_runway_edgelight"
+}, {
+	"class": "Land_plot_green_branka"
+}, {
+	"class": "Land_plot_green_vrata"
+}, {
+	"class": "Land_plot_green_vrat_l"
+}, {
+	"class": "Land_plot_green_brank_o"
+}, {
+	"class": "Land_plot_green_vrat_o"
+}, {
+	"class": "Land_pletivo_wired_branaL_civil"
+}, {
+	"class": "Land_plot_rust_branka"
+}, {
+	"class": "Land_ChristmasTree"
+}, {
+	"class": "Land_plot_rust_vrata"
+}, {
+	"class": "Land_plot_green_vrat_r"
+}, {
+	"class": "Land_plot_rust_vrat_l"
+}, {
+	"class": "Land_plot_rust_vrat_r"
+}, {
+	"class": "Land_plot_rust_brank_o"
+}, {
+	"class": "Land_plot_rust_vrat_o"
+}, {
+	"class": "Land_pletivo_wired_branaP"
+}, {
+	"class": "StreetLampOff"
+}, {
+	"class": "Land_Camp"
+}, {
+	"class": "Land_CampEast"
+}, {
+	"class": "Land_ACamp"
+}, {
+	"class": "Land_Mash"
+}, {
+	"class": "SurvivorBase"
+}, {
+	"class": "SurvivorMale"
+}, {
+	"class": "SurvivorFemale"
+}, {
+	"class": "SurvivorPartsMaleWhite"
+}, {
+	"class": "SurvivorPartsMaleAsian"
+}, {
+	"class": "SurvivorPartsMaleAfrican"
+}, {
+	"class": "SurvivorPartsMaleLatino"
+}, {
+	"class": "SurvivorPartsMaleIndian"
+}, {
+	"class": "SurvivorPartsMaleDean"
+}, {
+	"class": "SurvivorPartsMaleMatt"
+}, {
+	"class": "SurvivorPartsFemaleWhite"
+}, {
+	"class": "SurvivorPartsFemaleAsian"
+}, {
+	"class": "SurvivorPartsFemaleAfrican"
+}, {
+	"class": "SurvivorPartsFemaleLatino"
+}, {
+	"class": "SurvivorPartsFemaleKamila"
+}, {
+	"class": "SurvivorPartsFemaleHenriet"
+}, {
+	"class": "SurvivorPartsFemaleJanaZ"
+}, {
+	"class": "SurvivorPartsFemaleIndian"
+}, {
+	"class": "SurvivorPartsNewAnimSystem"
+}, {
+	"class": "SurvivorPartsNewAnimSystem_MENU"
+}, {
+	"class": "SurvivorPartsNewAnimSystemReversed"
+}, {
+	"class": "SurvivorENFANIMSYS"
+}, {
+	"class": "SurvivorENFANIMSYS_Eva"
+}, {
+	"class": "SurvivorENFANIMSYS_Adam"
+}, {
+	"class": "SurvivorENFANIMSYS_Boris"
+}, {
+	"class": "SurvivorENFANIMSYS_Cyril"
+}, {
+	"class": "SurvivorENFANIMSYS_Denis"
+}, {
+	"class": "SurvivorENFANIMSYS_Elias"
+}, {
+	"class": "SurvivorENFANIMSYS_Francis"
+}, {
+	"class": "SurvivorENFANIMSYS_Guo"
+}, {
+	"class": "JoeyXSunGlasses"
+}, {
+	"class": "RocketAviators"
+}, {
+	"class": "Glasses_Designer"
+}, {
+	"class": "Glasses_ThickFrames"
+}, {
+	"class": "Glasses_ThinFrames"
+}, {
+	"class": "EN5C_JoeyXSunGlasses"
+}, {
+	"class": "EN5C_RocketAviators"
+}, {
+	"class": "EN5C_DesignerGlasses"
+}, {
+	"class": "EN5C_ThickFramesGlasses"
+}, {
+	"class": "EN5C_ThinFramesGlasses"
+}, {
+	"class": "MaleHandsNew"
+}, {
+	"class": "MaleAsianHandsNew"
+}, {
+	"class": "MaleAfricanHandsNew"
+}, {
+	"class": "MaleLatinoHandsNew"
+}, {
+	"class": "MaleIndianHands"
+}, {
+	"class": "MaleDeanHands"
+}, {
+	"class": "MaleJazzHands"
+}, {
+	"class": "MaleHandsWorkingGloves"
+}, {
+	"class": "FemaleHands"
+}, {
+	"class": "FemaleAsianHands"
+}, {
+	"class": "FemaleAfricanHands"
+}, {
+	"class": "FemaleLatinoHands"
+}, {
+	"class": "FemaleIndianHands"
+}, {
+	"class": "FemaleKamilaHands"
+}, {
+	"class": "FemaleHenrietHands"
+}, {
+	"class": "FemaleJanaZHands"
+}, {
+	"class": "MaleHandsAbove"
+}, {
+	"class": "WorkingGlovesBase"
+}, {
+	"class": "WorkingGloves_Beige"
+}, {
+	"class": "WorkingGloves_Black"
+}, {
+	"class": "WorkingGloves_Brown"
+}, {
+	"class": "WorkingGloves_Yellow"
+}, {
+	"class": "TacticalGlovesBase"
+}, {
+	"class": "TacticalGloves_Beige"
+}, {
+	"class": "TacticalGloves_Black"
+}, {
+	"class": "TacticalGloves_Green"
+}, {
+	"class": "NBCGlovesBase"
+}, {
+	"class": "NBCGlovesGray"
+}, {
+	"class": "EN5C_WorkingGloves_ColorBase"
+}, {
+	"class": "EN5C_WorkingGloves_Black"
+}, {
+	"class": "EN5C_WorkingGloves_Beige"
+}, {
+	"class": "EN5C_WorkingGloves_Brown"
+}, {
+	"class": "EN5C_WorkingGloves_Yellow"
+}, {
+	"class": "EN5C_TacticalGloves_ColorBase"
+}, {
+	"class": "EN5C_TacticalGloves_Black"
+}, {
+	"class": "EN5C_TacticalGloves_Beige"
+}, {
+	"class": "EN5C_TacticalGloves_Green"
+}, {
+	"class": "EN5C_NBCGlovesBase"
+}, {
+	"class": "EN5C_NBCGlovesGray"
+}, {
+	"class": "BallisticHelmetBase"
+}, {
+	"class": "BallisticHelmet"
+}, {
+	"class": "BallisticHelmet_Green"
+}, {
+	"class": "BallisticHelmet_Black"
+}, {
+	"class": "BallisticHelmet_UN"
+}, {
+	"class": "BaseballCapBase"
+}, {
+	"class": "BaseballCap_Blue"
+}, {
+	"class": "BaseballCap_Beige"
+}, {
+	"class": "BaseballCap_Black"
+}, {
+	"class": "BaseballCap_Olive"
+}, {
+	"class": "BaseballCap_Pink"
+}, {
+	"class": "BaseballCap_Red"
+}, {
+	"class": "BaseballCap_Camo"
+}, {
+	"class": "BaseballCap_CMMG_Black"
+}, {
+	"class": "BaseballCap_CMMG_Pink"
+}, {
+	"class": "PilotHelmet_ZSh3"
+}, {
+	"class": "PilotHelmet_ZSh3_green"
+}, {
+	"class": "PilotHelmet_ZSh3_black"
+}, {
+	"class": "ConstructionHelmetBase"
+}, {
+	"class": "ConstructionHelmet_Blue"
+}, {
+	"class": "ConstructionHelmet_Lime"
+}, {
+	"class": "ConstructionHelmet_Orange"
+}, {
+	"class": "ConstructionHelmet_Red"
+}, {
+	"class": "ConstructionHelmet_White"
+}, {
+	"class": "ConstructionHelmet_Yellow"
+}, {
+	"class": "Cover_BurlapSack"
+}, {
+	"class": "BeanieHatBase"
+}, {
+	"class": "BeanieHatBeige"
+}, {
+	"class": "BeanieHatBlack"
+}, {
+	"class": "BeanieHatBlue"
+}, {
+	"class": "BeanieHatBrown"
+}, {
+	"class": "BeanieHatGreen"
+}, {
+	"class": "BeanieHatGrey"
+}, {
+	"class": "BeanieHatPink"
+}, {
+	"class": "BeanieHatRed"
+}, {
+	"class": "UshankaBase"
+}, {
+	"class": "Ushanka_Black"
+}, {
+	"class": "Ushanka_Blue"
+}, {
+	"class": "Ushanka_Green"
+}, {
+	"class": "MotoHelmet"
+}, {
+	"class": "MotoHelmetBase"
+}, {
+	"class": "MotoHelmetDarkBase"
+}, {
+	"class": "MotoHelmet_Black"
+}, {
+	"class": "MotoHelmetDark_Black"
+}, {
+	"class": "MotoHelmet_Grey"
+}, {
+	"class": "MotoHelmetDark_Grey"
+}, {
+	"class": "MotoHelmet_Green"
+}, {
+	"class": "MotoHelmetDark_Green"
+}, {
+	"class": "MotoHelmet_Lime"
+}, {
+	"class": "MotoHelmetDark_Lime"
+}, {
+	"class": "MotoHelmet_Blue"
+}, {
+	"class": "MotoHelmetDark_Blue"
+}, {
+	"class": "MotoHelmet_Red"
+}, {
+	"class": "MotoHelmetDark_Red"
+}, {
+	"class": "MotoHelmet_White"
+}, {
+	"class": "MotoHelmetDark_White"
+}, {
+	"class": "HeadtorchBase"
+}, {
+	"class": "Headtorch_Grey"
+}, {
+	"class": "Headtorch_Black"
+}, {
+	"class": "BandanaBase"
+}, {
+	"class": "BandanaUntieableBase"
+}, {
+	"class": "Bandana_redpattern"
+}, {
+	"class": "Bandana_blackpattern"
+}, {
+	"class": "Bandana_polkapattern"
+}, {
+	"class": "Bandana_greenpattern"
+}, {
+	"class": "Bandana_camopattern"
+}, {
+	"class": "RadarCapBase"
+}, {
+	"class": "RadarCap_Black"
+}, {
+	"class": "RadarCap_Blue"
+}, {
+	"class": "RadarCap_Brown"
+}, {
+	"class": "RadarCap_Green"
+}, {
+	"class": "RadarCap_Red"
+}, {
+	"class": "MilitaryBeretBase"
+}, {
+	"class": "MilitaryBeret"
+}, {
+	"class": "MilitaryBeretUN"
+}, {
+	"class": "MilitaryBeretNZ"
+}, {
+	"class": "MilitaryBeretChDKZ"
+}, {
+	"class": "MilitaryBeretCDF"
+}, {
+	"class": "FlatCapBase"
+}, {
+	"class": "FlatCap_Black"
+}, {
+	"class": "FlatCap_Blue"
+}, {
+	"class": "FlatCap_Red"
+}, {
+	"class": "FlatCap_Brown"
+}, {
+	"class": "FlatCap_Grey"
+}, {
+	"class": "FlatCap_Check_Brown"
+}, {
+	"class": "FlatCap_Check_Grey"
+}, {
+	"class": "FlatCap_Check_Black"
+}, {
+	"class": "ZmijovkaCapBase"
+}, {
+	"class": "ZmijovkaCap_Black"
+}, {
+	"class": "ZmijovkaCap_Blue"
+}, {
+	"class": "ZmijovkaCap_Brown"
+}, {
+	"class": "ZmijovkaCap_Green"
+}, {
+	"class": "ZmijovkaCap_Red"
+}, {
+	"class": "CowboyHatBase"
+}, {
+	"class": "CowboyHat_Brown"
+}, {
+	"class": "CowboyHat_black"
+}, {
+	"class": "CowboyHat_darkBrown"
+}, {
+	"class": "CowboyHat_green"
+}, {
+	"class": "BoonieHatBase"
+}, {
+	"class": "BoonieHat_black"
+}, {
+	"class": "BoonieHat_Blue"
+}, {
+	"class": "BoonieHat_DPM"
+}, {
+	"class": "BoonieHat_dubok"
+}, {
+	"class": "BoonieHat_flecktran"
+}, {
+	"class": "BoonieHat_NavyBlue"
+}, {
+	"class": "BoonieHat_olive"
+}, {
+	"class": "BoonieHat_orange"
+}, {
+	"class": "BoonieHat_red"
+}, {
+	"class": "BoonieHat_Tan"
+}, {
+	"class": "OfficerHat"
+}, {
+	"class": "PoliceCap"
+}, {
+	"class": "PilotkaCap"
+}, {
+	"class": "TankerHelmet"
+}, {
+	"class": "GorkaHelmet"
+}, {
+	"class": "GorkaHelmet_Green"
+}, {
+	"class": "GorkaHelmet_Black"
+}, {
+	"class": "GorkaHelmet_complete"
+}, {
+	"class": "GorkaHelmet_complete_Green"
+}, {
+	"class": "GorkaHelmet_complete_Black"
+}, {
+	"class": "FirefightersHelmetBase"
+}, {
+	"class": "FirefightersHelmet_Red"
+}, {
+	"class": "FirefightersHelmet_White"
+}, {
+	"class": "FirefightersHelmet_Yellow"
+}, {
+	"class": "SkateHelmetBase"
+}, {
+	"class": "SkateHelmet_Black"
+}, {
+	"class": "SkateHelmet_Blue"
+}, {
+	"class": "SkateHelmet_Gray"
+}, {
+	"class": "SkateHelmet_Green"
+}, {
+	"class": "SkateHelmet_Red"
+}, {
+	"class": "WeldingMask"
+}, {
+	"class": "PrisonerCap"
+}, {
+	"class": "GhillieHoodBase"
+}, {
+	"class": "GhillieHoodTan"
+}, {
+	"class": "GhillieHoodWoodland"
+}, {
+	"class": "GhillieHoodMossy"
+}, {
+	"class": "Hat_LeatherBase"
+}, {
+	"class": "Hat_Leather_Natural"
+}, {
+	"class": "Hat_Leather_Beige"
+}, {
+	"class": "Hat_Leather_Brown"
+}, {
+	"class": "Hat_Leather_Black"
+}, {
+	"class": "MedicalScrubs_HatBase"
+}, {
+	"class": "MedicalScrubs_Hat_Blue"
+}, {
+	"class": "MedicalScrubs_Hat_White"
+}, {
+	"class": "MedicalScrubs_Hat_Green"
+}, {
+	"class": "GreathelmBase"
+}, {
+	"class": "Greathelm"
+}, {
+	"class": "Ssh68Helmet"
+}, {
+	"class": "DirtBikeHelmetBase"
+}, {
+	"class": "DirtBikeHelmet_Green"
+}, {
+	"class": "DirtBikeHelmet_Chernarus"
+}, {
+	"class": "DirtBikeHelmet_Khaki"
+}, {
+	"class": "DirtBikeHelmet_Police"
+}, {
+	"class": "DirtBikeHelmet_Red"
+}, {
+	"class": "DirtBikeHelmet_Black"
+}, {
+	"class": "DirtBikeHelmet_Blue"
+}, {
+	"class": "DirtBikeHelmet_Visor"
+}, {
+	"class": "DirtBikeHelmet_Mouthguard"
+}, {
+	"class": "NBCHoodBase"
+}, {
+	"class": "NBCHoodGray"
+}, {
+	"class": "EN5C_BallisticHelmet_ColorBase"
+}, {
+	"class": "EN5C_BallisticHelmet_Green"
+}, {
+	"class": "EN5C_BallisticHelmet_Black"
+}, {
+	"class": "EN5C_BallisticHelmet_UN"
+}, {
+	"class": "EN5C_BaseballCap_ColorBase"
+}, {
+	"class": "EN5C_BaseballCap_Blue"
+}, {
+	"class": "EN5C_BaseballCap_Beige"
+}, {
+	"class": "EN5C_BaseballCap_Black"
+}, {
+	"class": "EN5C_BaseballCap_Olive"
+}, {
+	"class": "EN5C_BaseballCap_Pink"
+}, {
+	"class": "EN5C_BaseballCap_Red"
+}, {
+	"class": "EN5C_BaseballCap_Camo"
+}, {
+	"class": "EN5C_BaseballCap_CMMG_Black"
+}, {
+	"class": "EN5C_BaseballCap_CMMG_Pink"
+}, {
+	"class": "EN5C_ZSh3PilotHelmet"
+}, {
+	"class": "EN5C_ZSh3PilotHelmet_Green"
+}, {
+	"class": "EN5C_ZSh3PilotHelmet_Black"
+}, {
+	"class": "EN5C_ConstructionHelmet_ColorBase"
+}, {
+	"class": "EN5C_ConstructionHelmet_Blue"
+}, {
+	"class": "EN5C_ConstructionHelmet_Lime"
+}, {
+	"class": "EN5C_ConstructionHelmet_Orange"
+}, {
+	"class": "EN5C_ConstructionHelmet_Red"
+}, {
+	"class": "EN5C_ConstructionHelmet_White"
+}, {
+	"class": "EN5C_ConstructionHelmet_Yellow"
+}, {
+	"class": "EN5C_BurlapSackCover"
+}, {
+	"class": "EN5C_BeanieHat_ColorBase"
+}, {
+	"class": "EN5C_BeanieHat_Beige"
+}, {
+	"class": "EN5C_BeanieHat_Black"
+}, {
+	"class": "EN5C_BeanieHat_Blue"
+}, {
+	"class": "EN5C_BeanieHat_Brown"
+}, {
+	"class": "EN5C_BeanieHat_Green"
+}, {
+	"class": "EN5C_BeanieHat_Grey"
+}, {
+	"class": "EN5C_BeanieHat_Pink"
+}, {
+	"class": "EN5C_BeanieHat_Red"
+}, {
+	"class": "EN5C_Ushanka_ColorBase"
+}, {
+	"class": "EN5C_Ushanka_Black"
+}, {
+	"class": "EN5C_Ushanka_Blue"
+}, {
+	"class": "EN5C_Ushanka_Green"
+}, {
+	"class": "EN5C_MotoHelmet_ColorBase"
+}, {
+	"class": "EN5C_MotoHelmet_Black"
+}, {
+	"class": "EN5C_MotoHelmet_Grey"
+}, {
+	"class": "EN5C_MotoHelmet_Green"
+}, {
+	"class": "EN5C_MotoHelmet_Lime"
+}, {
+	"class": "EN5C_MotoHelmet_Blue"
+}, {
+	"class": "EN5C_MotoHelmet_Red"
+}, {
+	"class": "EN5C_MotoHelmet_White"
+}, {
+	"class": "EN5C_DarkMotoHelmet_ColorBase"
+}, {
+	"class": "EN5C_DarkMotoHelmet_Black"
+}, {
+	"class": "EN5C_DarkMotoHelmet_Grey"
+}, {
+	"class": "EN5C_DarkMotoHelmet_Green"
+}, {
+	"class": "EN5C_DarkMotoHelmet_Lime"
+}, {
+	"class": "EN5C_DarkMotoHelmet_Blue"
+}, {
+	"class": "EN5C_DarkMotoHelmet_Red"
+}, {
+	"class": "EN5C_DarkMotoHelmet_White"
+}, {
+	"class": "EN5C_Headtorch_ColorBase"
+}, {
+	"class": "EN5C_Headtorch_Grey"
+}, {
+	"class": "EN5C_Headtorch_Black"
+}, {
+	"class": "EN5C_BandanaUntieable_ColorBase"
+}, {
+	"class": "EN5C_BandanaUntieable_RedPattern"
+}, {
+	"class": "EN5C_BandanaUntieable_BlackPattern"
+}, {
+	"class": "EN5C_BandanaUntieable_PolkaPattern"
+}, {
+	"class": "EN5C_BandanaUntieable_Greenpattern"
+}, {
+	"class": "EN5C_BandanaUntieable_CamoPattern"
+}, {
+	"class": "EN5C_RadarCap_ColorBase"
+}, {
+	"class": "EN5C_RadarCap_Black"
+}, {
+	"class": "EN5C_RadarCap_Blue"
+}, {
+	"class": "EN5C_RadarCap_Brown"
+}, {
+	"class": "EN5C_RadarCap_Green"
+}, {
+	"class": "EN5C_RadarCap_Red"
+}, {
+	"class": "EN5C_MilitaryBeret_ColorBase"
+}, {
+	"class": "EN5C_MilitaryBeret_Red"
+}, {
+	"class": "EN5C_MilitaryBeret_UN"
+}, {
+	"class": "EN5C_MilitaryBeret_NZ"
+}, {
+	"class": "EN5C_MilitaryBeret_ChDKZ"
+}, {
+	"class": "EN5C_MilitaryBeret_CDF"
+}, {
+	"class": "EN5C_FlatCap_ColorBase"
+}, {
+	"class": "EN5C_FlatCap_Black"
+}, {
+	"class": "EN5C_FlatCap_Blue"
+}, {
+	"class": "EN5C_FlatCap_Red"
+}, {
+	"class": "EN5C_FlatCap_Brown"
+}, {
+	"class": "EN5C_FlatCap_Grey"
+}, {
+	"class": "EN5C_FlatCap_BrownCheck"
+}, {
+	"class": "EN5C_FlatCap_GreyCheck"
+}, {
+	"class": "EN5C_FlatCap_BlackCheck"
+}, {
+	"class": "EN5C_ZmijovkaCap_ColorBase"
+}, {
+	"class": "EN5C_ZmijovkaCap_Black"
+}, {
+	"class": "EN5C_ZmijovkaCap_Blue"
+}, {
+	"class": "EN5C_ZmijovkaCap_Brown"
+}, {
+	"class": "EN5C_ZmijovkaCap_Green"
+}, {
+	"class": "EN5C_ZmijovkaCap_Red"
+}, {
+	"class": "EN5C_CowboyHat_ColorBase"
+}, {
+	"class": "EN5C_CowboyHat_Brown"
+}, {
+	"class": "EN5C_CowboyHat_black"
+}, {
+	"class": "EN5C_CowboyHat_darkBrown"
+}, {
+	"class": "EN5C_CowboyHat_green"
+}, {
+	"class": "EN5C_BoonieHat_ColorBase"
+}, {
+	"class": "EN5C_BoonieHat_Black"
+}, {
+	"class": "EN5C_BoonieHat_Blue"
+}, {
+	"class": "EN5C_BoonieHat_DPM"
+}, {
+	"class": "EN5C_BoonieHat_Dubok"
+}, {
+	"class": "EN5C_BoonieHat_Flecktran"
+}, {
+	"class": "EN5C_BoonieHat_NavyBlue"
+}, {
+	"class": "EN5C_BoonieHat_Olive"
+}, {
+	"class": "EN5C_BoonieHat_Orange"
+}, {
+	"class": "EN5C_BoonieHat_Red"
+}, {
+	"class": "EN5C_BoonieHat_Tan"
+}, {
+	"class": "EN5C_OfficerHat"
+}, {
+	"class": "EN5C_PoliceCap"
+}, {
+	"class": "EN5C_PilotkaCap"
+}, {
+	"class": "EN5C_TankerHelmet"
+}, {
+	"class": "EN5C_GorkaHelmet"
+}, {
+	"class": "EN5C_GorkaHelmet_Green"
+}, {
+	"class": "EN5C_GorkaHelmet_Black"
+}, {
+	"class": "EN5C_GorkaHelmetComplete"
+}, {
+	"class": "EN5C_GorkaHelmetComplete_Green"
+}, {
+	"class": "EN5C_GorkaHelmetComplete_Black"
+}, {
+	"class": "EN5C_FirefightersHelmet_ColorBase"
+}, {
+	"class": "EN5C_FirefightersHelmet_Red"
+}, {
+	"class": "EN5C_FirefightersHelmet_White"
+}, {
+	"class": "EN5C_FirefightersHelmet_Yellow"
+}, {
+	"class": "EN5C_SkateHelmet_ColorBase"
+}, {
+	"class": "EN5C_SkateHelmet_Black"
+}, {
+	"class": "EN5C_SkateHelmet_Blue"
+}, {
+	"class": "EN5C_SkateHelmet_Gray"
+}, {
+	"class": "EN5C_SkateHelmet_Green"
+}, {
+	"class": "EN5C_SkateHelmet_Red"
+}, {
+	"class": "EN5C_WeldingMask"
+}, {
+	"class": "EN5C_PrisonerCap"
+}, {
+	"class": "EN5C_GhillieHood_ColorBase"
+}, {
+	"class": "EN5C_GhillieHood_Tan"
+}, {
+	"class": "EN5C_GhillieHood_Woodland"
+}, {
+	"class": "EN5C_GhillieHood_Mossy"
+}, {
+	"class": "EN5C_LeatherHat_ColorBase"
+}, {
+	"class": "EN5C_LeatherHat_Natural"
+}, {
+	"class": "EN5C_LeatherHat_Beige"
+}, {
+	"class": "EN5C_LeatherHat_Brown"
+}, {
+	"class": "EN5C_LeatherHat_Black"
+}, {
+	"class": "EN5C_MedicalScrubsHat_ColorBase"
+}, {
+	"class": "EN5C_MedicalScrubsHat_Blue"
+}, {
+	"class": "EN5C_MedicalScrubsHat_White"
+}, {
+	"class": "EN5C_MedicalScrubsHat_Green"
+}, {
+	"class": "EN5C_GreatHelm"
+}, {
+	"class": "EN5C_Ssh68Helmet"
+}, {
+	"class": "EN5C_DirtBikeHelmet_ColorBase"
+}, {
+	"class": "EN5C_DirtBikeHelmet_Green"
+}, {
+	"class": "EN5C_DirtBikeHelmet_Chernarus"
+}, {
+	"class": "EN5C_DirtBikeHelmet_Khaki"
+}, {
+	"class": "EN5C_DirtBikeHelmet_Police"
+}, {
+	"class": "EN5C_DirtBikeHelmet_Red"
+}, {
+	"class": "EN5C_DirtBikeHelmet_Black"
+}, {
+	"class": "EN5C_DirtBikeHelmet_Blue"
+}, {
+	"class": "EN5C_DirtBikeHelmet_Visor"
+}, {
+	"class": "EN5C_DirtBikeHelmet_Mouthguard"
+}, {
+	"class": "EN5C_NBCHoodBase"
+}, {
+	"class": "EN5C_NBCHoodGray"
+}, {
+	"class": "GasMaskBase"
+}, {
+	"class": "GasMask"
+}, {
+	"class": "BandanaMaskBase"
+}, {
+	"class": "BandanaMask_redpattern"
+}, {
+	"class": "BandanaMask_blackpattern"
+}, {
+	"class": "BandanaMask_polkapattern"
+}, {
+	"class": "BandanaMask_greenpattern"
+}, {
+	"class": "BandanaMask_camopattern"
+}, {
+	"class": "NioshFaceMask"
+}, {
+	"class": "BalaclavaMaskBase"
+}, {
+	"class": "BalaclavaMask_Black"
+}, {
+	"class": "BalaclavaMask_Blackskull"
+}, {
+	"class": "BalaclavaMask_Beige"
+}, {
+	"class": "BalaclavaMask_Blue"
+}, {
+	"class": "BalaclavaMask_Green"
+}, {
+	"class": "BalaclavaMask_Pink"
+}, {
+	"class": "BalaclavaMask_White"
+}, {
+	"class": "DallasMask"
+}, {
+	"class": "HoxtonMask"
+}, {
+	"class": "WolfMask"
+}, {
+	"class": "GP5GasMask"
+}, {
+	"class": "EN5C_GasMask"
+}, {
+	"class": "EN5C_BandanaMask_ColorBase"
+}, {
+	"class": "EN5C_BandanaMask_RedPattern"
+}, {
+	"class": "EN5C_BandanaMask_BlackPattern"
+}, {
+	"class": "EN5C_BandanaMask_PolkaPattern"
+}, {
+	"class": "EN5C_BandanaMask_GreenPattern"
+}, {
+	"class": "EN5C_BandanaMask_CamoPattern"
+}, {
+	"class": "EN5C_NioshFaceMask"
+}, {
+	"class": "EN5C_BalaclavaMask_ColorBase"
+}, {
+	"class": "EN5C_BalaclavaMask_Black"
+}, {
+	"class": "EN5C_BalaclavaMask_Blackskull"
+}, {
+	"class": "EN5C_BalaclavaMask_Beige"
+}, {
+	"class": "EN5C_BalaclavaMask_Blue"
+}, {
+	"class": "EN5C_BalaclavaMask_Green"
+}, {
+	"class": "EN5C_BalaclavaMask_Pink"
+}, {
+	"class": "EN5C_BalaclavaMask_White"
+}, {
+	"class": "EN5C_DallasMask"
+}, {
+	"class": "EN5C_HoxtonMask"
+}, {
+	"class": "EN5C_WolfMask"
+}, {
+	"class": "EN5C_GP5GasMask"
+}, {
+	"class": "MaleLegsNew"
+}, {
+	"class": "MaleAsianLegsNew"
+}, {
+	"class": "MaleAfricanLegsNew"
+}, {
+	"class": "MaleLatinoLegsNew"
+}, {
+	"class": "MaleIndianLegsNew"
+}, {
+	"class": "MaleDeanLegsNew"
+}, {
+	"class": "MaleJazzLegsNew"
+}, {
+	"class": "FemaleLegs"
+}, {
+	"class": "FemaleAsianLegs"
+}, {
+	"class": "FemaleAfricanLegs"
+}, {
+	"class": "FemaleLatinoLegs"
+}, {
+	"class": "FemaleIndianLegs"
+}, {
+	"class": "FemaleKamilaLegs"
+}, {
+	"class": "FemaleHenrietLegs"
+}, {
+	"class": "FemaleJanaZLegs"
+}, {
+	"class": "JeansBase"
+}, {
+	"class": "Jeans_Black"
+}, {
+	"class": "Jeans_Blue"
+}, {
+	"class": "Jeans_Brown"
+}, {
+	"class": "Jeans_Green"
+}, {
+	"class": "Jeans_Grey"
+}, {
+	"class": "Jeans_BlueDark"
+}, {
+	"class": "CargoPantsBase"
+}, {
+	"class": "CargoPants_Beige"
+}, {
+	"class": "CargoPants_Black"
+}, {
+	"class": "CargoPants_Blue"
+}, {
+	"class": "CargoPants_Green"
+}, {
+	"class": "CargoPants_Grey"
+}, {
+	"class": "TTSKO_pantsBase"
+}, {
+	"class": "ttsko_pants_Beige"
+}, {
+	"class": "HunterPantsBase"
+}, {
+	"class": "HunterPants_Autumn"
+}, {
+	"class": "HunterPants_Brown"
+}, {
+	"class": "HunterPants_Spring"
+}, {
+	"class": "HunterPants_Summer"
+}, {
+	"class": "HunterPants_Winter"
+}, {
+	"class": "CanvasPantsBase"
+}, {
+	"class": "CanvasPants_Beige"
+}, {
+	"class": "CanvasPants_Blue"
+}, {
+	"class": "CanvasPants_Grey"
+}, {
+	"class": "CanvasPants_Red"
+}, {
+	"class": "CanvasPants_Violet"
+}, {
+	"class": "CanvasPants_Midi_Base"
+}, {
+	"class": "CanvasPants_Midi_Beige"
+}, {
+	"class": "CanvasPants_Midi_blue"
+}, {
+	"class": "CanvasPants_Midi_grey"
+}, {
+	"class": "CanvasPants_Midi_red"
+}, {
+	"class": "CanvasPants_Midi_violet"
+}, {
+	"class": "TrackSuit_PantsBase"
+}, {
+	"class": "TrackSuit_Pants_Black"
+}, {
+	"class": "TrackSuit_Pants_Blue"
+}, {
+	"class": "TrackSuit_Pants_Green"
+}, {
+	"class": "TrackSuit_Pants_Red"
+}, {
+	"class": "TrackSuit_Pants_LightBlue"
+}, {
+	"class": "Gorka_pantsBase"
+}, {
+	"class": "Gorka_pants_summer"
+}, {
+	"class": "Gorka_pants_autumn"
+}, {
+	"class": "Gorka_pants_flat"
+}, {
+	"class": "Gorka_pants_PautRev"
+}, {
+	"class": "Police_pants"
+}, {
+	"class": "Police_pants_orel"
+}, {
+	"class": "ParamedicPantsBase"
+}, {
+	"class": "ParamedicPantsBlue"
+}, {
+	"class": "ParamedicPantsCrimson"
+}, {
+	"class": "ParamedicPantsGreen"
+}, {
+	"class": "FirefightersPantsBase"
+}, {
+	"class": "FirefightersPants_Beige"
+}, {
+	"class": "FirefightersPants_Black"
+}, {
+	"class": "PrisonUniformPants"
+}, {
+	"class": "Pants_LeatherPantsBase"
+}, {
+	"class": "Pants_LeatherPants_Natural"
+}, {
+	"class": "Pants_LeatherPants_Beige"
+}, {
+	"class": "Pants_LeatherPants_Brown"
+}, {
+	"class": "Pants_LeatherPants_Black"
+}, {
+	"class": "MedicalScrubs_PantsBase"
+}, {
+	"class": "MedicalScrubs_Pants_Blue"
+}, {
+	"class": "MedicalScrubs_Pants_Green"
+}, {
+	"class": "MedicalScrubs_Pants_White"
+}, {
+	"class": "USMC_PantsBase"
+}, {
+	"class": "USMC_Pants_Desert"
+}, {
+	"class": "USMC_Pants_Woodland"
+}, {
+	"class": "Slacks_PantsBase"
+}, {
+	"class": "Slacks_Pants_Beige"
+}, {
+	"class": "Slacks_Pants_Black"
+}, {
+	"class": "Slacks_Pants_Blue"
+}, {
+	"class": "Slacks_Pants_Brown"
+}, {
+	"class": "Slacks_Pants_DarkGrey"
+}, {
+	"class": "Slacks_Pants_Khaki"
+}, {
+	"class": "Slacks_Pants_LightGrey"
+}, {
+	"class": "Slacks_Pants_White"
+}, {
+	"class": "BDUpants_Base"
+}, {
+	"class": "BDUpants_Woodland"
+}, {
+	"class": "NBCPantsBase"
+}, {
+	"class": "NBCPantsGray"
+}, {
+	"class": "MaleLegsAbove"
+}, {
+	"class": "JeansAbove"
+}, {
+	"class": "EN5C_Jeans_ColorBase"
+}, {
+	"class": "EN5C_Jeans_Black"
+}, {
+	"class": "EN5C_Jeans_Blue"
+}, {
+	"class": "EN5C_Jeans_Brown"
+}, {
+	"class": "EN5C_Jeans_Green"
+}, {
+	"class": "EN5C_Jeans_Grey"
+}, {
+	"class": "EN5C_Jeans_BlueDark"
+}, {
+	"class": "EN5C_CargoPants_ColorBase"
+}, {
+	"class": "EN5C_CargoPants_Beige"
+}, {
+	"class": "EN5C_CargoPants_Black"
+}, {
+	"class": "EN5C_CargoPants_Blue"
+}, {
+	"class": "EN5C_CargoPants_Green"
+}, {
+	"class": "EN5C_CargoPants_Grey"
+}, {
+	"class": "EN5C_TTSKOPants"
+}, {
+	"class": "EN5C_HunterPants_ColorBase"
+}, {
+	"class": "EN5C_HunterPants_Autumn"
+}, {
+	"class": "EN5C_HunterPants_Brown"
+}, {
+	"class": "EN5C_HunterPants_Spring"
+}, {
+	"class": "EN5C_HunterPants_Summer"
+}, {
+	"class": "EN5C_HunterPants_Winter"
+}, {
+	"class": "EN5C_CanvasPants_ColorBase"
+}, {
+	"class": "EN5C_CanvasPants_Beige"
+}, {
+	"class": "EN5C_CanvasPants_Blue"
+}, {
+	"class": "EN5C_CanvasPants_Grey"
+}, {
+	"class": "EN5C_CanvasPants_Red"
+}, {
+	"class": "EN5C_CanvasPants_Violet"
+}, {
+	"class": "EN5C_CanvasPantsMidi_ColorBase"
+}, {
+	"class": "EN5C_CanvasPantsMidi_Beige"
+}, {
+	"class": "EN5C_CanvasPantsMidi_Blue"
+}, {
+	"class": "EN5C_CanvasPantsMidi_Grey"
+}, {
+	"class": "EN5C_CanvasPantsMidi_Red"
+}, {
+	"class": "EN5C_CanvasPantsMidi_Violet"
+}, {
+	"class": "EN5C_TrackSuitPants_ColorBase"
+}, {
+	"class": "EN5C_TrackSuitPants_Black"
+}, {
+	"class": "EN5C_TrackSuitPants_Blue"
+}, {
+	"class": "EN5C_TrackSuitPants_Green"
+}, {
+	"class": "EN5C_TrackSuitPants_Red"
+}, {
+	"class": "EN5C_TrackSuitPants_LightBlue"
+}, {
+	"class": "EN5C_GorkaPants_ColorBase"
+}, {
+	"class": "EN5C_GorkaPants_Summer"
+}, {
+	"class": "EN5C_GorkaPants_Autumn"
+}, {
+	"class": "EN5C_GorkaPants_Flat"
+}, {
+	"class": "EN5C_GorkaPants_PautRev"
+}, {
+	"class": "EN5C_PolicePants"
+}, {
+	"class": "EN5C_PolicePantsOrel"
+}, {
+	"class": "EN5C_ParamedicPants_ColorBase"
+}, {
+	"class": "EN5C_ParamedicPants_Blue"
+}, {
+	"class": "EN5C_ParamedicPants_Crimson"
+}, {
+	"class": "EN5C_ParamedicPants_Green"
+}, {
+	"class": "EN5C_FirefightersPants_ColorBase"
+}, {
+	"class": "EN5C_FirefightersPants_Beige"
+}, {
+	"class": "EN5C_FirefightersPants_Black"
+}, {
+	"class": "EN5C_PrisonUniformPants"
+}, {
+	"class": "EN5C_LeatherPants_ColorBase"
+}, {
+	"class": "EN5C_LeatherPants_Natural"
+}, {
+	"class": "EN5C_LeatherPants_Beige"
+}, {
+	"class": "EN5C_LeatherPants_Brown"
+}, {
+	"class": "EN5C_LeatherPants_Black"
+}, {
+	"class": "EN5C_MedicalScrubsPants_ColorBase"
+}, {
+	"class": "EN5C_MedicalScrubsPants_Blue"
+}, {
+	"class": "EN5C_MedicalScrubsPants_Green"
+}, {
+	"class": "EN5C_MedicalScrubsPants_White"
+}, {
+	"class": "EN5C_USMCPants_ColorBase"
+}, {
+	"class": "EN5C_USMCPants_Desert"
+}, {
+	"class": "EN5C_USMCPants_Woodland"
+}, {
+	"class": "EN5C_SlacksPants_ColorBase"
+}, {
+	"class": "EN5C_SlacksPants_Beige"
+}, {
+	"class": "EN5C_SlacksPants_Black"
+}, {
+	"class": "EN5C_SlacksPants_Blue"
+}, {
+	"class": "EN5C_SlacksPants_Brown"
+}, {
+	"class": "EN5C_SlacksPants_DarkGrey"
+}, {
+	"class": "EN5C_SlacksPants_Khaki"
+}, {
+	"class": "EN5C_SlacksPants_LightGrey"
+}, {
+	"class": "EN5C_SlacksPants_White"
+}, {
+	"class": "EN5C_BDUPants"
+}, {
+	"class": "EN5C_NBCPantsBase"
+}, {
+	"class": "EN5C_NBCPantsGray"
+}, {
+	"class": "MaleFeetNew"
+}, {
+	"class": "MaleAsianFeetNew"
+}, {
+	"class": "MaleAfricanFeetNew"
+}, {
+	"class": "MaleLatinoFeetNew"
+}, {
+	"class": "MaleIndianFeet"
+}, {
+	"class": "MaleDeanFeet"
+}, {
+	"class": "MaleJazzFeet"
+}, {
+	"class": "FemaleFeet"
+}, {
+	"class": "FemaleAsianFeet"
+}, {
+	"class": "FemaleAfricanFeet"
+}, {
+	"class": "FemaleLatinoFeet"
+}, {
+	"class": "FemaleIndianFeet"
+}, {
+	"class": "FemaleKamilaFeet"
+}, {
+	"class": "FemaleHenrietFeet"
+}, {
+	"class": "FemaleJanaZFeet"
+}, {
+	"class": "AthleticShoes_Base"
+}, {
+	"class": "AthleticShoes_Black"
+}, {
+	"class": "AthleticShoes_Blue"
+}, {
+	"class": "AthleticShoes_Brown"
+}, {
+	"class": "AthleticShoes_Green"
+}, {
+	"class": "AthleticShoes_Grey"
+}, {
+	"class": "HikingBoots_Base"
+}, {
+	"class": "HikingBoots_Brown"
+}, {
+	"class": "HikingBoots_Black"
+}, {
+	"class": "HikingBoots_Low_Base"
+}, {
+	"class": "HikingBoots_Low_Beige"
+}, {
+	"class": "HikingBoots_Low_Black"
+}, {
+	"class": "HikingBoots_Low_Blue"
+}, {
+	"class": "HikingBoots_Low_Grey"
+}, {
+	"class": "Wellies_Base"
+}, {
+	"class": "Wellies_Black"
+}, {
+	"class": "Wellies_Brown"
+}, {
+	"class": "Wellies_Green"
+}, {
+	"class": "Wellies_Grey"
+}, {
+	"class": "WorkingBoots_Base"
+}, {
+	"class": "WorkingBoots_Beige"
+}, {
+	"class": "WorkingBoots_Brown"
+}, {
+	"class": "WorkingBoots_Green"
+}, {
+	"class": "WorkingBoots_Grey"
+}, {
+	"class": "WorkingBoots_Yellow"
+}, {
+	"class": "JungleBoots_Base"
+}, {
+	"class": "JungleBoots_Beige"
+}, {
+	"class": "JungleBoots_Black"
+}, {
+	"class": "JungleBoots_Brown"
+}, {
+	"class": "JungleBoots_Green"
+}, {
+	"class": "JungleBoots_Olive"
+}, {
+	"class": "LeatherShoes_Base"
+}, {
+	"class": "LeatherShoes_Beige"
+}, {
+	"class": "LeatherShoes_Black"
+}, {
+	"class": "LeatherShoes_Brown"
+}, {
+	"class": "LeatherShoes_Sunburst"
+}, {
+	"class": "LeatherShoes_White"
+}, {
+	"class": "MilitaryBoots_Base"
+}, {
+	"class": "MilitaryBoots_Beige"
+}, {
+	"class": "MilitaryBoots_Black"
+}, {
+	"class": "MilitaryBoots_Bluerock"
+}, {
+	"class": "MilitaryBoots_Brown"
+}, {
+	"class": "MilitaryBoots_Redpunk"
+}, {
+	"class": "CombatBoots_Base"
+}, {
+	"class": "CombatBoots_Beige"
+}, {
+	"class": "CombatBoots_Black"
+}, {
+	"class": "CombatBoots_Brown"
+}, {
+	"class": "CombatBoots_Green"
+}, {
+	"class": "CombatBoots_Grey"
+}, {
+	"class": "JoggingShoes_Base"
+}, {
+	"class": "JoggingShoes_Black"
+}, {
+	"class": "JoggingShoes_Blue"
+}, {
+	"class": "JoggingShoes_Red"
+}, {
+	"class": "JoggingShoes_Violet"
+}, {
+	"class": "JoggingShoes_White"
+}, {
+	"class": "Shoes_LeatherMoccasinsBase"
+}, {
+	"class": "Shoes_LeatherMoccasins_Natural"
+}, {
+	"class": "Shoes_LeatherMoccasins_Beige"
+}, {
+	"class": "Shoes_LeatherMoccasins_Brown"
+}, {
+	"class": "Shoes_LeatherMoccasins_Black"
+}, {
+	"class": "Sneakers_Base"
+}, {
+	"class": "Sneakers_Black"
+}, {
+	"class": "Sneakers_Gray"
+}, {
+	"class": "Sneakers_Green"
+}, {
+	"class": "Sneakers_Red"
+}, {
+	"class": "Sneakers_White"
+}, {
+	"class": "NBCBootsBase"
+}, {
+	"class": "NBCBootsGray"
+}, {
+	"class": "MaleFeetAbove"
+}, {
+	"class": "AthleticShoesAbove"
+}, {
+	"class": "EN5C_AthleticShoes_ColorBase"
+}, {
+	"class": "EN5C_AthleticShoes_Blue"
+}, {
+	"class": "EN5C_AthleticShoes_Black"
+}, {
+	"class": "EN5C_AthleticShoes_Brown"
+}, {
+	"class": "EN5C_AthleticShoes_Green"
+}, {
+	"class": "EN5C_AthleticShoes_Grey"
+}, {
+	"class": "EN5C_HikingBoots_ColorBase"
+}, {
+	"class": "EN5C_HikingBoots_Brown"
+}, {
+	"class": "EN5C_HikingBoots_Black"
+}, {
+	"class": "EN5C_HikingBootsLow_ColorBase"
+}, {
+	"class": "EN5C_HikingBootsLow_Black"
+}, {
+	"class": "EN5C_HikingBootsLow_Blue"
+}, {
+	"class": "EN5C_HikingBootsLow_Beige"
+}, {
+	"class": "EN5C_HikingBootsLow_Grey"
+}, {
+	"class": "EN5C_Wellies_ColorBase"
+}, {
+	"class": "EN5C_Wellies_Black"
+}, {
+	"class": "EN5C_Wellies_Brown"
+}, {
+	"class": "EN5C_Wellies_Green"
+}, {
+	"class": "EN5C_Wellies_Grey"
+}, {
+	"class": "EN5C_WorkingBoots_ColorBase"
+}, {
+	"class": "EN5C_WorkingBoots_Grey"
+}, {
+	"class": "EN5C_WorkingBoots_Brown"
+}, {
+	"class": "EN5C_WorkingBoots_Green"
+}, {
+	"class": "EN5C_WorkingBoots_Yellow"
+}, {
+	"class": "EN5C_WorkingBoots_Beige"
+}, {
+	"class": "EN5C_JungleBoots_ColorBase"
+}, {
+	"class": "EN5C_JungleBoots_Beige"
+}, {
+	"class": "EN5C_JungleBoots_Black"
+}, {
+	"class": "EN5C_JungleBoots_Brown"
+}, {
+	"class": "EN5C_JungleBoots_Green"
+}, {
+	"class": "EN5C_JungleBoots_Olive"
+}, {
+	"class": "EN5C_LeatherShoes_ColorBase"
+}, {
+	"class": "EN5C_LeatherShoes_Beige"
+}, {
+	"class": "EN5C_LeatherShoes_Black"
+}, {
+	"class": "EN5C_LeatherShoes_Brown"
+}, {
+	"class": "EN5C_LeatherShoes_Sunburst"
+}, {
+	"class": "EN5C_LeatherShoes_White"
+}, {
+	"class": "EN5C_MilitaryBoots_ColorBase"
+}, {
+	"class": "EN5C_MilitaryBoots_Beige"
+}, {
+	"class": "EN5C_MilitaryBoots_Black"
+}, {
+	"class": "EN5C_MilitaryBoots_Bluerock"
+}, {
+	"class": "EN5C_MilitaryBoots_Brown"
+}, {
+	"class": "EN5C_MilitaryBoots_Redpunk"
+}, {
+	"class": "EN5C_CombatBoots_ColorBase"
+}, {
+	"class": "EN5C_CombatBoots_Beige"
+}, {
+	"class": "EN5C_CombatBoots_Black"
+}, {
+	"class": "EN5C_CombatBoots_Brown"
+}, {
+	"class": "EN5C_CombatBoots_Green"
+}, {
+	"class": "EN5C_CombatBoots_Grey"
+}, {
+	"class": "EN5C_JoggingShoes_ColorBase"
+}, {
+	"class": "EN5C_JoggingShoes_Black"
+}, {
+	"class": "EN5C_JoggingShoes_Blue"
+}, {
+	"class": "EN5C_JoggingShoes_Red"
+}, {
+	"class": "EN5C_JoggingShoes_Violet"
+}, {
+	"class": "EN5C_JoggingShoes_White"
+}, {
+	"class": "EN5C_LeatherMoccasinsShoes_ColorBase"
+}, {
+	"class": "EN5C_LeatherMoccasinsShoes_Black"
+}, {
+	"class": "EN5C_LeatherMoccasinsShoes_Natural"
+}, {
+	"class": "EN5C_LeatherMoccasinsShoes_Brown"
+}, {
+	"class": "EN5C_LeatherMoccasinsShoes_Beige"
+}, {
+	"class": "EN5C_Sneakers_ColorBase"
+}, {
+	"class": "EN5C_Sneakers_Black"
+}, {
+	"class": "EN5C_Sneakers_Gray"
+}, {
+	"class": "EN5C_Sneakers_Green"
+}, {
+	"class": "EN5C_Sneakers_Red"
+}, {
+	"class": "EN5C_Sneakers_White"
+}, {
+	"class": "EN5C_NBCBootsBase"
+}, {
+	"class": "EN5C_NBCBootsGray"
+}, {
+	"class": "ClothingTopwearBase"
+}, {
+	"class": "MaleTorsoNew"
+}, {
+	"class": "MaleAsianTorsoNew"
+}, {
+	"class": "MaleAfricanTorsoNew"
+}, {
+	"class": "MaleLatinoTorsoNew"
+}, {
+	"class": "FemaleTorso"
+}, {
+	"class": "FemaleAsianTorso"
+}, {
+	"class": "FemaleAfricanTorso"
+}, {
+	"class": "FemaleLatinoTorso"
+}, {
+	"class": "MaleTorsoAbove"
+}, {
+	"class": "ArmbandBase"
+}, {
+	"class": "Armband"
+}, {
+	"class": "Armband_White"
+}, {
+	"class": "Armband_Yellow"
+}, {
+	"class": "Armband_Orange"
+}, {
+	"class": "Armband_Red"
+}, {
+	"class": "Armband_Green"
+}, {
+	"class": "Armband_Blue"
+}, {
+	"class": "Armband_Black"
+}, {
+	"class": "Armband_Pink"
+}, {
+	"class": "SweaterBase"
+}, {
+	"class": "Sweater_Gray"
+}, {
+	"class": "Sweater_Blue"
+}, {
+	"class": "Sweater_Green"
+}, {
+	"class": "Sweater_Red"
+}, {
+	"class": "ShirtBase"
+}, {
+	"class": "Shirt_CheckBlue"
+}, {
+	"class": "Shirt_CheckBlueBright"
+}, {
+	"class": "Shirt_CheckGreen"
+}, {
+	"class": "Shirt_CheckRed"
+}, {
+	"class": "Shirt_CheckWhite"
+}, {
+	"class": "Shirt_CheckWhiteNewAnimSystem"
+}, {
+	"class": "Shirt_PlaneBlack"
+}, {
+	"class": "TShirtBase"
+}, {
+	"class": "TShirtBeige"
+}, {
+	"class": "TShirtBlack"
+}, {
+	"class": "TShirtBlue"
+}, {
+	"class": "TShirtGreen"
+}, {
+	"class": "TShirtOrangeWhiteStripes"
+}, {
+	"class": "TShirtRed"
+}, {
+	"class": "TShirtRedBlackStripes"
+}, {
+	"class": "TShirtWhite"
+}, {
+	"class": "TShirtGrey"
+}, {
+	"class": "HoodieBase"
+}, {
+	"class": "Hoodie_Blue"
+}, {
+	"class": "Hoodie_Black"
+}, {
+	"class": "Hoodie_Brown"
+}, {
+	"class": "Hoodie_Green"
+}, {
+	"class": "Hoodie_Grey"
+}, {
+	"class": "Hoodie_Red"
+}, {
+	"class": "TacticalShirtBase"
+}, {
+	"class": "TacticalShirtGrey"
+}, {
+	"class": "TacticalShirtBlack"
+}, {
+	"class": "TacticalShirtOlive"
+}, {
+	"class": "TacticalShirtTan"
+}, {
+	"class": "HikingJacketBase"
+}, {
+	"class": "HikingJacketBlack"
+}, {
+	"class": "HikingJacketBlue"
+}, {
+	"class": "HikingJacketRed"
+}, {
+	"class": "HikingJacketGreen"
+}, {
+	"class": "RaincoatBase"
+}, {
+	"class": "Raincoat_Orange"
+}, {
+	"class": "Raincoat_Green"
+}, {
+	"class": "Raincoat_Yellow"
+}, {
+	"class": "Raincoat_Pink"
+}, {
+	"class": "Raincoat_Red"
+}, {
+	"class": "Raincoat_Blue"
+}, {
+	"class": "Raincoat_Black"
+}, {
+	"class": "M65_JacketBase"
+}, {
+	"class": "M65_Jacket_Black"
+}, {
+	"class": "M65_Jacket_Khaki"
+}, {
+	"class": "M65_Jacket_Olive"
+}, {
+	"class": "M65_Jacket_Tan"
+}, {
+	"class": "TTsKO_JacketBase"
+}, {
+	"class": "TTsKO_Jacket_Camo"
+}, {
+	"class": "Gorka_up_Base"
+}, {
+	"class": "Gorka_up_summer"
+}, {
+	"class": "Gorka_up_flat"
+}, {
+	"class": "Gorka_up_autumn"
+}, {
+	"class": "Gorka_up_PautRev"
+}, {
+	"class": "RidersJacket_JacketBase"
+}, {
+	"class": "RidersJacket_Black"
+}, {
+	"class": "WoolCoatBase"
+}, {
+	"class": "WoolCoat_Black"
+}, {
+	"class": "WoolCoat_Red"
+}, {
+	"class": "WoolCoat_Blue"
+}, {
+	"class": "WoolCoat_Green"
+}, {
+	"class": "WoolCoat_Beige"
+}, {
+	"class": "WoolCoat_Check_Red"
+}, {
+	"class": "WoolCoat_Check_Black"
+}, {
+	"class": "WoolCoat_Check_Blue"
+}, {
+	"class": "WoolCoat_Check_Grey"
+}, {
+	"class": "WoolCoat_Check_Brown"
+}, {
+	"class": "TrackSuit_JacketBase"
+}, {
+	"class": "TrackSuit_Jacket_Black"
+}, {
+	"class": "TrackSuit_Jacket_Blue"
+}, {
+	"class": "TrackSuit_Jacket_Green"
+}, {
+	"class": "TrackSuit_Jacket_Red"
+}, {
+	"class": "TrackSuit_Jacket_LightBlue"
+}, {
+	"class": "PoliceJacket"
+}, {
+	"class": "PoliceJacket_orel"
+}, {
+	"class": "ParamedicJacketBase"
+}, {
+	"class": "ParamedicJacketBlue"
+}, {
+	"class": "ParamedicJacketCrimson"
+}, {
+	"class": "ParamedicJacketGreen"
+}, {
+	"class": "FirefighterJacketBase"
+}, {
+	"class": "FirefighterJacket_Beige"
+}, {
+	"class": "FirefighterJacket_Black"
+}, {
+	"class": "PrisonUniformJacket"
+}, {
+	"class": "MiniDressBase"
+}, {
+	"class": "MiniDress_Pink"
+}, {
+	"class": "MiniDress_PinkChecker"
+}, {
+	"class": "MiniDress_RedChecker"
+}, {
+	"class": "MiniDress_WhiteChecker"
+}, {
+	"class": "MiniDress_GreenChecker"
+}, {
+	"class": "MiniDress_BrownChecker"
+}, {
+	"class": "MiniDress_BlueChecker"
+}, {
+	"class": "MiniDress_BlueWithDots"
+}, {
+	"class": "QuiltedJacketBase"
+}, {
+	"class": "QuiltedJacket_Black"
+}, {
+	"class": "QuiltedJacket_Green"
+}, {
+	"class": "QuiltedJacket_Blue"
+}, {
+	"class": "QuiltedJacket_Red"
+}, {
+	"class": "QuiltedJacket_Grey"
+}, {
+	"class": "QuiltedJacket_Orange"
+}, {
+	"class": "QuiltedJacket_Yellow"
+}, {
+	"class": "QuiltedJacket_Violet"
+}, {
+	"class": "BomberJacketBase"
+}, {
+	"class": "BomberJacket_Black"
+}, {
+	"class": "BomberJacket_Brown"
+}, {
+	"class": "BomberJacket_Blue"
+}, {
+	"class": "BomberJacket_Grey"
+}, {
+	"class": "BomberJacket_Maroon"
+}, {
+	"class": "BomberJacket_Olive"
+}, {
+	"class": "BomberJacket_SkyBlue"
+}, {
+	"class": "Top_LeatherJacketBase"
+}, {
+	"class": "Top_LeatherJacket_Natural"
+}, {
+	"class": "Top_LeatherJacket_Beige"
+}, {
+	"class": "Top_LeatherJacket_Brown"
+}, {
+	"class": "Top_LeatherJacket_Black"
+}, {
+	"class": "Hunting_jacketBase"
+}, {
+	"class": "Hunting_jacket_autumn"
+}, {
+	"class": "Hunting_jacket_brown"
+}, {
+	"class": "Hunting_jacket_spring"
+}, {
+	"class": "Hunting_jacket_summer"
+}, {
+	"class": "Hunting_jacket_winter"
+}, {
+	"class": "MedicalScrubs_ShirtBase"
+}, {
+	"class": "MedicalScrubs_Shirt_Blue"
+}, {
+	"class": "MedicalScrubs_Shirt_Green"
+}, {
+	"class": "MedicalScrubs_Shirt_White"
+}, {
+	"class": "LabCoat"
+}, {
+	"class": "NurseDressBase"
+}, {
+	"class": "NurseDress_White"
+}, {
+	"class": "NurseDress_Blue"
+}, {
+	"class": "USMC_JacketBase"
+}, {
+	"class": "USMC_Jacket_Desert"
+}, {
+	"class": "USMC_Jacket_Woodland"
+}, {
+	"class": "BlouseBase"
+}, {
+	"class": "Blouse_Blue"
+}, {
+	"class": "Blouse_Green"
+}, {
+	"class": "Blouse_Violet"
+}, {
+	"class": "Blouse_White"
+}, {
+	"class": "NBCJacketBase"
+}, {
+	"class": "NBCJacketGray"
+}, {
+	"class": "TShirtAbove"
+}, {
+	"class": "EN5C_Armband_ColorBase"
+}, {
+	"class": "EN5C_Armband_White"
+}, {
+	"class": "EN5C_Armband_Yellow"
+}, {
+	"class": "EN5C_Armband_Orange"
+}, {
+	"class": "EN5C_Armband_Red"
+}, {
+	"class": "EN5C_Armband_Green"
+}, {
+	"class": "EN5C_Armband_Pink"
+}, {
+	"class": "EN5C_Armband_Blue"
+}, {
+	"class": "EN5C_Armband_Black"
+}, {
+	"class": "EN5C_Sweater_ColorBase"
+}, {
+	"class": "EN5C_Sweater_Gray"
+}, {
+	"class": "EN5C_Sweater_Blue"
+}, {
+	"class": "EN5C_Sweater_Green"
+}, {
+	"class": "EN5C_Sweater_Red"
+}, {
+	"class": "EN5C_Shirt_ColorBase"
+}, {
+	"class": "EN5C_Shirt_BlueCheck"
+}, {
+	"class": "EN5C_Shirt_BlueCheckBright"
+}, {
+	"class": "EN5C_Shirt_GreenCheck"
+}, {
+	"class": "EN5C_Shirt_RedCheck"
+}, {
+	"class": "EN5C_Shirt_WhiteCheck"
+}, {
+	"class": "EN5C_Shirt_WhiteCheckNewAnimSystem"
+}, {
+	"class": "EN5C_Shirt_PlaneBlack"
+}, {
+	"class": "EN5C_TShirt_ColorBase"
+}, {
+	"class": "EN5C_TShirt_Beige"
+}, {
+	"class": "EN5C_TShirt_Black"
+}, {
+	"class": "EN5C_TShirt_Blue"
+}, {
+	"class": "EN5C_TShirt_Green"
+}, {
+	"class": "EN5C_TShirt_OrangeWhiteStripes"
+}, {
+	"class": "EN5C_TShirt_Red"
+}, {
+	"class": "EN5C_TShirt_RedBlackStripes"
+}, {
+	"class": "EN5C_TShirt_White"
+}, {
+	"class": "EN5C_TShirt_Grey"
+}, {
+	"class": "EN5C_Hoodie_ColorBase"
+}, {
+	"class": "EN5C_Hoodie_Blue"
+}, {
+	"class": "EN5C_Hoodie_Black"
+}, {
+	"class": "EN5C_Hoodie_Brown"
+}, {
+	"class": "EN5C_Hoodie_Green"
+}, {
+	"class": "EN5C_Hoodie_Grey"
+}, {
+	"class": "EN5C_Hoodie_Red"
+}, {
+	"class": "EN5C_TacticalShirt_ColorBase"
+}, {
+	"class": "EN5C_TacticalShirt_Grey"
+}, {
+	"class": "EN5C_TacticalShirt_Black"
+}, {
+	"class": "EN5C_TacticalShirt_Olive"
+}, {
+	"class": "EN5C_TacticalShirt_Tan"
+}, {
+	"class": "EN5C_HikingJacket_ColorBase"
+}, {
+	"class": "EN5C_HikingJacket_Black"
+}, {
+	"class": "EN5C_HikingJacket_Blue"
+}, {
+	"class": "EN5C_HikingJacket_Red"
+}, {
+	"class": "EN5C_HikingJacket_Green"
+}, {
+	"class": "EN5C_Raincoat_ColorBase"
+}, {
+	"class": "EN5C_Raincoat_Orange"
+}, {
+	"class": "EN5C_Raincoat_Green"
+}, {
+	"class": "EN5C_Raincoat_Yellow"
+}, {
+	"class": "EN5C_Raincoat_Pink"
+}, {
+	"class": "EN5C_Raincoat_Red"
+}, {
+	"class": "EN5C_Raincoat_Blue"
+}, {
+	"class": "EN5C_Raincoat_Black"
+}, {
+	"class": "EN5C_M65Jacket_ColorBase"
+}, {
+	"class": "EN5C_M65Jacket_Black"
+}, {
+	"class": "EN5C_M65Jacket_Khaki"
+}, {
+	"class": "EN5C_M65Jacket_Tan"
+}, {
+	"class": "EN5C_M65Jacket_Olive"
+}, {
+	"class": "EN5C_TTsKOJacket_ColorBase"
+}, {
+	"class": "EN5C_TTsKOJacket_Camo"
+}, {
+	"class": "EN5C_GorkaEJacket_ColorBase"
+}, {
+	"class": "EN5C_GorkaEJacket_Summer"
+}, {
+	"class": "EN5C_GorkaEJacket_Flat"
+}, {
+	"class": "EN5C_GorkaEJacket_Autumn"
+}, {
+	"class": "EN5C_GorkaEJacket_PautRev"
+}, {
+	"class": "EN5C_RidersJacket_ColorBase"
+}, {
+	"class": "EN5C_RidersJacket_Black"
+}, {
+	"class": "EN5C_WoolCoat_ColorBase"
+}, {
+	"class": "EN5C_WoolCoat_Black"
+}, {
+	"class": "EN5C_WoolCoat_Red"
+}, {
+	"class": "EN5C_WoolCoat_Blue"
+}, {
+	"class": "EN5C_WoolCoat_Green"
+}, {
+	"class": "EN5C_WoolCoat_Beige"
+}, {
+	"class": "EN5C_WoolCoat_RedCheck"
+}, {
+	"class": "EN5C_WoolCoat_BlackCheck"
+}, {
+	"class": "EN5C_WoolCoat_BlueCheck"
+}, {
+	"class": "EN5C_WoolCoat_GreyCheck"
+}, {
+	"class": "EN5C_WoolCoat_BrownCheck"
+}, {
+	"class": "EN5C_TrackSuitJacket_ColorBase"
+}, {
+	"class": "EN5C_TrackSuitJacket_Black"
+}, {
+	"class": "EN5C_TrackSuitJacket_Blue"
+}, {
+	"class": "EN5C_TrackSuitJacket_Green"
+}, {
+	"class": "EN5C_TrackSuitJacket_LightBlue"
+}, {
+	"class": "EN5C_TrackSuitJacket_Red"
+}, {
+	"class": "EN5C_PoliceJacket"
+}, {
+	"class": "EN5C_PoliceJacketOrel"
+}, {
+	"class": "EN5C_ParamedicJacket_ColorBase"
+}, {
+	"class": "EN5C_ParamedicJacket_Blue"
+}, {
+	"class": "EN5C_ParamedicJacket_Crimson"
+}, {
+	"class": "EN5C_ParamedicJacket_Green"
+}, {
+	"class": "EN5C_FirefighterJacket_ColorBase"
+}, {
+	"class": "EN5C_FirefighterJacket_Beige"
+}, {
+	"class": "EN5C_FirefighterJacket_Black"
+}, {
+	"class": "EN5C_PrisonUniformJacket"
+}, {
+	"class": "EN5C_MiniDress_ColorBase"
+}, {
+	"class": "EN5C_MiniDress_Pink"
+}, {
+	"class": "EN5C_MiniDress_PinkChecker"
+}, {
+	"class": "EN5C_MiniDress_RedChecker"
+}, {
+	"class": "EN5C_MiniDress_WhiteChecker"
+}, {
+	"class": "EN5C_MiniDress_GreenChecker"
+}, {
+	"class": "EN5C_MiniDress_BrownChecker"
+}, {
+	"class": "EN5C_MiniDress_BlueChecker"
+}, {
+	"class": "EN5C_MiniDress_BlueWithDots"
+}, {
+	"class": "EN5C_QuiltedJacket_ColorBase"
+}, {
+	"class": "EN5C_QuiltedJacket_Black"
+}, {
+	"class": "EN5C_QuiltedJacket_Green"
+}, {
+	"class": "EN5C_QuiltedJacket_Blue"
+}, {
+	"class": "EN5C_QuiltedJacket_Red"
+}, {
+	"class": "EN5C_QuiltedJacket_Grey"
+}, {
+	"class": "EN5C_QuiltedJacket_Orange"
+}, {
+	"class": "EN5C_QuiltedJacket_Yellow"
+}, {
+	"class": "EN5C_QuiltedJacket_Violet"
+}, {
+	"class": "EN5C_BomberJacket_ColorBase"
+}, {
+	"class": "EN5C_BomberJacket_Black"
+}, {
+	"class": "EN5C_BomberJacket_Brown"
+}, {
+	"class": "EN5C_BomberJacket_Blue"
+}, {
+	"class": "EN5C_BomberJacket_Grey"
+}, {
+	"class": "EN5C_BomberJacket_Maroon"
+}, {
+	"class": "EN5C_BomberJacket_Olive"
+}, {
+	"class": "EN5C_BomberJacket_SkyBlue"
+}, {
+	"class": "EN5C_LeatherJacket_ColorBase"
+}, {
+	"class": "EN5C_LeatherJacket_Natural"
+}, {
+	"class": "EN5C_LeatherJacket_Beige"
+}, {
+	"class": "EN5C_LeatherJacket_Brown"
+}, {
+	"class": "EN5C_LeatherJacket_Black"
+}, {
+	"class": "EN5C_HuntingJacket_ColorBase"
+}, {
+	"class": "EN5C_HuntingJacket_Autumn"
+}, {
+	"class": "EN5C_HuntingJacket_Brown"
+}, {
+	"class": "EN5C_HuntingJacket_Spring"
+}, {
+	"class": "EN5C_HuntingJacket_Summer"
+}, {
+	"class": "EN5C_HuntingJacket_Winter"
+}, {
+	"class": "EN5C_MedicalScrubsShirt_ColorBase"
+}, {
+	"class": "EN5C_MedicalScrubsShirt_Blue"
+}, {
+	"class": "EN5C_MedicalScrubsShirt_Green"
+}, {
+	"class": "EN5C_MedicalScrubsShirt_White"
+}, {
+	"class": "EN5C_LabCoat"
+}, {
+	"class": "EN5C_NurseDress_ColorBase"
+}, {
+	"class": "EN5C_NurseDress_White"
+}, {
+	"class": "EN5C_NurseDress_Blue"
+}, {
+	"class": "EN5C_USMCJacket_ColorBase"
+}, {
+	"class": "EN5C_USMCJacket_Desert"
+}, {
+	"class": "EN5C_USMCJacket_Woodland"
+}, {
+	"class": "EN5C_Blouse_ColorBase"
+}, {
+	"class": "EN5C_Blouse_Blue"
+}, {
+	"class": "EN5C_Blouse_Green"
+}, {
+	"class": "EN5C_Blouse_Violet"
+}, {
+	"class": "EN5C_Blouse_White"
+}, {
+	"class": "EN5C_NBCJacketBase"
+}, {
+	"class": "EN5C_NBCJacketGray"
+}, {
+	"class": "EN5C_TShirtAbove"
+}, {
+	"class": "VestWithPocketsBase"
+}, {
+	"class": "PlateCarrierBlank"
+}, {
+	"class": "PlateCarrierHolster"
+}, {
+	"class": "PlateCarrierPouches"
+}, {
+	"class": "PlateCarrierComplete"
+}, {
+	"class": "SmershVest"
+}, {
+	"class": "SmershVestBackpack"
+}, {
+	"class": "BallisticVest"
+}, {
+	"class": "PressVest_Blue"
+}, {
+	"class": "PressVest_LightBlue"
+}, {
+	"class": "UKAssVestBase"
+}, {
+	"class": "UKAssVest_Black"
+}, {
+	"class": "UKAssVest_Camo"
+}, {
+	"class": "UKAssVest_Khaki"
+}, {
+	"class": "UKAssVest_Olive"
+}, {
+	"class": "PoliceVest"
+}, {
+	"class": "CarrierHolsterSolo"
+}, {
+	"class": "ChestHolster"
+}, {
+	"class": "HighCapacityVestBase"
+}, {
+	"class": "HighCapacityVest_Black"
+}, {
+	"class": "HighCapacityVest_Olive"
+}, {
+	"class": "Vest_LeatherStorageBase"
+}, {
+	"class": "Vest_LeatherStorage_Natural"
+}, {
+	"class": "Vest_LeatherStorage_Beige"
+}, {
+	"class": "Vest_LeatherStorage_Brown"
+}, {
+	"class": "Vest_LeatherStorage_Black"
+}, {
+	"class": "EN5C_PlateCarrierBlank"
+}, {
+	"class": "EN5C_PlateCarrierHolster"
+}, {
+	"class": "EN5C_PlateCarrierPouches"
+}, {
+	"class": "EN5C_PlateCarrierComplete"
+}, {
+	"class": "EN5C_SmershVest"
+}, {
+	"class": "EN5C_SmershVestBackpack"
+}, {
+	"class": "EN5C_BallisticVest"
+}, {
+	"class": "EN5C_PressVest_ColorBase"
+}, {
+	"class": "EN5C_PressVest_Blue"
+}, {
+	"class": "EN5C_PressVest_LightBlue"
+}, {
+	"class": "EN5C_UKAssVest_ColorBase"
+}, {
+	"class": "EN5C_UKAssVest_Black"
+}, {
+	"class": "EN5C_UKAssVest_Camo"
+}, {
+	"class": "EN5C_UKAssVest_Khaki"
+}, {
+	"class": "EN5C_UKAssVest_Olive"
+}, {
+	"class": "EN5C_PoliceVest"
+}, {
+	"class": "EN5C_CarrierHolsterSolo"
+}, {
+	"class": "EN5C_ChestHolster"
+}, {
+	"class": "EN5C_HighCapacityVest_ColorBase"
+}, {
+	"class": "EN5C_HighCapacityVest_Black"
+}, {
+	"class": "EN5C_HighCapacityVest_Olive"
+}, {
+	"class": "EN5C_LeatherStorageVest_ColorBase"
+}, {
+	"class": "EN5C_LeatherStorageVest_Natural"
+}, {
+	"class": "EN5C_LeatherStorageVest_Beige"
+}, {
+	"class": "EN5C_LeatherStorageVest_Brown"
+}, {
+	"class": "EN5C_LeatherStorageVest_Black"
+}, {
+	"class": "ZombieBase"
+}, {
+	"class": "ZombieFemaleBase"
+}, {
+	"class": "ZombieMaleBase"
+}, {
+	"class": "Hermit_Playable"
+}, {
+	"class": "ZmbM_HermitSkinny_Base"
+}, {
+	"class": "ZmbM_HermitSkinny_Beige"
+}, {
+	"class": "ZmbM_HermitSkinny_Black"
+}, {
+	"class": "ZmbM_HermitSkinny_Green"
+}, {
+	"class": "ZmbM_HermitSkinny_Red"
+}, {
+	"class": "ZmbM_FarmerFat_Base"
+}, {
+	"class": "ZmbM_FarmerFat_Beige"
+}, {
+	"class": "ZmbM_FarmerFat_Blue"
+}, {
+	"class": "ZmbM_FarmerFat_Brown"
+}, {
+	"class": "ZmbM_FarmerFat_Green"
+}, {
+	"class": "ZmbF_CitizenANormal_Base"
+}, {
+	"class": "ZmbF_CitizenANormal_Brown"
+}, {
+	"class": "ZmbF_CitizenANormal_Blue"
+}, {
+	"class": "ZmbM_CitizenBFat_Base"
+}, {
+	"class": "ZmbM_CitizenBFat_Red"
+}, {
+	"class": "ZmbM_CitizenBFat_Green"
+}, {
+	"class": "ZmbF_CitizenBSkinny_Base"
+}, {
+	"class": "ZmbF_CitizenBSkinny"
+}, {
+	"class": "ZmbM_PrisonerSkinny_Base"
+}, {
+	"class": "ZmbM_PrisonerSkinny"
+}, {
+	"class": "ZmbM_FirefighterNormal_Base"
+}, {
+	"class": "ZmbM_FirefighterNormal"
+}, {
+	"class": "ZmbM_FishermanOld_Base"
+}, {
+	"class": "ZmbM_FishermanOld_Blue"
+}, {
+	"class": "ZmbM_FishermanOld_Green"
+}, {
+	"class": "ZmbM_FishermanOld_Grey"
+}, {
+	"class": "ZmbM_FishermanOld_Red"
+}, {
+	"class": "ZmbF_JournalistNormal_Base"
+}, {
+	"class": "ZmbF_JournalistNormal_Blue"
+}, {
+	"class": "ZmbF_JournalistNormal_Green"
+}, {
+	"class": "ZmbF_JournalistNormal_Red"
+}, {
+	"class": "ZmbF_JournalistNormal_White"
+}, {
+	"class": "ZmbM_ParamedicNormal_Base"
+}, {
+	"class": "ZmbM_ParamedicNormal_Blue"
+}, {
+	"class": "ZmbM_ParamedicNormal_Green"
+}, {
+	"class": "ZmbM_ParamedicNormal_Red"
+}, {
+	"class": "ZmbM_ParamedicNormal_Black"
+}, {
+	"class": "ZmbF_ParamedicNormal_Base"
+}, {
+	"class": "ZmbF_ParamedicNormal_Blue"
+}, {
+	"class": "ZmbF_ParamedicNormal_Green"
+}, {
+	"class": "ZmbF_ParamedicNormal_Red"
+}, {
+	"class": "ZmbM_HikerSkinny_Base"
+}, {
+	"class": "ZmbM_HikerSkinny_Green"
+}, {
+	"class": "ZmbM_HikerSkinny_Yellow"
+}, {
+	"class": "ZmbF_HikerSkinny_Base"
+}, {
+	"class": "ZmbF_HikerSkinny_Blue"
+}, {
+	"class": "ZmbF_HikerSkinny_Grey"
+}, {
+	"class": "ZmbF_HikerSkinny_Green"
+}, {
+	"class": "ZmbF_HikerSkinny_Red"
+}, {
+	"class": "ZmbM_HunterOld_Base"
+}, {
+	"class": "ZmbM_HunterOld_Autumn"
+}, {
+	"class": "ZmbM_HunterOld_Spring"
+}, {
+	"class": "ZmbM_HunterOld_Summer"
+}, {
+	"class": "ZmbM_HunterOld_Winter"
+}, {
+	"class": "ZmbF_SurvivorNormal_Base"
+}, {
+	"class": "ZmbF_SurvivorNormal_Blue"
+}, {
+	"class": "ZmbF_SurvivorNormal_Orange"
+}, {
+	"class": "ZmbF_SurvivorNormal_Red"
+}, {
+	"class": "ZmbF_SurvivorNormal_White"
+}, {
+	"class": "ZmbM_SurvivorDean_Base"
+}, {
+	"class": "ZmbM_SurvivorDean_Black"
+}, {
+	"class": "ZmbM_SurvivorDean_Blue"
+}, {
+	"class": "ZmbM_SurvivorDean_Grey"
+}, {
+	"class": "ZmbM_PolicemanFat_Base"
+}, {
+	"class": "ZmbM_PolicemanFat"
+}, {
+	"class": "ZmbF_PoliceWomanNormal_Base"
+}, {
+	"class": "ZmbF_PoliceWomanNormal"
+}, {
+	"class": "ZmbM_SoldierNormal_Base"
+}, {
+	"class": "ZmbM_SoldierNormal"
+}, {
+	"class": "ZmbM_CommercialPilotOld_Base"
+}, {
+	"class": "ZmbM_CommercialPilotOld_Olive"
+}, {
+	"class": "ZmbM_CommercialPilotOld_Brown"
+}, {
+	"class": "ZmbM_CommercialPilotOld_Grey"
+}, {
+	"class": "ZmbM_PatrolNormal_Base"
+}, {
+	"class": "ZmbM_PatrolNormal_PautRev"
+}, {
+	"class": "ZmbM_PatrolNormal_Autumn"
+}, {
+	"class": "ZmbM_PatrolNormal_Flat"
+}, {
+	"class": "ZmbM_PatrolNormal_Summer"
+}, {
+	"class": "ZmbM_JoggerSkinny_Base"
+}, {
+	"class": "ZmbM_JoggerSkinny_Blue"
+}, {
+	"class": "ZmbM_JoggerSkinny_Green"
+}, {
+	"class": "ZmbM_JoggerSkinny_Red"
+}, {
+	"class": "ZmbF_JoggerSkinny_Base"
+}, {
+	"class": "ZmbF_JoggerSkinny_Blue"
+}, {
+	"class": "ZmbF_JoggerSkinny_Brown"
+}, {
+	"class": "ZmbF_JoggerSkinny_Green"
+}, {
+	"class": "ZmbF_JoggerSkinny_Red"
+}, {
+	"class": "ZmbM_MotobikerFat_Base"
+}, {
+	"class": "ZmbM_MotobikerFat_Beige"
+}, {
+	"class": "ZmbM_MotobikerFat_Black"
+}, {
+	"class": "ZmbM_VillagerOld_Base"
+}, {
+	"class": "ZmbM_VillagerOld_Blue"
+}, {
+	"class": "ZmbM_VillagerOld_Green"
+}, {
+	"class": "ZmbF_SkaterYoung_Base"
+}, {
+	"class": "ZmbF_SkaterYoung_Brown"
+}, {
+	"class": "ZmbF_SkaterYoung_Violet"
+}, {
+	"class": "ZmbF_DoctorSkinny_Base"
+}, {
+	"class": "ZmbF_DoctorSkinny"
+}, {
+	"class": "ConsumableBase"
+}, {
+	"class": "Consumable_Paper"
+}, {
+	"class": "Consumable_DuctTape"
+}, {
+	"class": "Consumable_BandanaBase"
+}, {
+	"class": "Consumable_Bandana_redpattern"
+}, {
+	"class": "Consumable_Bandana_blackpattern"
+}, {
+	"class": "Consumable_Bandana_polkapattern"
+}, {
+	"class": "Consumable_Bandana_greenpattern"
+}, {
+	"class": "Consumable_Bandana_camopattern"
+}, {
+	"class": "StackableBase"
+}, {
+	"class": "Consumable_Rags"
+}, {
+	"class": "Consumable_BurlapStrips"
+}, {
+	"class": "Consumable_Stone"
+}, {
+	"class": "Consumable_SmallStone"
+}, {
+	"class": "Consumable_Firewood"
+}, {
+	"class": "BatteryBase"
+}, {
+	"class": "Consumable_Battery9V"
+}, {
+	"class": "GasCanisterBase"
+}, {
+	"class": "Consumable_GasCanisterLarge"
+}, {
+	"class": "Consumable_GasCanisterMedium"
+}, {
+	"class": "Consumable_GasCanisterSmall"
+}, {
+	"class": "Consumable_ButaneCanister"
+}, {
+	"class": "SpraycanBase"
+}, {
+	"class": "Spraycan_Black"
+}, {
+	"class": "Spraycan_Green"
+}, {
+	"class": "Consumable_Matchbox"
+}, {
+	"class": "Consumable_Roadflare"
+}, {
+	"class": "Consumable_Grenade"
+}, {
+	"class": "Consumable_Chemlight_Base"
+}, {
+	"class": "Consumable_Chemlight_White"
+}, {
+	"class": "Consumable_Chemlight_Red"
+}, {
+	"class": "Consumable_Chemlight_Green"
+}, {
+	"class": "Consumable_Chemlight_Blue"
+}, {
+	"class": "Consumable_Chemlight_Yellow"
+}, {
+	"class": "Consumable_Flashbang"
+}, {
+	"class": "Consumable_PeltBase"
+}, {
+	"class": "Consumable_PeltWildboar"
+}, {
+	"class": "Consumable_PeltRabbit"
+}, {
+	"class": "Consumable_PeltCow"
+}, {
+	"class": "Consumable_PeltPig"
+}, {
+	"class": "Consumable_PeltDeer"
+}, {
+	"class": "Consumable_PeltGoat"
+}, {
+	"class": "Consumable_PeltBear"
+}, {
+	"class": "Consumable_PeltWolf"
+}, {
+	"class": "Consumable_PeltSheep"
+}, {
+	"class": "Consumable_PeltMouflon"
+}, {
+	"class": "Consumable_PeltFox"
+}, {
+	"class": "Consumable_TannedLeather_Base"
+}, {
+	"class": "Consumable_TannedLeather"
+}, {
+	"class": "Consumable_Hook"
+}, {
+	"class": "Consumable_BoneHook"
+}, {
+	"class": "Consumable_BarkBase"
+}, {
+	"class": "Consumable_Bark_Oak"
+}, {
+	"class": "Consumable_Bark_Birch"
+}, {
+	"class": "Consumable_Bones"
+}, {
+	"class": "Consumable_Bait"
+}, {
+	"class": "Consumable_BoneBait"
+}, {
+	"class": "Consumable_GardenLime"
+}, {
+	"class": "Consumable_Netting"
+}, {
+	"class": "Consumable_NailBox"
+}, {
+	"class": "Consumable_Nails"
+}, {
+	"class": "Consumable_WoodenPlanks"
+}, {
+	"class": "PileOfWoodenPlanks"
+}, {
+	"class": "Consumable_MetalPlates"
+}, {
+	"class": "EN5C_Paper"
+}, {
+	"class": "EN5C_DuctTape"
+}, {
+	"class": "EN5C_Bandana_ColorBase"
+}, {
+	"class": "EN5C_Bandana_Redpattern"
+}, {
+	"class": "EN5C_Bandana_Blackpattern"
+}, {
+	"class": "EN5C_Bandana_Polkapattern"
+}, {
+	"class": "EN5C_Bandana_Greenpattern"
+}, {
+	"class": "EN5C_Bandana_Camopattern"
+}, {
+	"class": "EN5C_Rag"
+}, {
+	"class": "EN5C_BurlapStrip"
+}, {
+	"class": "EN5C_Stone"
+}, {
+	"class": "EN5C_SmallStone"
+}, {
+	"class": "EN5C_Firewood"
+}, {
+	"class": "EN5C_Battery9V"
+}, {
+	"class": "EN5C_LargeGasCanister"
+}, {
+	"class": "EN5C_MediumGasCanister"
+}, {
+	"class": "EN5C_SmallGasCanister"
+}, {
+	"class": "EN5C_ButaneCanister"
+}, {
+	"class": "EN5C_Spraycan_ColorBase"
+}, {
+	"class": "EN5C_Spraycan_Black"
+}, {
+	"class": "EN5C_Spraycan_Green"
+}, {
+	"class": "EN5C_Matchbox"
+}, {
+	"class": "EN5C_NailBox"
+}, {
+	"class": "EN5C_Roadflare"
+}, {
+	"class": "EN5C_Chemlight_ColorBase"
+}, {
+	"class": "EN5C_Chemlight_White"
+}, {
+	"class": "EN5C_Chemlight_Red"
+}, {
+	"class": "EN5C_Chemlight_Green"
+}, {
+	"class": "EN5C_Chemlight_Blue"
+}, {
+	"class": "EN5C_Chemlight_Yellow"
+}, {
+	"class": "EN5C_Pelt_Base"
+}, {
+	"class": "EN5C_WildboarPelt"
+}, {
+	"class": "EN5C_RabbitPelt"
+}, {
+	"class": "EN5C_CowPelt"
+}, {
+	"class": "EN5C_PigPelt"
+}, {
+	"class": "EN5C_DeerPelt"
+}, {
+	"class": "EN5C_GoatPelt"
+}, {
+	"class": "EN5C_BearPelt"
+}, {
+	"class": "EN5C_WolfPelt"
+}, {
+	"class": "EN5C_SheepPelt"
+}, {
+	"class": "EN5C_MouflonPelt"
+}, {
+	"class": "EN5C_FoxPelt"
+}, {
+	"class": "EN5C_TannedLeather"
+}, {
+	"class": "EN5C_Hook"
+}, {
+	"class": "EN5C_BoneHook"
+}, {
+	"class": "EN5C_Bark_ColorBase"
+}, {
+	"class": "EN5C_Bark_Oak"
+}, {
+	"class": "EN5C_Bark_Birch"
+}, {
+	"class": "EN5C_Nail"
+}, {
+	"class": "EN5C_Bone"
+}, {
+	"class": "EN5C_Bait"
+}, {
+	"class": "EN5C_BoneBait"
+}, {
+	"class": "EN5C_GardenLime"
+}, {
+	"class": "EN5C_Netting"
+}, {
+	"class": "EN5C_WoodenPlank"
+}, {
+	"class": "EN5C_PileOfWoodenPlanks"
+}, {
+	"class": "EN5C_MetalPlate"
+}, {
+	"class": "EN5C_Rangefinder"
+}, {
+	"class": "HouseWithFireplace"
+}, {
+	"class": "Land_KrasnoAir_Hangars"
+}, {
+	"class": "Land_KrasnoAir_Control"
+}, {
+	"class": "Land_A_Hospital"
+}, {
+	"class": "Land_A_Office01"
+}, {
+	"class": "Ladder"
+}, {
+	"class": "LadderLong"
+}, {
+	"class": "Land_A_Office02"
+}, {
+	"class": "Land_A_Stationhouse"
+}, {
+	"class": "Land_Big_police_station"
+}, {
+	"class": "Land_BusStation_building"
+}, {
+	"class": "Land_BusStation_wall_bench"
+}, {
+	"class": "Land_Chapel_01"
+}, {
+	"class": "Land_Church_02"
+}, {
+	"class": "Land_Church_02a"
+}, {
+	"class": "Land_Church_03"
+}, {
+	"class": "Land_Health_care_center"
+}, {
+	"class": "Land_HouseB_Tenement_DayZ"
+}, {
+	"class": "Land_HouseB_Tenement_DayZ_rubble"
+}, {
+	"class": "Land_HouseB_Tenement"
+}, {
+	"class": "Land_HouseV2_01A"
+}, {
+	"class": "Land_HouseV2_01B"
+}, {
+	"class": "Land_HouseV2_02_Interier"
+}, {
+	"class": "Land_HouseV2_03"
+}, {
+	"class": "Land_HouseV2_03B"
+}, {
+	"class": "Land_HouseV2_04_interier"
+}, {
+	"class": "Land_HouseV2_05"
+}, {
+	"class": "Land_HouseV_1I1"
+}, {
+	"class": "Land_HouseV_1I2"
+}, {
+	"class": "Land_HouseV_1I3"
+}, {
+	"class": "Land_HouseV_1I4"
+}, {
+	"class": "Land_HouseV_1L1"
+}, {
+	"class": "Land_HouseV_1L2"
+}, {
+	"class": "Land_HouseV_1T"
+}, {
+	"class": "Land_HouseV_2I"
+}, {
+	"class": "Land_HouseV_2L"
+}, {
+	"class": "Land_houseV_2T1"
+}, {
+	"class": "Land_houseV_2T2"
+}, {
+	"class": "Land_HouseV_3I1"
+}, {
+	"class": "Land_HouseV_3I2"
+}, {
+	"class": "Land_HouseV_3I3"
+}, {
+	"class": "Land_HouseV_3I4"
+}, {
+	"class": "Land_Police_Station"
+}, {
+	"class": "Land_Misc_StreetBooth_grocery"
+}, {
+	"class": "Land_Misc_StreetBooth_news"
+}, {
+	"class": "Land_Misc_StreetBooth_fastfood"
+}, {
+	"class": "Land_CampHouse_white"
+}, {
+	"class": "Land_CampHouse_red"
+}, {
+	"class": "Land_CampHouse_brown"
+}, {
+	"class": "Land_Camp_gate"
+}, {
+	"class": "Land_Village_pub"
+}, {
+	"class": "Land_Village_store"
+}, {
+	"class": "Land_Ind_Stack_Big"
+}, {
+	"class": "Land_Ind_Coltan_Main_EP1"
+}, {
+	"class": "Land_ind_coltan_hopper_ep1"
+}, {
+	"class": "Land_Ind_Coltan_Conv1_Main_EP1"
+}, {
+	"class": "Land_Ind_Coltan_Conv1_End_EP1"
+}, {
+	"class": "Land_Ind_Coltan_Conv1_10_EP1"
+}, {
+	"class": "Land_Ind_Coltan_Conv2_EP1"
+}, {
+	"class": "Land_Misc_Coltan_Heap_EP1"
+}, {
+	"class": "Land_Ind_GarageRow"
+}, {
+	"class": "Land_Ind_GarageOffice"
+}, {
+	"class": "Land_Ind_Quarry"
+}, {
+	"class": "Land_Ind_HammerMill"
+}, {
+	"class": "Land_Ind_Conveyer"
+}, {
+	"class": "Land_Ind_SawMill"
+}, {
+	"class": "Land_Ind_IlluminantTower"
+}, {
+	"class": "Land_Ind_SawMillPen"
+}, {
+	"class": "Land_Ind_Timbers"
+}, {
+	"class": "Land_Ind_BoardsPack1"
+}, {
+	"class": "Land_Ind_BoardsPack2"
+}, {
+	"class": "Land_Mil_ControlTower"
+}, {
+	"class": "Land_Mil_House"
+}, {
+	"class": "Land_Mil_Barracks_i"
+}, {
+	"class": "Land_Mil_Barracks"
+}, {
+	"class": "Land_Mil_Barracks_L"
+}, {
+	"class": "Land_Mil_Guardhouse"
+}, {
+	"class": "Land_Mil_GuardTower"
+}, {
+	"class": "Land_BusStop"
+}, {
+	"class": "Land_BusStop_Village"
+}, {
+	"class": "Land_Misc_FeedShack"
+}, {
+	"class": "Land_Misc_Scaffolding"
+}, {
+	"class": "Land_Misc_GContainer_Big"
+}, {
+	"class": "Land_Misc_Greenhouse"
+}, {
+	"class": "Land_Misc_WellPump"
+}, {
+	"class": "Land_Misc_DeerStand"
+}, {
+	"class": "Grave"
+}, {
+	"class": "Land_Church_tomb_1"
+}, {
+	"class": "Land_Church_tomb_2"
+}, {
+	"class": "Land_Church_tomb_3"
+}, {
+	"class": "Misc_Amplion_Conc"
+}, {
+	"class": "Misc_Amplion_Wood"
+}, {
+	"class": "Land_misc_amplion_conc"
+}, {
+	"class": "Land_misc_amplion_wood"
+}, {
+	"class": "Land_misc_caravan_metal_green"
+}, {
+	"class": "Land_misc_caravan_metal_rust"
+}, {
+	"class": "Land_misc_caravan_wood_brown"
+}, {
+	"class": "Land_misc_caravan_wood_green"
+}, {
+	"class": "Land_Misc_NewsStand"
+}, {
+	"class": "Land_PowLines_Transformer2"
+}, {
+	"class": "Land_NAV_Lighthouse"
+}, {
+	"class": "Land_NAV_Lighthouse2"
+}, {
+	"class": "Land_Nav_Boathouse"
+}, {
+	"class": "Land_Nav_Boathouse_PierL"
+}, {
+	"class": "Land_Nav_Boathouse_PierR"
+}, {
+	"class": "Land_Nav_Boathouse_PierT"
+}, {
+	"class": "Land_nav_pier_m_2"
+}, {
+	"class": "land_nav_pier_c"
+}, {
+	"class": "land_nav_pier_c2"
+}, {
+	"class": "land_nav_pier_c2_end"
+}, {
+	"class": "land_nav_pier_c_270"
+}, {
+	"class": "land_nav_pier_c_90"
+}, {
+	"class": "land_nav_pier_c_big"
+}, {
+	"class": "land_nav_pier_C_L10"
+}, {
+	"class": "land_nav_pier_C_R"
+}, {
+	"class": "land_nav_pier_C_R10"
+}, {
+	"class": "land_nav_pier_C_R30"
+}, {
+	"class": "land_nav_pier_c_t15"
+}, {
+	"class": "land_nav_pier_c_t20"
+}, {
+	"class": "land_nav_pier_F_17"
+}, {
+	"class": "land_nav_pier_F_23"
+}, {
+	"class": "land_nav_pier_m_1"
+}, {
+	"class": "land_nav_pier_m_end"
+}, {
+	"class": "land_nav_pier_M_fuel"
+}, {
+	"class": "Land_Prison_MainCastle_EXT"
+}, {
+	"class": "Land_Prison_SideBuilding_EXT"
+}, {
+	"class": "Land_Prison_LargeWall"
+}, {
+	"class": "Land_Radio_building"
+}, {
+	"class": "Land_Radio_tower_redwhite"
+}, {
+	"class": "Land_Radio_tower_grey"
+}, {
+	"class": "Land_Rail_Semafor"
+}, {
+	"class": "Land_Rail_Zavora"
+}, {
+	"class": "Land_wagon_box"
+}, {
+	"class": "Land_loco_742_blue"
+}, {
+	"class": "Land_rail_station_big"
+}, {
+	"class": "Land_sign_elektrozavodsk"
+}, {
+	"class": "Land_sign_balota"
+}, {
+	"class": "Land_sign_berezino"
+}, {
+	"class": "Land_sign_chernogorsk"
+}, {
+	"class": "Land_sign_kamenka"
+}, {
+	"class": "Land_sign_kamyshovo"
+}, {
+	"class": "Land_sign_komarovo"
+}, {
+	"class": "Land_sign_prigorodki"
+}, {
+	"class": "Land_sign_solnichnyi"
+}, {
+	"class": "Land_Rail_warehouse"
+}, {
+	"class": "Land_ruin_corner_1"
+}, {
+	"class": "Land_ruin_corner_2"
+}, {
+	"class": "Land_ruin_chimney"
+}, {
+	"class": "Land_ruin_wall"
+}, {
+	"class": "Land_ruin_walldoor"
+}, {
+	"class": "Land_ruin_rubble"
+}, {
+	"class": "Land_ruin_01"
+}, {
+	"class": "Land_school_building"
+}, {
+	"class": "Land_Shed_W4"
+}, {
+	"class": "Land_Shed_Ind02"
+}, {
+	"class": "Land_SkiLift_Base"
+}, {
+	"class": "Land_SkiLift_Tower"
+}, {
+	"class": "Land_SkiLift_Tower_slope"
+}, {
+	"class": "Land_Tenement_building_Big"
+}, {
+	"class": "Land_Tenement_building_small"
+}, {
+	"class": "Land_KitchenRoom"
+}, {
+	"class": "Land_SecretBase_HQ"
+}, {
+	"class": "Land_SecretBase_Bunker2"
+}, {
+	"class": "Land_SecretBase_Radar"
+}, {
+	"class": "Land_Radar_Antenna"
+}, {
+	"class": "Land_RadarPlatform_20m"
+}, {
+	"class": "Land_G_house"
+}, {
+	"class": "Land_Base_cooler"
+}, {
+	"class": "Land_Wall_CBrk_5_D"
+}, {
+	"class": "Land_Wall_CGry_5_D"
+}, {
+	"class": "Land_Wall_Gate_Kolchoz"
+}, {
+	"class": "Land_Wall_Gate_Ind1_L"
+}, {
+	"class": "Land_Wall_Gate_Ind1_R"
+}, {
+	"class": "Land_Wall_Gate_Ind2A_L"
+}, {
+	"class": "Land_Wall_Gate_Ind2A_R"
+}, {
+	"class": "Land_Wall_Gate_Ind2B_L"
+}, {
+	"class": "Land_Wall_Gate_Ind2B_R"
+}, {
+	"class": "Land_Wall_Gate_Ind2Rail_L"
+}, {
+	"class": "Land_Wall_Gate_Ind2Rail_R"
+}, {
+	"class": "Land_Wall_Gate_Village"
+}, {
+	"class": "Land_Wall_Gate_Wood1"
+}, {
+	"class": "Land_Gate_wood2_5"
+}, {
+	"class": "Land_Gate_Wood1_5"
+}, {
+	"class": "Land_Wreck_Ship_1"
+}, {
+	"class": "Land_Wreck_Ship_2"
+}, {
+	"class": "AmmunitionBoxItemBase"
+}, {
+	"class": "AmmoBox_556_20Rnd"
+}, {
+	"class": "AmmoBox_308Win_20Rnd"
+}, {
+	"class": "AmmoBox_762_20Rnd"
+}, {
+	"class": "AmmoBox_762x39_20Rnd"
+}, {
+	"class": "AmmoBox_22_50Rnd"
+}, {
+	"class": "AmmoBox_357_20Rnd"
+}, {
+	"class": "AmmoBox_45acp_25rnd"
+}, {
+	"class": "AmmoBox_9mm_25rnd"
+}, {
+	"class": "AmmoBox_380_35rnd"
+}, {
+	"class": "AmmoBox_00buck_10rnd"
+}, {
+	"class": "AmmoBox_545_20Rnd"
+}, {
+	"class": "AmmoBox_9x39_20Rnd"
+}, {
+	"class": "MeleeItemBase"
+}, {
+	"class": "AxeBase"
+}, {
+	"class": "WoodAxe"
+}, {
+	"class": "Hatchet"
+}, {
+	"class": "FirefighterAxeBase"
+}, {
+	"class": "FirefighterAxe"
+}, {
+	"class": "FirefighterAxe_Black"
+}, {
+	"class": "FirefighterAxe_Green"
+}, {
+	"class": "KnifeBase"
+}, {
+	"class": "MatchesFake"
+}, {
+	"class": "Cleaver"
+}, {
+	"class": "CombatKnife"
+}, {
+	"class": "HuntingKnife"
+}, {
+	"class": "Machete"
+}, {
+	"class": "Pitchfork"
+}, {
+	"class": "Pickaxe"
+}, {
+	"class": "Sword"
+}, {
+	"class": "EN5C_WoodAxe"
+}, {
+	"class": "EN5C_Hatchet"
+}, {
+	"class": "EN5C_FirefighterAxe"
+}, {
+	"class": "EN5C_FirefighterAxe_Black"
+}, {
+	"class": "EN5C_FirefighterAxe_Green"
+}, {
+	"class": "EN5C_Cleaver"
+}, {
+	"class": "EN5C_CombatKnife"
+}, {
+	"class": "EN5C_HuntingKnife"
+}, {
+	"class": "EN5C_Machete"
+}, {
+	"class": "EN5C_Pitchfork"
+}, {
+	"class": "EN5C_Pickaxe"
+}, {
+	"class": "EN5C_Sword"
+}, {
+	"class": "BaseballBat"
+}, {
+	"class": "BaseballBatNailed"
+}, {
+	"class": "PipeWrench"
+}, {
+	"class": "BrassKnucklesDull"
+}, {
+	"class": "BrassKnucklesShiny"
+}, {
+	"class": "TelescopicBaton"
+}, {
+	"class": "HockeyStick"
+}, {
+	"class": "IceHockeyStick"
+}, {
+	"class": "EN5C_BaseballBat"
+}, {
+	"class": "EN5C_NailedBaseballBat"
+}, {
+	"class": "EN5C_PipeWrench"
+}, {
+	"class": "EN5C_BrassKnuckles_ColorBase"
+}, {
+	"class": "EN5C_BrassKnuckles_Dull"
+}, {
+	"class": "EN5C_BrassKnuckles_Shiny"
+}, {
+	"class": "EN5C_TelescopicBaton"
+}, {
+	"class": "EN5C_OldHockeyStick"
+}, {
+	"class": "EN5C_NewHockeyStick"
+}, {
+	"class": "Chainsaw"
+}, {
+	"class": "CattleProd"
+}, {
+	"class": "StunBaton"
+}, {
+	"class": "EN5C_Chainsaw"
+}, {
+	"class": "EN5C_CattleProd"
+}, {
+	"class": "EN5C_StunBaton"
+}, {
+	"class": "Land_A_GeneralStore_01"
+}, {
+	"class": "Land_A_GeneralStore_01a"
+}, {
+	"class": "Land_Church_01"
+}, {
+	"class": "Land_Farm_Cowshed_a"
+}, {
+	"class": "Land_Farm_Cowshed_b"
+}, {
+	"class": "Land_Farm_Cowshed_c"
+}, {
+	"class": "Land_HouseBlock_A1"
+}, {
+	"class": "Land_HouseBlock_A1_1"
+}, {
+	"class": "Land_HouseBlock_A1_2"
+}, {
+	"class": "Land_HouseBlock_A2"
+}, {
+	"class": "Land_HouseBlock_A2_2"
+}, {
+	"class": "Land_HouseBlock_A2_1"
+}, {
+	"class": "Land_HouseBlock_A3"
+}, {
+	"class": "Land_HouseBlock_B1"
+}, {
+	"class": "Land_HouseBlock_B2"
+}, {
+	"class": "Land_HouseBlock_B3"
+}, {
+	"class": "Land_HouseBlock_B4"
+}, {
+	"class": "Land_HouseBlock_B5"
+}, {
+	"class": "Land_HouseBlock_B6"
+}, {
+	"class": "Land_HouseBlock_C2"
+}, {
+	"class": "Land_HouseBlock_C3"
+}, {
+	"class": "Land_HouseBlock_C4"
+}, {
+	"class": "Land_HouseBlock_C5"
+}, {
+	"class": "Land_HouseBlock_D1"
+}, {
+	"class": "Land_HouseBlock_D2"
+}, {
+	"class": "Land_Ind_Expedice_1"
+}, {
+	"class": "Land_Ind_Expedice_2"
+}, {
+	"class": "Land_Ind_Expedice_3"
+}, {
+	"class": "Land_Ind_MalyKomin"
+}, {
+	"class": "Land_Ind_Mlyn_01"
+}, {
+	"class": "Land_Ind_Mlyn_02"
+}, {
+	"class": "Land_Ind_Mlyn_03"
+}, {
+	"class": "Land_Ind_Mlyn_04"
+}, {
+	"class": "Land_Ind_Mlyn_D1"
+}, {
+	"class": "Land_Ind_Mlyn_D2"
+}, {
+	"class": "Land_Ind_Pec_01"
+}, {
+	"class": "Land_Ind_Pec_02"
+}, {
+	"class": "Land_Ind_Pec_03a"
+}, {
+	"class": "Land_Ind_Pec_03b"
+}, {
+	"class": "Land_Ind_Garage01"
+}, {
+	"class": "Land_Ind_Shed_01_main"
+}, {
+	"class": "Land_Ind_Shed_01_end"
+}, {
+	"class": "Land_Ind_Shed_02_main"
+}, {
+	"class": "Land_Ind_Shed_02_end"
+}, {
+	"class": "Land_Ind_TankBig"
+}, {
+	"class": "Land_Ind_TankSmall"
+}, {
+	"class": "Land_Ind_TankSmall2"
+}, {
+	"class": "Land_Ind_TankSmall2_fix"
+}, {
+	"class": "Land_Ind_Workshop01_01"
+}, {
+	"class": "Land_Ind_Workshop01_02"
+}, {
+	"class": "Land_Ind_Workshop01_03"
+}, {
+	"class": "Land_Ind_Workshop01_04"
+}, {
+	"class": "Land_Ind_Workshop01_box"
+}, {
+	"class": "Land_Ind_Workshop01_L"
+}, {
+	"class": "Land_Misc_PowerStation"
+}, {
+	"class": "Land_Misc_WaterStation"
+}, {
+	"class": "Land_Shed_W01"
+}, {
+	"class": "Land_Shed_W02"
+}, {
+	"class": "Land_Shed_W03"
+}, {
+	"class": "Land_Shed_M01"
+}, {
+	"class": "Land_Shed_M02"
+}, {
+	"class": "Land_Shed_M03"
+}, {
+	"class": "BagTaloonBase"
+}, {
+	"class": "BagTaloon_Blue"
+}, {
+	"class": "BagTaloon_Green"
+}, {
+	"class": "BagTaloon_Orange"
+}, {
+	"class": "BagTaloon_Violet"
+}, {
+	"class": "BagTortilla"
+}, {
+	"class": "BagCourierImprovised"
+}, {
+	"class": "BagCourierImprovisedFur"
+}, {
+	"class": "BagImprovised"
+}, {
+	"class": "BagImprovisedFur"
+}, {
+	"class": "BagDrybagBase"
+}, {
+	"class": "Bagdrybag_Black"
+}, {
+	"class": "Bagdrybag_Orange"
+}, {
+	"class": "Bagdrybag_Yellow"
+}, {
+	"class": "Bagdrybag_Blue"
+}, {
+	"class": "Bagdrybag_Green"
+}, {
+	"class": "Bagdrybag_Red"
+}, {
+	"class": "BagHunting"
+}, {
+	"class": "BagMountainBase"
+}, {
+	"class": "BagMountain_Blue"
+}, {
+	"class": "BagMountain_Red"
+}, {
+	"class": "BagMountain_Orange"
+}, {
+	"class": "BagMountain_Green"
+}, {
+	"class": "SmershBackpack"
+}, {
+	"class": "BagChildsBase"
+}, {
+	"class": "BagChilds_Red"
+}, {
+	"class": "BagChilds_Green"
+}, {
+	"class": "BagChilds_Blue"
+}, {
+	"class": "GhillieBushragBase"
+}, {
+	"class": "GhillieBushragTan"
+}, {
+	"class": "GhillieBushragWoodland"
+}, {
+	"class": "GhillieBushragMossy"
+}, {
+	"class": "GhillieTopBase"
+}, {
+	"class": "GhillieTopTan"
+}, {
+	"class": "GhillieTopWoodland"
+}, {
+	"class": "GhillieTopMossy"
+}, {
+	"class": "GhillieSuitBase"
+}, {
+	"class": "GhillieSuitTan"
+}, {
+	"class": "GhillieSuitWoodland"
+}, {
+	"class": "GhillieSuitMossy"
+}, {
+	"class": "Bag_LeatherSackBase"
+}, {
+	"class": "Bag_LeatherSack_Natural"
+}, {
+	"class": "Bag_LeatherSack_Beige"
+}, {
+	"class": "Bag_LeatherSack_Brown"
+}, {
+	"class": "Bag_LeatherSack_Black"
+}, {
+	"class": "BagAssault"
+}, {
+	"class": "BagAssaultBlack"
+}, {
+	"class": "BagAssaultGreen"
+}, {
+	"class": "BagCoyoteBase"
+}, {
+	"class": "BagCoyote_Brown"
+}, {
+	"class": "BagCoyote_Green"
+}, {
+	"class": "BagAliceBase"
+}, {
+	"class": "BagAlice_Green"
+}, {
+	"class": "BagAlice_Black"
+}, {
+	"class": "BagAlice_Camo"
+}, {
+	"class": "BagTortillaAbove"
+}, {
+	"class": "EN5C_TaloonBag_ColorBase"
+}, {
+	"class": "EN5C_TaloonBag_Blue"
+}, {
+	"class": "EN5C_TaloonBag_Green"
+}, {
+	"class": "EN5C_TaloonBag_Orange"
+}, {
+	"class": "EN5C_TaloonBag_Violet"
+}, {
+	"class": "EN5C_TortillaBag"
+}, {
+	"class": "EN5C_CourierBag"
+}, {
+	"class": "EN5C_FurCourierBag"
+}, {
+	"class": "EN5C_ImprovisedBag"
+}, {
+	"class": "EN5C_FurImprovisedBag"
+}, {
+	"class": "EN5C_DryBag_ColorBase"
+}, {
+	"class": "EN5C_DryBag_Orange"
+}, {
+	"class": "EN5C_DryBag_Yellow"
+}, {
+	"class": "EN5C_DryBag_Blue"
+}, {
+	"class": "EN5C_DryBag_Green"
+}, {
+	"class": "EN5C_DryBag_Black"
+}, {
+	"class": "EN5C_DryBag_Red"
+}, {
+	"class": "EN5C_HuntingBag"
+}, {
+	"class": "EN5C_MountainBag_ColorBase"
+}, {
+	"class": "EN5C_MountainBag_Red"
+}, {
+	"class": "EN5C_MountainBag_Blue"
+}, {
+	"class": "EN5C_MountainBag_Orange"
+}, {
+	"class": "EN5C_MountainBag_Green"
+}, {
+	"class": "EN5C_SmershBag"
+}, {
+	"class": "EN5C_ChildBag_ColorBase"
+}, {
+	"class": "EN5C_ChildBag_Green"
+}, {
+	"class": "EN5C_ChildBag_Red"
+}, {
+	"class": "EN5C_ChildBag_Blue"
+}, {
+	"class": "EN5C_GhillieBushrag_ColorBase"
+}, {
+	"class": "EN5C_GhillieBushrag_Tan"
+}, {
+	"class": "EN5C_GhillieBushrag_Woodland"
+}, {
+	"class": "EN5C_GhillieBushrag_Mossy"
+}, {
+	"class": "EN5C_GhillieTop_ColorBase"
+}, {
+	"class": "EN5C_GhillieTop_Tan"
+}, {
+	"class": "EN5C_GhillieTop_Woodland"
+}, {
+	"class": "EN5C_GhillieTop_Mossy"
+}, {
+	"class": "EN5C_GhillieSuit_ColorBase"
+}, {
+	"class": "EN5C_GhillieSuit_Tan"
+}, {
+	"class": "EN5C_GhillieSuit_Woodland"
+}, {
+	"class": "EN5C_GhillieSuit_Mossy"
+}, {
+	"class": "EN5C_LeatherSack_ColorBase"
+}, {
+	"class": "EN5C_LeatherSack_Natural"
+}, {
+	"class": "EN5C_LeatherSack_Black"
+}, {
+	"class": "EN5C_LeatherSack_Beige"
+}, {
+	"class": "EN5C_LeatherSack_Brown"
+}, {
+	"class": "EN5C_AssaultBag_ColorBase"
+}, {
+	"class": "EN5C_AssaultBag_Ttsko"
+}, {
+	"class": "EN5C_AssaultBag_Black"
+}, {
+	"class": "EN5C_AssaultBag_Green"
+}, {
+	"class": "EN5C_CoyoteBag_ColorBase"
+}, {
+	"class": "EN5C_CoyoteBag_Brown"
+}, {
+	"class": "EN5C_CoyoteBag_Green"
+}, {
+	"class": "EN5C_AliceBag_ColorBase"
+}, {
+	"class": "EN5C_AliceBag_Green"
+}, {
+	"class": "EN5C_AliceBag_Black"
+}, {
+	"class": "EN5C_AliceBag_Camo"
+}, {
+	"class": "CookwareBase"
+}, {
+	"class": "CookwareContainer"
+}, {
+	"class": "FireplaceBase"
+}, {
+	"class": "Fireplace"
+}, {
+	"class": "FireplaceIndoor"
+}, {
+	"class": "BarrelHolesBase"
+}, {
+	"class": "Green_BarrelHoles"
+}, {
+	"class": "Blue_BarrelHoles"
+}, {
+	"class": "Red_BarrelHoles"
+}, {
+	"class": "Yellow_BarrelHoles"
+}, {
+	"class": "Cooking_Tripod"
+}, {
+	"class": "CookerBase"
+}, {
+	"class": "Cooker_PortableStove"
+}, {
+	"class": "Cookware_Pot"
+}, {
+	"class": "Cookware_FryingPan"
+}, {
+	"class": "PointLightBase"
+}, {
+	"class": "Light_PortableLamp"
+}, {
+	"class": "Light_Candle"
+}, {
+	"class": "Light_PetrolLighter"
+}, {
+	"class": "EN5C_Fireplace"
+}, {
+	"class": "EN5C_IndoorFireplace"
+}, {
+	"class": "EN5C_BarrelHoles_ColorBase"
+}, {
+	"class": "EN5C_BarrelHoles_Green"
+}, {
+	"class": "EN5C_BarrelHoles_Blue"
+}, {
+	"class": "EN5C_BarrelHoles_Red"
+}, {
+	"class": "EN5C_BarrelHoles_Yellow"
+}, {
+	"class": "EN5C_Tripod"
+}, {
+	"class": "EN5C_PortableGasStove"
+}, {
+	"class": "EN5C_Pot"
+}, {
+	"class": "EN5C_FryingPan"
+}, {
+	"class": "EN5C_PortableGasLamp"
+}, {
+	"class": "EN5C_Candle"
+}, {
+	"class": "EN5C_PetrolLighter"
+}, {
+	"class": "ToolBase"
+}, {
+	"class": "ToolMeleeBase"
+}, {
+	"class": "LightBase"
+}, {
+	"class": "Tool_Flashlight"
+}, {
+	"class": "PenBase"
+}, {
+	"class": "Pen_Black"
+}, {
+	"class": "Pen_Red"
+}, {
+	"class": "Pen_Green"
+}, {
+	"class": "Pen_Blue"
+}, {
+	"class": "Tool_CanOpener"
+}, {
+	"class": "Tool_Heatpack"
+}, {
+	"class": "Tool_MessTin"
+}, {
+	"class": "Tool_Pliers"
+}, {
+	"class": "Tool_Lockpick"
+}, {
+	"class": "Tool_WeaponCleaningKit"
+}, {
+	"class": "Tool_SewingKit"
+}, {
+	"class": "Tool_LeatherSewingKit"
+}, {
+	"class": "Tool_Handcuffs"
+}, {
+	"class": "Tool_HandcuffKeys"
+}, {
+	"class": "Tool_Transmitter"
+}, {
+	"class": "Tool_Radio"
+}, {
+	"class": "Tool_Cassette"
+}, {
+	"class": "Tool_Shovel"
+}, {
+	"class": "Tool_FieldShovel"
+}, {
+	"class": "Tool_Crowbar"
+}, {
+	"class": "Tool_FireExtinguisher"
+}, {
+	"class": "Tool_Hammer"
+}, {
+	"class": "Tool_MeatTenderizer"
+}, {
+	"class": "Tool_Wrench"
+}, {
+	"class": "Tool_LugWrench"
+}, {
+	"class": "Tool_Pipe"
+}, {
+	"class": "Tool_Screwdriver"
+}, {
+	"class": "Tool_Sickle"
+}, {
+	"class": "Tool_Hacksaw"
+}, {
+	"class": "Tool_KitchenKnife"
+}, {
+	"class": "Tool_SteakKnife"
+}, {
+	"class": "Tool_HayHook"
+}, {
+	"class": "Tool_StoneKnife"
+}, {
+	"class": "Tool_Mace"
+}, {
+	"class": "FarmingHoe"
+}, {
+	"class": "Tool_FishingRodBase"
+}, {
+	"class": "Tool_ImprovisedFishingRod"
+}, {
+	"class": "Tool_ObsoleteFishingRod"
+}, {
+	"class": "Tool_FishingRod"
+}, {
+	"class": "SledgeHammer"
+}, {
+	"class": "Tool_Iceaxe"
+}, {
+	"class": "Tool_Broom"
+}, {
+	"class": "Tool_Paddle"
+}, {
+	"class": "EN5C_Flashlight"
+}, {
+	"class": "EN5C_Pen_ColorBase"
+}, {
+	"class": "EN5C_Pen_Black"
+}, {
+	"class": "EN5C_Pen_Red"
+}, {
+	"class": "EN5C_Pen_Green"
+}, {
+	"class": "EN5C_Pen_Blue"
+}, {
+	"class": "EN5C_CanOpener"
+}, {
+	"class": "EN5C_Heatpack"
+}, {
+	"class": "EN5C_MessTin"
+}, {
+	"class": "EN5C_Pliers"
+}, {
+	"class": "EN5C_Lockpick"
+}, {
+	"class": "EN5C_WeaponCleaningKit"
+}, {
+	"class": "EN5C_SewingKit"
+}, {
+	"class": "EN5C_LeatherSewingKit"
+}, {
+	"class": "EN5C_Handcuffs"
+}, {
+	"class": "EN5C_HandcuffKeys"
+}, {
+	"class": "EN5C_Cassette"
+}, {
+	"class": "EN5C_Shovel"
+}, {
+	"class": "EN5C_FieldShovel"
+}, {
+	"class": "EN5C_Crowbar"
+}, {
+	"class": "EN5C_FireExtinguisher"
+}, {
+	"class": "EN5C_Hammer"
+}, {
+	"class": "EN5C_MeatTenderizer"
+}, {
+	"class": "EN5C_Wrench"
+}, {
+	"class": "EN5C_LugWrench"
+}, {
+	"class": "EN5C_Pipe"
+}, {
+	"class": "EN5C_Screwdriver"
+}, {
+	"class": "EN5C_Sickle"
+}, {
+	"class": "EN5C_Hacksaw"
+}, {
+	"class": "EN5C_KitchenKnife"
+}, {
+	"class": "EN5C_SteakKnife"
+}, {
+	"class": "EN5C_HayHook"
+}, {
+	"class": "EN5C_StoneKnife"
+}, {
+	"class": "EN5C_Mace"
+}, {
+	"class": "EN5C_FarmingHoe"
+}, {
+	"class": "EN5C_ImprovisedFishingRod"
+}, {
+	"class": "EN5C_ObsoleteFishingRod"
+}, {
+	"class": "EN5C_FishingRod"
+}, {
+	"class": "EN5C_SledgeHammer"
+}, {
+	"class": "EN5C_Iceaxe"
+}, {
+	"class": "EN5C_Broom"
+}, {
+	"class": "EN5C_Paddle"
+}, {
+	"class": "Land_Barrack2"
+}, {
+	"class": "Land_GuardShed"
+}, {
+	"class": "Land_PowGen_Big"
+}, {
+	"class": "Land_PowGen_Big_ruins"
+}, {
+	"class": "Land_Gunrack1"
+}, {
+	"class": "Land_DoorTest"
+}, {
+	"class": "Land_DoorTest2"
+}, {
+	"class": "Land_MassGrave"
+}, {
+	"class": "Land_fort_bagfence_corner"
+}, {
+	"class": "Land_fort_bagfence_long"
+}, {
+	"class": "Land_fort_bagfence_round"
+}, {
+	"class": "Land_fort_artillery_nest"
+}, {
+	"class": "Land_fortified_nest_big"
+}, {
+	"class": "Land_fortified_nest_small"
+}, {
+	"class": "Land_Fort_Watchtower"
+}, {
+	"class": "Land_Antenna"
+}, {
+	"class": "Land_CamoNet_NATO"
+}, {
+	"class": "Land_CamoNet_NATOVar"
+}, {
+	"class": "Land_CamoNetB_NATO"
+}, {
+	"class": "Land_CamoNet_EAST"
+}, {
+	"class": "Land_CamoNet_EastVar"
+}, {
+	"class": "Land_CamoNetB_EAST"
+}, {
+	"class": "Land_CncBlock"
+}, {
+	"class": "Land_CncBlock_Stripes"
+}, {
+	"class": "Land_CncBlock_D"
+}, {
+	"class": "Land_Toilet"
+}, {
+	"class": "Land_A_tent"
+}, {
+	"class": "Land_tent_east"
+}, {
+	"class": "Land_BoatSmall_1"
+}, {
+	"class": "Land_BoatSmall_2a"
+}, {
+	"class": "Land_BoatSmall_2b"
+}, {
+	"class": "Land_A_BuildingWIP"
+}, {
+	"class": "Land_A_CraneCon"
+}, {
+	"class": "Land_A_MunicipalOffice2"
+}, {
+	"class": "Land_A_MunicipalOffice"
+}, {
+	"class": "Land_A_TVTower_Base"
+}, {
+	"class": "Land_A_TVTower_Mid"
+}, {
+	"class": "Land_A_TVTower_Top"
+}, {
+	"class": "Land_Abandoned_Ship_FrontA"
+}, {
+	"class": "Land_Abandoned_Ship_FrontB"
+}, {
+	"class": "Land_Abandoned_Ship_BackA"
+}, {
+	"class": "Land_Abandoned_Ship_BackB"
+}, {
+	"class": "Land_Abandoned_Ship_Castle"
+}, {
+	"class": "DefaultWeapon"
+}, {
+	"class": "PistolCore"
+}, {
+	"class": "RifleCore"
+}, {
+	"class": "MGunCore"
+}, {
+	"class": "LauncherCore"
+}, {
+	"class": "GrenadeWeaponCore"
+}, {
+	"class": "CannonCore"
+}, {
+	"class": "FakeWeapon"
+}, {
+	"class": "Bow"
+}, {
+	"class": "CrossbowBase"
+}, {
+	"class": "Bow_pvc"
+}, {
+	"class": "Bow_Quickie"
+}, {
+	"class": "Bow_Recurve"
+}, {
+	"class": "Crossbow"
+}, {
+	"class": "Rifle"
+}, {
+	"class": "MilitaryRifle"
+}, {
+	"class": "AK101Base"
+}, {
+	"class": "AK101"
+}, {
+	"class": "AK101_Black"
+}, {
+	"class": "AK101_Green"
+}, {
+	"class": "EN5C_AK101_Base"
+}, {
+	"class": "EN5C_AK101"
+}, {
+	"class": "EN5C_AK101_Black"
+}, {
+	"class": "EN5C_AK101_Green"
+}, {
+	"class": "AK74Base"
+}, {
+	"class": "AK74"
+}, {
+	"class": "AK74_Black"
+}, {
+	"class": "AK74_Green"
+}, {
+	"class": "AKS74U"
+}, {
+	"class": "AKS74U_Black"
+}, {
+	"class": "AKS74U_Green"
+}, {
+	"class": "EN5C_AK74_Base"
+}, {
+	"class": "EN5C_AK74"
+}, {
+	"class": "EN5C_AK74_Black"
+}, {
+	"class": "EN5C_AK74_Green"
+}, {
+	"class": "EN5C_AKS74U"
+}, {
+	"class": "EN5C_AKS74U_Black"
+}, {
+	"class": "EN5C_AKS74U_Green"
+}, {
+	"class": "AKMBase"
+}, {
+	"class": "AKM"
+}, {
+	"class": "EN5C_AKM_Base"
+}, {
+	"class": "EN5C_AKM"
+}, {
+	"class": "AugSteyr_Base"
+}, {
+	"class": "AugSteyr"
+}, {
+	"class": "EN5C_AugSteyr_Base"
+}, {
+	"class": "EN5C_AugSteyr"
+}, {
+	"class": "b95Base"
+}, {
+	"class": "b95"
+}, {
+	"class": "b95_Black"
+}, {
+	"class": "b95_Green"
+}, {
+	"class": "cz527Base"
+}, {
+	"class": "cz527"
+}, {
+	"class": "cz527_Black"
+}, {
+	"class": "cz527_Green"
+}, {
+	"class": "cz527_Green_Black"
+}, {
+	"class": "cz527_Black_Green"
+}, {
+	"class": "EN5C_CZ527_Base"
+}, {
+	"class": "EN5C_CZ527"
+}, {
+	"class": "EN5C_CZ527_Black"
+}, {
+	"class": "EN5C_CZ527_Green"
+}, {
+	"class": "EN5C_CZ527_Camo"
+}, {
+	"class": "CZ61_Base"
+}, {
+	"class": "CZ61"
+}, {
+	"class": "EN5C_CZ61_Base"
+}, {
+	"class": "EN5C_CZ61"
+}, {
+	"class": "FalBase"
+}, {
+	"class": "Fal"
+}, {
+	"class": "EN5C_FAL_Base"
+}, {
+	"class": "EN5C_FAL"
+}, {
+	"class": "izh18base"
+}, {
+	"class": "izh18"
+}, {
+	"class": "izh18_Sawedoff"
+}, {
+	"class": "EN5C_Izh18_Base"
+}, {
+	"class": "EN5C_Izh18"
+}, {
+	"class": "EN5C_SawedoffIzh18"
+}, {
+	"class": "M249Base"
+}, {
+	"class": "M249"
+}, {
+	"class": "M4_Base"
+}, {
+	"class": "M4A1"
+}, {
+	"class": "M4A1_Green"
+}, {
+	"class": "M4A1_Black"
+}, {
+	"class": "EN5C_M4A1_Base"
+}, {
+	"class": "EN5C_M4A1"
+}, {
+	"class": "EN5C_M4A1_Green"
+}, {
+	"class": "EN5C_M4A1_Black"
+}, {
+	"class": "Mosin9130Base"
+}, {
+	"class": "Mosin9130_SawedoffBase"
+}, {
+	"class": "Mosin9130"
+}, {
+	"class": "Mosin9130_Black"
+}, {
+	"class": "Mosin9130_Green"
+}, {
+	"class": "Mosin9130_Green_Black"
+}, {
+	"class": "Mosin9130_Black_Green"
+}, {
+	"class": "Mosin9130_Sawedoff"
+}, {
+	"class": "Mosin9130_Sawedoff_Black"
+}, {
+	"class": "Mosin9130_Sawedoff_Green"
+}, {
+	"class": "Mosin9130_Sawedoff_Green_Black"
+}, {
+	"class": "Mosin9130_Sawedoff_Black_Green"
+}, {
+	"class": "MP5_Base"
+}, {
+	"class": "MP5K"
+}, {
+	"class": "PM73Rak_Base"
+}, {
+	"class": "PM73Rak"
+}, {
+	"class": "RepeaterBase"
+}, {
+	"class": "Repeater"
+}, {
+	"class": "Ruger1022Base"
+}, {
+	"class": "Ruger1022"
+}, {
+	"class": "Ruger1022_Black"
+}, {
+	"class": "Ruger1022_Green"
+}, {
+	"class": "EN5C_Ruger1022_Base"
+}, {
+	"class": "EN5C_Ruger1022"
+}, {
+	"class": "EN5C_Ruger1022_Black"
+}, {
+	"class": "EN5C_Ruger1022_Green"
+}, {
+	"class": "ScoutBase"
+}, {
+	"class": "Scout"
+}, {
+	"class": "Scout_Black"
+}, {
+	"class": "Scout_Green"
+}, {
+	"class": "SKSBase"
+}, {
+	"class": "SKS"
+}, {
+	"class": "SKS_Black"
+}, {
+	"class": "SKS_Green"
+}, {
+	"class": "svdBase"
+}, {
+	"class": "SVD"
+}, {
+	"class": "EN5C_SVD_Base"
+}, {
+	"class": "EN5C_SVD"
+}, {
+	"class": "TrumpetBase"
+}, {
+	"class": "Trumpet"
+}, {
+	"class": "UMP_Base"
+}, {
+	"class": "UMP45"
+}, {
+	"class": "VSSBase"
+}, {
+	"class": "VSS"
+}, {
+	"class": "Winchester70Base"
+}, {
+	"class": "Winchester70"
+}, {
+	"class": "Winchester70_Black"
+}, {
+	"class": "Winchester70_Green"
+}, {
+	"class": "EN5C_Winchester70_Base"
+}, {
+	"class": "EN5C_Winchester70"
+}, {
+	"class": "EN5C_Winchester70_Black"
+}, {
+	"class": "EN5C_Winchester70_Green"
+}, {
+	"class": "Launcher"
+}, {
+	"class": "GP25Base"
+}, {
+	"class": "GP25"
+}, {
+	"class": "GP25_Standalone"
+}, {
+	"class": "LAWBase"
+}, {
+	"class": "LAW"
+}, {
+	"class": "M203Base"
+}, {
+	"class": "M203"
+}, {
+	"class": "M203_Standalone"
+}, {
+	"class": "RPG7Base"
+}, {
+	"class": "RPG7"
+}, {
+	"class": "NonlethalCore"
+}, {
+	"class": "NonlethalPistol"
+}, {
+	"class": "NonlethalRifle"
+}, {
+	"class": "DartGun"
+}, {
+	"class": "Shockpistol_Base"
+}, {
+	"class": "Shockpistol"
+}, {
+	"class": "Shockpistol_Black"
+}, {
+	"class": "Pistol"
+}, {
+	"class": "1911Base"
+}, {
+	"class": "1911"
+}, {
+	"class": "1911_Engraved"
+}, {
+	"class": "CZ75_Base"
+}, {
+	"class": "CZ75"
+}, {
+	"class": "DE_Base"
+}, {
+	"class": "DE_Gold"
+}, {
+	"class": "Derringer_Base"
+}, {
+	"class": "Derringer_Black"
+}, {
+	"class": "Derringer_Pink"
+}, {
+	"class": "Derringer_Grey"
+}, {
+	"class": "Flaregun_Base"
+}, {
+	"class": "Flaregun"
+}, {
+	"class": "FNX_Base"
+}, {
+	"class": "FNX45"
+}, {
+	"class": "Glock_Base"
+}, {
+	"class": "Glock19"
+}, {
+	"class": "LongHorn_Base"
+}, {
+	"class": "LongHorn"
+}, {
+	"class": "magnum_Base"
+}, {
+	"class": "magnum"
+}, {
+	"class": "mkii_Base"
+}, {
+	"class": "mkii"
+}, {
+	"class": "P1_Base"
+}, {
+	"class": "P1"
+}, {
+	"class": "ij70_Base"
+}, {
+	"class": "ij70"
+}, {
+	"class": "Red9_Base"
+}, {
+	"class": "Red9"
+}, {
+	"class": "Shotgun"
+}, {
+	"class": "ShotgunIzh43Base"
+}, {
+	"class": "ShotgunIzh43"
+}, {
+	"class": "ShotgunIzh43_Sawedoff"
+}, {
+	"class": "ShotgunMp133Base"
+}, {
+	"class": "ShotgunMp133"
+}, {
+	"class": "ShotgunMp133_Pistol_Grip"
+}, {
+	"class": "ShotgunSaiga12KBase"
+}, {
+	"class": "ShotgunSaiga12K"
+}, {
+	"class": "BinocularsBase"
+}, {
+	"class": "Optics_Binoculars"
+}, {
+	"class": "Optics_Rangefinder"
+}, {
+	"class": "EN5C_Binoculars"
+}, {
+	"class": "DefaultMagazine"
+}, {
+	"class": "FakeMagazine"
+}, {
+	"class": "MagazineBase"
+}, {
+	"class": "M_FNX45_15Rnd"
+}, {
+	"class": "M_357_Speedloader"
+}, {
+	"class": "M_DE_9rnd"
+}, {
+	"class": "M_1911_7Rnd"
+}, {
+	"class": "M_CZ75_15Rnd"
+}, {
+	"class": "M_Glock_15Rnd"
+}, {
+	"class": "M_P1_8Rnd"
+}, {
+	"class": "M_IJ70_8Rnd"
+}, {
+	"class": "M_MP5_15Rnd"
+}, {
+	"class": "M_MP5_30Rnd"
+}, {
+	"class": "M_PM73_15Rnd"
+}, {
+	"class": "M_PM73_25Rnd"
+}, {
+	"class": "M_CZ61_20Rnd"
+}, {
+	"class": "M_ShockCartridge"
+}, {
+	"class": "M_22_Ruger_10Rnd"
+}, {
+	"class": "M_22_Ruger_30Rnd"
+}, {
+	"class": "M_22_mkii_10Rnd"
+}, {
+	"class": "CLIP_762_5Rnd"
+}, {
+	"class": "CLIP_762_Snaploader"
+}, {
+	"class": "CLIP_308Win_Snaploader"
+}, {
+	"class": "CLIP_762x39_10Rnd"
+}, {
+	"class": "CLIP_9mm_10Rnd"
+}, {
+	"class": "M_akm_30Rnd"
+}, {
+	"class": "M_akm_drum"
+}, {
+	"class": "M_akm_drum_Black"
+}, {
+	"class": "M_akm_drum_Green"
+}, {
+	"class": "M_akm_palm30"
+}, {
+	"class": "M_akm_palm30_black"
+}, {
+	"class": "M_akm_palm30_green"
+}, {
+	"class": "M_cz527_5rnd"
+}, {
+	"class": "M_STANAG_30Rnd"
+}, {
+	"class": "M_STANAG_30Rnd_Coupled"
+}, {
+	"class": "M_CMAG_10Rnd"
+}, {
+	"class": "M_CMAG_10Rnd_Black"
+}, {
+	"class": "M_CMAG_10Rnd_Green"
+}, {
+	"class": "M_CMAG_20Rnd"
+}, {
+	"class": "M_CMAG_20Rnd_Black"
+}, {
+	"class": "M_CMAG_20Rnd_Green"
+}, {
+	"class": "M_CMAG_30Rnd"
+}, {
+	"class": "M_CMAG_30Rnd_Black"
+}, {
+	"class": "M_CMAG_30Rnd_Green"
+}, {
+	"class": "M_CMAG_40Rnd"
+}, {
+	"class": "M_CMAG_40Rnd_Black"
+}, {
+	"class": "M_CMAG_40Rnd_Green"
+}, {
+	"class": "M_ak101_30Rnd"
+}, {
+	"class": "M_ak101_30Rnd_Black"
+}, {
+	"class": "M_ak101_30Rnd_Green"
+}, {
+	"class": "M_ak74_30Rnd"
+}, {
+	"class": "M_ak74_30Rnd_Black"
+}, {
+	"class": "M_ak74_30Rnd_Green"
+}, {
+	"class": "M_svd_10Rnd"
+}, {
+	"class": "M_Fal_20Rnd"
+}, {
+	"class": "M_Scout_5Rnd"
+}, {
+	"class": "M_UMP_25Rnd"
+}, {
+	"class": "M_Vss_10Rnd"
+}, {
+	"class": "M_M249Box_200Rnd"
+}, {
+	"class": "M_12ga_Pellets_Snaploader"
+}, {
+	"class": "M_Saiga_5Rnd"
+}, {
+	"class": "M_Saiga_8Rnd"
+}, {
+	"class": "M_SaigaDrum_20Rnd"
+}, {
+	"class": "M_Quiver_Arrows"
+}, {
+	"class": "M_Quiver_Bolts"
+}, {
+	"class": "M_dartgun_CO2"
+}, {
+	"class": "AmmunitionItemBase"
+}, {
+	"class": "Ammo_45FMJ"
+}, {
+	"class": "Ammo_308Win"
+}, {
+	"class": "Ammo_9mm"
+}, {
+	"class": "Ammo_380"
+}, {
+	"class": "Ammo_556"
+}, {
+	"class": "Ammo_762"
+}, {
+	"class": "Ammo_762_tracer"
+}, {
+	"class": "Ammo_762x39"
+}, {
+	"class": "Ammo_9x39"
+}, {
+	"class": "Ammo_22"
+}, {
+	"class": "Ammo_12ga_Pellets"
+}, {
+	"class": "Ammo_12ga_Slug"
+}, {
+	"class": "Ammo_357"
+}, {
+	"class": "Ammo_545"
+}, {
+	"class": "Arrows_Composite"
+}, {
+	"class": "Crafting_SharpStick"
+}, {
+	"class": "Arrows_Primitive"
+}, {
+	"class": "Arrows_Boned"
+}, {
+	"class": "Arrows_Bolts"
+}, {
+	"class": "Dart_Syringe"
+}, {
+	"class": "Ammo_Flare"
+}]
